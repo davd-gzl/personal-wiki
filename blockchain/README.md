@@ -1,1 +1,0 @@
-- https://gno.land/r/gnoland/blog:p/reaching-consensus#what-are-consensus-engines-really
