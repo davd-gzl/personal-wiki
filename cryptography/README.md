@@ -1,0 +1,2 @@
+- https://www.password-hashing.net/
+- https://github.com/P-H-C/phc-winner-argon2/blob/master/argon2-specs.pdf
