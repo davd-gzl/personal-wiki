@@ -3,9 +3,14 @@ cool links about random stuff i'm reading
 
 # Blockchain
 ## Gno.land
-- https://gno.land/r/gnoland/blog:p/reaching-consensus#what-are-consensus-engines-really
+- Reaching Consensus: Developing Fault-tolerant SMTs using Golang - https://gno.land/r/gnoland/blog:p/reaching-consensus
 
 # Cryptography
-- https://signal.org/blog/spqr/
-- https://www.password-hashing.net/
-- https://github.com/P-H-C/phc-winner-argon2/blob/master/argon2-specs.pdf
+
+## Algorithm
+### Argon2
+- Password Hashing Competition - https://www.password-hashing.net/
+- White Paper - https://github.com/P-H-C/phc-winner-argon2/blob/master/argon2-specs.pdf
+
+## Post-Quantum
+- Signal Protocol and Post-Quantum Ratchets - https://signal.org/blog/spqr/
