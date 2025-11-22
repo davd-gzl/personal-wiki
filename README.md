@@ -4,6 +4,8 @@ cool links about random stuff i'm reading
 # Blockchain
 ## Gno.land
 - Reaching Consensus: Developing Fault-tolerant SMTs using Golang - https://gno.land/r/gnoland/blog:p/reaching-consensus
+## Layer 2
+- Ethereum layer 2 guide - https://www.risein.com/blog/ultimate-layer-2-guide-from-l1s-to-l2s
 
 # Cryptography
 
