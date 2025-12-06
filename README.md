@@ -19,3 +19,8 @@ cool links about random stuff i'm reading
 
 ## Post-Quantum
 - Signal Protocol and Post-Quantum Ratchets - https://signal.org/blog/spqr/
+
+# Programming
+
+## Good practices
+- Linux kernel coding style - https://www.kernel.org/doc/html/v4.10/process/coding-style.html
