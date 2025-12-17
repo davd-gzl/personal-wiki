@@ -56,7 +56,6 @@ Channel ordered by languages, then preferences.
 - Drew Binsky - https://www.youtube.com/@drewbinsky
 - Ruhi Cenet Documentaries - https://www.youtube.com/@ruhicenetdocs
 - Little Chinese Everywhere - https://www.youtube.com/@littlechineseeverywhere
-- Joe Fazer - https://www.youtube.com/@JoeFazer
 
 ## 📌 Journalist
 - 🇫🇷 Charles Villa - https://www.youtube.com/@CharlesVilla
