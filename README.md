@@ -1,9 +1,10 @@
 # personal-wiki
 cool links about random stuff i'm learning
 
-TODO: add a github pages to have a cool looking wiki
-add short description for youtube channel
-add table of content
+TODO: 
+- add a github pages to have a cool looking wiki
+- add short description for youtube channel
+- add table of content
 
 # Documentations
 ## Blockchain
