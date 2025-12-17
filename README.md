@@ -104,3 +104,6 @@ FOSS I'm using in my daily life.
 - Laptop (Framework 16) - https://frame.work/laptop16
 - Split Keyboard (Halcyon Corne - splitkb.com) - https://splitkb.com/collections/keyboard-kits/products/halcyon-corne
 
+# Linux Setup
+- Distro: Arch Linux
+- Keymap: Workman INTL - https://workmanlayout.org/
