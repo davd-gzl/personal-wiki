@@ -42,31 +42,6 @@ TODO:
 ### Good practice
 - 🇫🇷 Comment la NASA code sans bug - https://youtu.be/wTZcGN4N334?si=F3-rLuPC2GxYYVO4 - V2F 
 
-# My Gear
-## Everyday carry (EDC)
-- Camera bag (Thule Covert DSLR backpack 32L) - https://www.thule.com/en-us/backpacks/camera-backpacks-bags/thule-covert-dslr-backpack-32l-_-3205344
-
-## Tech Gear
-- Framework 16 - https://frame.work/laptop16
-- Split Keyboard (Halcyon Corne - splitkb.com) - https://splitkb.com/collections/keyboard-kits/products/halcyon-corne
-
-# Free and Open Source Software (FOSS)
-FOSS I'm using in my daily life.
-
-## Android / Linux
-- Note taking (Obsidian) - https://github.com/obsidianmd
-
-## Android
-- Hardened OS (GrapheneOS) - https://github.com/GrapheneOS
-
-## Linux
-*Empty*
-
-## Self-host 
-- Immich - Photo album - https://github.com/immich-app/immich
-
-
-
 # Youtube channels
 Channel ordered by languages, then preferences.
 
@@ -103,4 +78,27 @@ Channel ordered by languages, then preferences.
 ## Podcast
 - 🇫🇷 Underscore_ - https://www.youtube.com/@Underscore_
 - 🇫🇷 LEGEND - https://www.youtube.com/@legendmedia
+
+# Free and Open Source Software (FOSS)
+FOSS I'm using in my daily life.
+
+## Android / Linux
+- Note taking (Obsidian) - https://github.com/obsidianmd
+
+## Android
+- Hardened OS (GrapheneOS) - https://github.com/GrapheneOS
+
+## Linux
+*Empty*
+
+## Self-host 
+- Immich - Photo album - https://github.com/immich-app/immich
+
+# My Gear
+## Everyday carry (EDC)
+- Camera bag (Thule Covert DSLR backpack 32L) - https://www.thule.com/en-us/backpacks/camera-backpacks-bags/thule-covert-dslr-backpack-32l-_-3205344
+
+## Tech Gear
+- Framework 16 - https://frame.work/laptop16
+- Split Keyboard (Halcyon Corne - splitkb.com) - https://splitkb.com/collections/keyboard-kits/products/halcyon-corne
 
