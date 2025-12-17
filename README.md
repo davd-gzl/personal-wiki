@@ -1,5 +1,5 @@
 # personal-wiki
-cool links about random stuff i'm learning / i'm using
+cool links about random stuff i'm reading / using 
 
 TODO: 
 - add a github pages to have a cool looking wiki
