@@ -97,8 +97,9 @@ FOSS I'm using in my daily life.
 # My Gear
 ## Everyday carry (EDC)
 - Camera bag (Thule Covert DSLR backpack 32L) - https://www.thule.com/en-us/backpacks/camera-backpacks-bags/thule-covert-dslr-backpack-32l-_-3205344
+- Headset (Sony WH-1000XM4) - https://electronics.sony.com/audio/headphones/headband/p/wh1000xm4-b
 
 ## Tech Gear
-- Framework 16 - https://frame.work/laptop16
+- Laptop (Framework 16) - https://frame.work/laptop16
 - Split Keyboard (Halcyon Corne - splitkb.com) - https://splitkb.com/collections/keyboard-kits/products/halcyon-corne
 
