@@ -37,7 +37,7 @@ cool links about random stuff i'm learning
 ### Good practice
 - 🇫🇷 Comment la NASA code sans bug - https://youtu.be/wTZcGN4N334?si=F3-rLuPC2GxYYVO4 - V2F 
 
-# Youtube channel
+# Youtube channels
 ## Tech popularization
 - V2F - https://www.youtube.com/@V2F
 - 3Blue1Brown - https://www.youtube.com/@3blue1brown
