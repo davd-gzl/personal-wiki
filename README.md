@@ -79,7 +79,7 @@ Channel ordered by languages, then preferences.
 - 🇫🇷 Underscore_ - https://www.youtube.com/@Underscore_
 - 🇫🇷 LEGEND - https://www.youtube.com/@legendmedia
 
-# Free and Open Source Software (FOSS)
+# Free and Open Source Softwares (FOSS)
 FOSS I'm using in my daily life.
 
 ## Android / Linux
@@ -94,7 +94,7 @@ FOSS I'm using in my daily life.
 ## Self-host 
 - Photo album (Immich) - https://github.com/immich-app/immich
 
-# My Gear
+# My Gears
 ## Everyday carry (EDC)
 - Camera bag (Thule Covert DSLR backpack 32L) - https://www.thule.com/en-us/backpacks/camera-backpacks-bags/thule-covert-dslr-backpack-32l-_-3205344
 - E-Ink reader (Boox palma 2) - https://shop.boox.com/products/palma2
