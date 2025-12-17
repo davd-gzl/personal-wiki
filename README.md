@@ -1,9 +1,5 @@
 # personal-wiki
-cool links about random stuff i'm reading
-
-note to myself: add a README for youtube videos (French + English)
-E.g.: https://www.youtube.com/watch?v=wTZcGN4N334
-Same for books
+cool links about random stuff i'm learning
 
 # Links
 ## Blockchain
