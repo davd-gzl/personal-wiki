@@ -2,6 +2,7 @@
 cool links about random stuff i'm learning
 
 TODO: add a github pages to have a cool looking wiki
+add short description for youtube channel
 
 # Documentations
 ## Blockchain
@@ -41,6 +42,7 @@ TODO: add a github pages to have a cool looking wiki
 
 # Youtube channels
 ## Tech popularization
-- V2F - https://www.youtube.com/@V2F
+- 🇫🇷 V2F - https://www.youtube.com/@V2F
+- 🇫🇷 overfl0w - https://www.youtube.com/@overfl-0-w
 - 3Blue1Brown - https://www.youtube.com/@3blue1brown
 - Low Level - https://www.youtube.com/@LowLevelTV
