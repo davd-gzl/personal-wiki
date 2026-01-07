@@ -11,6 +11,7 @@ TODO:
   - [Cryptography](#cryptography)
   - [Cyber-security](#cyber-security)
   - [Programming](#programming)
+- [Blogs](#blogs)
 - [Books](#books)
   - [Cryptography](#cryptography-1)
 - [Videos](#videos)
@@ -60,6 +61,9 @@ TODO:
 ## Programming
 ### Good practice
 - Linux kernel coding style - https://www.kernel.org/doc/html/v4.10/process/coding-style.html
+
+# Blogs
+- Manfred's blog - https://moul.life/blog/ - Thought-provoking essays on decentralization, blockchain technology, open-source philosophy, governance, privacy, and software design. Topics range from technical concepts to societal reflections on building resistance infrastructure and web3.
 
 # Books
 ## Cryptography
