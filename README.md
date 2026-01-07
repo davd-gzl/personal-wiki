@@ -34,7 +34,8 @@ TODO:
 - Linux kernel coding style - https://www.kernel.org/doc/html/v4.10/process/coding-style.html
 
 # Books
-*Empty*
+## Cryptography
+- "Serious Cryptography, 2nd Edition: A Practical Introduction to Modern Encryption 2nd Edition" by Jean-Philippe Aumasson - https://nostarch.com/serious-cryptography-2nd-edition
 
 # Videos
 ## Blockchain
