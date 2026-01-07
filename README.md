@@ -4,7 +4,31 @@ cool links about random stuff i'm reading / using
 TODO: 
 - add a github pages to have a cool looking wiki
 - add short description for youtube channel
-- add table of content
+
+## Table of Contents
+- [Documentations](#documentations)
+  - [Blockchain](#blockchain)
+  - [Cryptography](#cryptography)
+  - [Cyber-security](#cyber-security)
+  - [Programming](#programming)
+- [Books](#books)
+  - [Cryptography](#cryptography-1)
+- [Videos](#videos)
+  - [Blockchain](#blockchain-1)
+  - [Programming](#programming-1)
+- [Youtube channels](#youtube-channels)
+  - [📌 Tech popularization](#-tech-popularization)
+  - [📌 Travel / World documentaries](#-travel--world-documentaries)
+  - [📌 Journalist](#-journalist)
+  - [📌 Geopolitical / History](#-geopolitical--history)
+  - [Entrepreneurship](#entrepreneurship)
+  - [Engineer popularization](#engineer-popularization)
+  - [Podcast](#podcast)
+- [Free and Open Source Softwares (FOSS)](#free-and-open-source-softwares-foss)
+  - [Android / Linux](#android--linux)
+  - [Android](#android)
+  - [Linux](#linux)
+  - [Self-host](#self-host)
 
 # Documentations
 ## Blockchain
