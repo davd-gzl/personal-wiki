@@ -19,15 +19,15 @@ TODO:
 - Password Hashing Competition - https://www.password-hashing.net/
 - White Paper - https://github.com/P-H-C/phc-winner-argon2/blob/master/argon2-specs.pdf
 
-## Cyber-security
-### Hacker culture
-- Calling All Hackers - https://phrack.org/issues/71/17#article
-
 ### Math
 - Elliptic Curve Cryptography: a gentle introduction - https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/
 
 ### Post-Quantum
 - Signal Protocol and Post-Quantum Ratchets - https://signal.org/blog/spqr/
+
+## Cyber-security
+### Hacker culture
+- Calling All Hackers - https://phrack.org/issues/71/17#article
 
 ## Programming
 ### Good practice
