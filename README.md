@@ -29,6 +29,10 @@ TODO:
   - [Android](#android)
   - [Linux](#linux)
   - [Self-host](#self-host)
+- [My Gears](#my-gears)
+  - [Everyday carry (EDC)](#everyday-carry-edc)
+  - [Tech Gear](#tech-gear)
+- [Linux Setup](#linux-setup)
 
 # Documentations
 ## Blockchain
