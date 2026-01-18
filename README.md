@@ -26,8 +26,9 @@ TODO:
   - [Engineer popularization](#engineer-popularization)
   - [Podcast](#podcast)
 - [Free and Open Source Softwares (FOSS)](#free-and-open-source-softwares-foss)
-  - [Android / Linux](#android--linux)
   - [Android](#android)
+  - [Cross-platform](#cross-platform)
+  - [Development](#development)
   - [Linux](#linux)
   - [Self-host](#self-host)
 - [My Gears](#my-gears)
@@ -118,17 +119,20 @@ Channel ordered by languages, then preferences.
 # Free and Open Source Softwares (FOSS)
 FOSS I'm using in my daily life.
 
-## Android / Linux
-- Note taking (Obsidian) - https://github.com/obsidianmd
-
 ## Android
-- Hardened OS (GrapheneOS) - https://github.com/GrapheneOS
+- GrapheneOS - https://github.com/GrapheneOS - Privacy and security focused mobile OS with Android app compatibility
+
+## Cross-platform
+- Obsidian - https://github.com/obsidianmd - Markdown-based knowledge base and note-taking app
+
+## Development
+- BMAD-METHOD - https://github.com/bmad-code-org/BMAD-METHOD - AI-driven agile development framework with specialized agents and guided workflows
 
 ## Linux
 *Empty*
 
 ## Self-host 
-- Photo album (Immich) - https://github.com/immich-app/immich
+- Immich - https://github.com/immich-app/immich - High-performance self-hosted photo and video management solution
 
 # My Gears
 ## Everyday carry (EDC)
