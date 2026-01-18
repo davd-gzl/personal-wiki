@@ -38,7 +38,7 @@ TODO:
 
 # Documentations
 ## Blockchain
-### Gno.land
+### Concensus
 - Reaching Consensus: Developing Fault-tolerant SMTs using Golang - https://gno.land/r/gnoland/blog:p/reaching-consensus
 ### Layer 2
 - Ethereum layer 2 guide - https://www.risein.com/blog/ultimate-layer-2-guide-from-l1s-to-l2s
