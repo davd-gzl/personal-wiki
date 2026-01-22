@@ -3,15 +3,15 @@ Add what i did in each contributions
 
 ## whoami - resume or achievement
 
-name: David Gozlan
-educations: 
-- Diploma Master 2 IT - Epitech 2020 - 2025
-- Chung Ang University, South Korea (2023–2024)
-languages: French (native), English (fluent)
-links:
-- Email: david.gozlan@epitech.eu
-- GitHub: [Davphla](https://github.com/Davphla)
-- LinkedIn: [david-gzl](https://www.linkedin.com/in/david-gzl)
+- name: David Gozlan
+- educations: 
+  - Diploma Master 2 IT - Epitech 2020 - 2025
+  - Chung Ang University, South Korea (2023–2024)
+- languages: French (native), English (fluent)
+- links:
+  - Email: david.gozlan@epitech.eu
+  - GitHub: [Davphla](https://github.com/Davphla)
+  - LinkedIn: [david-gzl](https://www.linkedin.com/in/david-gzl)
 
 ## Experiences
 
