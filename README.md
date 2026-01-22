@@ -1,6 +1,8 @@
 # personal-wiki
 cool links about random stuff i'm reading / using 
 
+Links are ordered by language: English, French (🇫🇷), then other languages.
+
 TODO: 
 - add a github pages to have a cool looking wiki
 - add short description for youtube channel
@@ -12,6 +14,7 @@ TODO:
   - [Cyber-security](#cyber-security)
   - [Programming](#programming)
 - [Blogs](#blogs)
+  - [Decentralization / Web3 / Blockchain](#decentralization--web3--blockchain)
 - [Books](#books)
   - [Cryptography](#cryptography-1)
 - [Videos](#videos)
@@ -37,6 +40,8 @@ TODO:
 - [Linux Setup](#linux-setup)
 
 # Documentations
+Ordered by addition date.
+
 ## Blockchain
 ### Concensus
 - Reaching Consensus: Developing Fault-tolerant SMTs using Golang - https://gno.land/r/gnoland/blog:p/reaching-consensus
@@ -64,6 +69,9 @@ TODO:
 - Linux kernel coding style - https://www.kernel.org/doc/html/v4.10/process/coding-style.html
 
 # Blogs
+Ordered by preferences.
+
+## Decentralization / Web3 / Blockchain
 - Manfred's blog - https://moul.life/blog/ - Essays on decentralization, blockchain, open-source, governance, and software design
 - Rekt News - https://rekt.news/ - Analysis and investigation of DeFi hacks, exploits, and security incidents in crypto
 
@@ -72,6 +80,8 @@ TODO:
 - "Serious Cryptography, 2nd Edition: A Practical Introduction to Modern Encryption 2nd Edition" by Jean-Philippe Aumasson - https://nostarch.com/serious-cryptography-2nd-edition
 
 # Videos
+Ordered by preferences.
+
 ## Blockchain
 ### Bitcoin implementation
 - But how does bitcoin actually work? - https://youtu.be/bBC-nXj3Ng4?si=jbSueAZh5pNzhxLh - 3Blue1Brown
@@ -82,7 +92,7 @@ TODO:
 - 🇫🇷 Comment la NASA code sans bug - https://youtu.be/wTZcGN4N334?si=F3-rLuPC2GxYYVO4 - V2F 
 
 # Youtube channels
-Channel ordered by languages, then preferences.
+Ordered by preferences.
 
 ## 📌 Tech popularization
 - 3Blue1Brown - https://www.youtube.com/@3blue1brown
