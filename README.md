@@ -64,7 +64,8 @@ TODO:
 - Linux kernel coding style - https://www.kernel.org/doc/html/v4.10/process/coding-style.html
 
 # Blogs
-- Manfred's blog - https://moul.life/blog/ - Thought-provoking essays on decentralization, blockchain technology, open-source philosophy, governance, privacy, and software design. Topics range from technical concepts to societal reflections on building resistance infrastructure and web3.
+- Manfred's blog - https://moul.life/blog/ - Essays on decentralization, blockchain, open-source, governance, and software design
+- Rekt News - https://rekt.news/ - Analysis and investigation of DeFi hacks, exploits, and security incidents in crypto
 
 # Books
 ## Cryptography
