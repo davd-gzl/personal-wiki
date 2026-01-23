@@ -38,12 +38,9 @@ links:
 
 ## Open Source Contributions
 
-### Github Repository
+### Notable Repository
 - [gnolang/gno](https://github.com/gnolang/gno) ⭐1k — Interpreted Go VM for blockchain apps
-- [gnolang/supernova](https://github.com/gnolang/supernova) ⭐18 — Stress testing tool for Gno blockchain
-- [gnolang/tx-indexer](https://github.com/gnolang/tx-indexer) ⭐11 — Minimal Tendermint2 chain indexer
-- [gnoverse/gnopls](https://github.com/gnoverse/gnopls) ⭐7 — Gno Language Server
-- [gnoverse/awesome-gno](https://github.com/gnoverse/awesome-gno) ⭐61 — Curated list of Gno.land resources
+- [samouraiworld/zenao](https://github.com/samouraiworld/zenao) ⭐11 — Decentralized event management platform 
 
 ### Samourai World
 - [peerdev](https://github.com/samouraiworld/peerdev) — P2P & blockchain tutorials
