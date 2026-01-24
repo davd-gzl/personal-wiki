@@ -5,7 +5,7 @@ cool links about random stuff i'm reading / using
 
 - **[WHOAMI](WHOAMI.md)** - About me and my profile
 - **[Blog](blog/)** - Personal blog posts and writings
-- **[Awesome](awesome/)** - Curated lists of resources (digital nomad/travel tools, offline apps, etc.)
+- **[Awesome](awesome/README.md)** - Curated lists of resources (digital nomad/travel tools, offline apps, etc.)
 
 Links are ordered by language: English, French (🇫🇷), then other languages.
 
