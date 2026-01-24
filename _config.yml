@@ -1,0 +1,33 @@
+title: Personal Wiki
+description: Cool links about random stuff I'm reading / using
+theme: jekyll-theme-cayman
+
+# Exclude files from processing
+exclude:
+  - .git
+  - .github
+  - CONTRIBUTING.md
+
+# Enable plugins
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+
+# Plugin settings
+relative_links:
+  enabled: true
+  collections: true
+
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: true
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
