@@ -85,6 +85,9 @@ Ordered by preferences.
 ## Cryptography
 - "Serious Cryptography, 2nd Edition: A Practical Introduction to Modern Encryption 2nd Edition" by Jean-Philippe Aumasson - https://nostarch.com/serious-cryptography-2nd-edition
 
+# Films
+*Empty*
+
 # Videos
 Ordered by preferences.
 
