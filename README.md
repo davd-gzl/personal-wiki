@@ -1,8 +1,6 @@
 # personal-wiki
 cool links about random stuff i'm reading / using 
 
-> 🌐 **[View this wiki as a website](https://davphla.github.io/personal-wiki/)**
-
 ## Other sections
 
 - **[WHOAMI](WHOAMI.md)** - About me and my profile
@@ -12,6 +10,7 @@ cool links about random stuff i'm reading / using
 Links are ordered by language: English, French (🇫🇷), then other languages.
 
 TODO: 
+- add a github pages to have a cool looking wiki
 - add short description for youtube channel
 
 ## Table of Contents
