@@ -11,9 +11,6 @@ cool links about random stuff i'm reading / using
 
 Links are ordered by language: English, French (🇫🇷), then other languages.
 
-TODO: 
-- add a github pages to have a cool looking wiki
-
 ## Table of Contents
 - [Documentations](#documentations)
   - [Blockchain](#blockchain)
