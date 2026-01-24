@@ -3,6 +3,12 @@ cool links about random stuff i'm reading / using
 
 Links are ordered by language: English, French (🇫🇷), then other languages.
 
+## Other sections in this repo
+
+- **[WHOAMI](WHOAMI.md)** - About me and my profile
+- **[Blog](blog/)** - Personal blog posts and writings
+- **[Awesome](awesome/)** - Curated lists of resources (digital nomad/travel tools, offline apps, etc.)
+
 TODO: 
 - add a github pages to have a cool looking wiki
 - add short description for youtube channel
