@@ -11,7 +11,6 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
 
 TODO: 
 - add a github pages to have a cool looking wiki
-- add short description for youtube channel
 
 ## Table of Contents
 - [Documentations](#documentations)
@@ -103,39 +102,40 @@ Ordered by preferences.
 
 # Youtube channels
 Ordered by preferences.
+Descriptions are my personal view, visit the channels for the full picture.
 
 ## 📌 Tech popularization
-- 3Blue1Brown - https://www.youtube.com/@3blue1brown
-- Low Level - https://www.youtube.com/@LowLevelTV
-- 🇫🇷 Micode - https://www.youtube.com/@Micode
-- 🇫🇷 V2F - https://www.youtube.com/@V2F
-- 🇫🇷 overfl0w - https://www.youtube.com/@overfl-0-w
+- 3Blue1Brown - https://www.youtube.com/@3blue1brown - Animated math explanations (linear algebra, calculus, neural networks)
+- Low Level - https://www.youtube.com/@LowLevelTV - Systems programming, Rust, C, and computer internals
+- 🇫🇷 Micode - https://www.youtube.com/@Micode - Tech investigations and stories behind famous hacks
+- 🇫🇷 V2F - https://www.youtube.com/@V2F - Recreating tech from scratch (Bitcoin, compression, AI)
+- 🇫🇷 overfl0w - https://www.youtube.com/@overfl-0-w - Ethical hacking and security CTF walkthroughs
 
 ## 📌 Travel / World documentaries
-- Drew Binsky - https://www.youtube.com/@drewbinsky
-- Ruhi Cenet Documentaries - https://www.youtube.com/@ruhicenetdocs
-- Little Chinese Everywhere - https://www.youtube.com/@littlechineseeverywhere
+- Drew Binsky - https://www.youtube.com/@drewbinsky - World traveler (visited every country), cultural vlogs
+- Ruhi Cenet Documentaries - https://www.youtube.com/@ruhicenetdocs - Cinematic documentaries on extraordinary lives
+- Little Chinese Everywhere - https://www.youtube.com/@littlechineseeverywhere - Chinese diaspora stories and cultural exchanges
 
 ## 📌 Journalist
-- 🇫🇷 Charles Villa - https://www.youtube.com/@CharlesVilla
+- 🇫🇷 Charles Villa - https://www.youtube.com/@CharlesVilla - Investigative journalist and war correspondent
 
 ## 📌 Geopolitical / History
-- h0ser - https://www.youtube.com/@h0ser
-- OverSimplified - https://www.youtube.com/@OverSimplified
-- Johnny Harris - https://www.youtube.com/@johnnyharris
-- fern - https://www.youtube.com/@fern-tv
-- neo - https://www.youtube.com/@neoexplains/videos
+- h0ser - https://www.youtube.com/@h0ser - Map-based geopolitical deep dives and predictions
+- OverSimplified - https://www.youtube.com/@OverSimplified - Hilarious animated summaries of major historical events
+- Johnny Harris - https://www.youtube.com/@johnnyharris - Visual explainers on borders, maps, and global issues
+- fern - https://www.youtube.com/@fern-tv - In-depth documentaries on countries and conflicts
+- neo - https://www.youtube.com/@neoexplains/videos - Short explainers on current global events
 
 ## Entrepreneurship
-- 🇫🇷 Fuzay² - https://www.youtube.com/@FuzayAuCarre
+- 🇫🇷 Fuzay² - https://www.youtube.com/@FuzayAuCarre - Entrepreneurship insights and business stories
 
 ## Engineer popularization
-- Mark Rober - https://www.youtube.com/@MarkRober
-- HTX Studio - https://www.youtube.com/@HTXStudio
+- Mark Rober - https://www.youtube.com/@MarkRober - Ex-NASA/Apple engineer with viral science experiments
+- HTX Studio - https://www.youtube.com/@HTXStudio - Creative engineering builds and challenges
 
 ## Podcast
-- 🇫🇷 Underscore_ - https://www.youtube.com/@Underscore_
-- 🇫🇷 LEGEND - https://www.youtube.com/@legendmedia
+- 🇫🇷 Underscore_ - https://www.youtube.com/@Underscore_ - Long-form interviews with French tech figures
+- 🇫🇷 LEGEND - https://www.youtube.com/@legendmedia - Inspiring stories from athletes, artists, and entrepreneurs
 
 # Free and Open Source Softwares (FOSS)
 FOSS I'm using in my daily life.
