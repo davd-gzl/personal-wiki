@@ -3,7 +3,7 @@ description: Cool links about random stuff I'm reading / using
 remote_theme: just-the-docs/just-the-docs
 
 # Color scheme (light/dark)
-color_scheme: dark
+color_scheme: light
 
 # Enable search
 search_enabled: true
