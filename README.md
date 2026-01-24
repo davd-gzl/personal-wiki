@@ -1,5 +1,5 @@
 # personal-wiki
-cool links about random stuff i'm reading / using 
+Links about topics I'm learning.
 
 ## Other sections
 
