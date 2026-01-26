@@ -12,8 +12,15 @@ This is a personal knowledge base. **PRs are not accepted**, but I welcome resou
 ### Structure
 
 ```
-README.md          # Main wiki with categorized resources
-blog/README.md     # Personal articles (work in progress)
+README.md              # Main wiki with categorized resources
+WHOAMI.md              # About me
+blog/                  # Personal articles
+  └── travel/          # Travel stories
+awesome/               # Curated resource lists
+  ├── digital-nomad.md # Remote work & travel resources
+  └── offline-traveller.md # Offline-first apps
+skills/                # Agent skills & capabilities
+data/                  # Datasets & IPFS links
 ```
 
 ### Content Organization
