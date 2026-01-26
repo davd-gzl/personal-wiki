@@ -1,10 +1,12 @@
 # personal-wiki
 cool links about random stuff i'm reading / using 
 
-## Other sections
+## Quick access
 
 - **[WHOAMI](WHOAMI.md)** - About me and my profile
 - **[Blog](blog/README.md)** - Personal blog posts and writings
+- **[Skills](skills/README.md)** - Agent skills and capabilities
+- **[Data](data/README.md)** - Curated datasets and IPFS links (mostly geographic)
 - **[Awesome](awesome/README.md)** - Curated lists of resources
   - [Digital Nomad / Traveller](awesome/digital-nomad.md) - Flights, accommodation, community
   - [Offline Traveller](awesome/offline-traveller.md) - Apps and tools that work offline (FOSS prioritized)
