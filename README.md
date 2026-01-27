@@ -18,6 +18,7 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
   - [Blockchain](#blockchain)
   - [Cryptography](#cryptography)
   - [Cyber-security](#cyber-security)
+    - [AI / Security](#ai--security)
   - [Programming](#programming)
 - [Blogs](#blogs)
   - [Decentralization / Web3 / Blockchain](#decentralization--web3--blockchain)
@@ -70,6 +71,10 @@ Ordered by addition date.
 ## Cyber-security
 ### Hacker culture
 - Calling All Hackers - https://phrack.org/issues/71/17#article
+
+### AI / Security
+- Death by a thousand slops - https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/ - curl maintainer on AI-generated fake security reports overwhelming OSS projects
+- On AI Slop vs OSS Security - https://devansh.bearblog.dev/ai-slop/ - Bug bounty industry perspective on AI slop in vulnerability reporting and maintainer burnout
 
 ## Programming
 ### Good practice
