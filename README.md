@@ -16,10 +16,17 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
 ## Table of Contents
 - [Documentations](#documentations)
   - [Blockchain](#blockchain)
+    - [Consensus](#concensus)
+    - [Layer 2](#layer-2)
   - [Cryptography](#cryptography)
+    - [Algorithm](#algorithm)
+    - [Math](#math)
+    - [Post-Quantum](#post-quantum)
   - [Cyber-security](#cyber-security)
-    - [AI / Security](#ai--security)
+    - [Hacker culture](#hacker-culture)
+    - [AI](#ai)
   - [Programming](#programming)
+    - [Good practice](#good-practice)
 - [Blogs](#blogs)
   - [Decentralization / Web3 / Blockchain](#decentralization--web3--blockchain)
 - [Books](#books)
@@ -27,7 +34,9 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
 - [Films](#films)
 - [Videos](#videos)
   - [Blockchain](#blockchain-1)
+    - [Bitcoin implementation](#bitcoin-implementation)
   - [Programming](#programming-1)
+    - [Good practice](#good-practice-1)
 - [Youtube channels](#youtube-channels)
   - [📌 Tech popularization](#-tech-popularization)
   - [📌 Travel / World documentaries](#-travel--world-documentaries)
@@ -72,7 +81,7 @@ Ordered by addition date.
 ### Hacker culture
 - Calling All Hackers - https://phrack.org/issues/71/17#article
 
-### AI / Security
+### AI
 - Death by a thousand slops - https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/ - curl maintainer on AI-generated fake security reports overwhelming OSS projects
 - On AI Slop vs OSS Security - https://devansh.bearblog.dev/ai-slop/ - Bug bounty industry perspective on AI slop in vulnerability reporting and maintainer burnout
 
