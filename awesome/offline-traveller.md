@@ -31,6 +31,7 @@ A curated list of apps and tools that work entirely offline, with a focus on And
 
 ## Media
 
+- 🆓 [AntennaPod](https://antennapod.org/) - Podcast player with offline playback and automatic downloads
 - 🆓 [NewPipe](https://newpipe.net/) - Download YouTube videos for offline viewing (no Google account needed)
 
 ## Communication
