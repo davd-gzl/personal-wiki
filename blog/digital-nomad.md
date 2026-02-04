@@ -86,7 +86,7 @@ I'm still developping it, but the idea is:
 
 - Jobs in informatics to be digital nomad (as I'm in informatics)
 The easy way is free-lance, or full-remote company.
-A junior salary in free-lance in France can start slow at ~150/200€/day, while you can easily go over 300/400€/day when more experienced, which is over +2000€ a month for 2 days a week (which is enough in Asia for example)
+A junior salary in free-lance in France can start slow at ~150/200€/day, while you can go over 300/400€/day when more experienced, which is over the necessary for 2 days a week (which is enough in Asia for example)
 
 Find one client, work hard, get trust, and either:
 - Be stable, move relatively little (once every ~1/3 week) - 3/5 days a week of work
