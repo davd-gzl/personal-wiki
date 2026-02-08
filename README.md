@@ -62,6 +62,7 @@ Ordered by addition date.
 ## Blockchain
 ### Concensus
 - Reaching Consensus: Developing Fault-tolerant SMTs using Golang - https://gno.land/r/gnoland/blog:p/reaching-consensus
+
 ### Layer 2
 - Ethereum layer 2 guide - https://www.risein.com/blog/ultimate-layer-2-guide-from-l1s-to-l2s
 
@@ -182,4 +183,4 @@ FOSS I'm using in my daily life.
 
 # Linux Setup
 - Distro: Arch Linux
-- Keymap: Workman INTL - https://workmanlayout.org/
+- Keymap: Workman FR - https://github.com/Davphla/Workman-fr
