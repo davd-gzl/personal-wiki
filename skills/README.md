@@ -2,6 +2,6 @@
 
 A collection of skills and capabilities that define my agent's expertise.
 
-TODO:
-- documentation
-- Slidev (From what already exist) / my own slides skills (to create peerdev style video)
+## TODO
+- Documentation generation
+- Slidev (from existing content) / custom slides skills (peerdev style video)

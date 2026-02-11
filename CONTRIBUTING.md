@@ -12,15 +12,17 @@ This is a personal knowledge base. **PRs are not accepted**, but I welcome resou
 ### Structure
 
 ```
-README.md              # Main wiki with categorized resources
-WHOAMI.md              # About me
-blog/                  # Personal articles
-  └── travel/          # Travel stories
-awesome/               # Curated resource lists
-  ├── digital-nomad.md # Remote work & travel resources
+README.md                # Main wiki with categorized resources
+WHOAMI.md                # About me
+CONTRIBUTING.md          # This file
+awesome/                 # Curated resource lists
+  ├── digital-nomad.md   # Remote work & travel resources
   └── offline-traveller.md # Offline-first apps
-skills/                # Agent skills & capabilities
-data/                  # Datasets & IPFS links
+blog/                    # Personal articles
+  └── travel/            # Travel stories
+data/                    # Datasets & IPFS links
+skills/                  # Agent skills & capabilities
+  └── README.md          # Skills documentation + Copilot instructions
 ```
 
 ### Content Organization
@@ -40,11 +42,14 @@ Content in languages other than English uses flag emoji:
 ```
 
 #### Section Hierarchy
-- `#` = Main categories (Documentations, Blogs, Videos, etc.)
+- `#` = Main categories (Blogs, Books, Documentations, Films, FOSS, Games, etc.)
 - `##` = Subcategories (Blockchain, Cryptography, Programming)
 - `###` = Specific topics (Consensus, Layer 2, Argon2)
 
 ### Ordering Rules
+
+#### Global
+All main sections (`#`) and subsections (`##`, `###`) are in **alphabetical order**.
 
 #### By Language
 Within each section, entries are ordered:
@@ -53,10 +58,9 @@ Within each section, entries are ordered:
 3. Other languages
 
 #### By Section Type
-Different sections use different ordering:
 - **Documentations**: By addition date (newest last)
 - **Blogs, Videos, Youtube channels**: By preference
-- **FOSS**: Categories alphabetically, entries by preference
+- **FOSS**: Alphabetically
 
 ### Table of Contents
 
@@ -71,20 +75,24 @@ The README has a **manual** Table of Contents that must be updated when sections
 
 ### Content Categories
 
-- **Documentations**: Technical documentation, tutorials, whitepapers, guides
-- **Blogs**: Personal blogs and ongoing content series, organized by theme
+- **Blogs**: Ongoing blog websites you follow (recurring content sources)
 - **Books**: Book recommendations with links to purchase/info pages
+- **Documentations**: Individual articles, guides, whitepapers, tutorials (one-off reads)
+- **Films**: Film recommendations
+- **FOSS**: Open source software projects (GitHub or repository links)
+- **Games**: Web games and interactive tools
+- **Linux Setup**: Personal system configuration and preferences
+- **My Gears**: Physical products I use (with product page links)
 - **Videos**: Individual educational/informative videos (include creator)
 - **Youtube channels**: Channel links, organized by content type/topic
-- **FOSS**: Open source software projects (GitHub or repository links)
-- **My Gears**: Physical products I use (with product page links)
-- **Linux Setup**: Personal system configuration and preferences
 
 ### Adding New Content (For AI Assistants)
 
 1. Determine the appropriate category
 2. Use the standard entry format with a concise description
 3. For new URLs, fetch the webpage to write an accurate description
-4. Place entry respecting language and section-specific ordering
+4. Place entry respecting alphabetical order and language ordering
 5. If creating a new section, update the Table of Contents with correct anchor
-6. Keep FOSS categories in alphabetical order
+6. Keep all sections in alphabetical order
+
+> **Note**: Copilot instructions for working with this wiki are in [`.github/copilot-instructions.md`](.github/copilot-instructions.md).
