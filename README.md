@@ -136,7 +136,7 @@ FOSS I'm using in my daily life.
 
 # Linux Setup
 - Distro: Arch Linux
-- Keymap: Workman FR - https://github.com/Davphla/Workman-fr
+- Keymap: Workman FR - https://github.com/davd-gzl/Workman-fr
 
 # My Gears
 ## Everyday carry (EDC)

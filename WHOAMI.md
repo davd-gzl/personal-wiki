@@ -10,7 +10,7 @@ Add what i did in each contributions
 - languages: French (native), English (fluent)
 - links:
   - Email: david.gozlan@epitech.eu
-  - GitHub: [Davphla](https://github.com/Davphla)
+  - GitHub: [davd-gzl](https://github.com/davd-gzl)
   - LinkedIn: [david-gzl](https://www.linkedin.com/in/david-gzl)
 
 ## Experiences
@@ -23,15 +23,15 @@ Add what i did in each contributions
 **Pedagogical Assistant** - 5th year internship - Epitech *(march 2025-august 2025)*
 - Mentored 1st/2nd/3rd year CS students on projects and grading
 - [AER-Lyon/corewar-hackathon](https://github.com/AER-Lyon/corewar-hackathon) ⭐6 — Epitech Corewar Hackathon 🏆
-- [corewar-vscode-extension](https://github.com/Davphla/corewar-vscode-extension) — Redcode VS Code extension
-- [clang-format-epitech](https://github.com/Davphla/clang-format-epitech) ⭐~30 — C/C++ auto-formatting for Epitech style
+- [corewar-vscode-extension](https://github.com/davd-gzl/corewar-vscode-extension) — Redcode VS Code extension
+- [clang-format-epitech](https://github.com/davd-gzl/clang-format-epitech) ⭐~30 — C/C++ auto-formatting for Epitech style
 
 **Teaching Assistant** - part time internship - Epitech *(2021–2023)*
 - Mentored 1st/2nd/3rd year CS students on projects and grading
 
 **OCaml Library Developer** — 3rd year internship - ENS LIP, Inria *(2023)*
 - Start a contribution to parallelization library for distributed programming
-- [RPC-Ocaml](https://github.com/Davphla/RPC-Ocaml) — RPC module implementation for OCaml
+- [RPC-Ocaml](https://github.com/davd-gzl/RPC-Ocaml) — RPC module implementation for OCaml
 
 **Web Developer Intern** - 2nd year internship - Dafy Moto *(2022)*
 - PHP/Symfony fullstack, automated testing, GitHub Actions
@@ -48,17 +48,17 @@ Add what i did in each contributions
 - [samouraiworld/zenao](https://github.com/samouraiworld/zenao) ⭐11 — Decentralized event management platform 
 
 ### Personal Projects
-- [clang-format-epitech](https://github.com/Davphla/clang-format-epitech) ⭐~30 — Auto-formatting config for Epitech C/C++ coding style
-- [awesome-epitech](https://github.com/Davphla/awesome-epitech) ⭐~20 — Curated list of Epitech resources
+- [clang-format-epitech](https://github.com/davd-gzl/clang-format-epitech) ⭐~30 — Auto-formatting config for Epitech C/C++ coding style
+- [awesome-epitech](https://github.com/davd-gzl/awesome-epitech) ⭐~20 — Curated list of Epitech resources
 
 ## School Projects
-- [my_rpg](https://github.com/Davphla/my_rpg) ⭐6 — Full RPG game engine in C with JSON parser 🏆
-- [GlaDOS](https://github.com/Davphla/GlaDOS) — Simplified Haskell compiler
-- [Corewar](https://github.com/Davphla/Corewar) ⭐3 — RedCode compiler & VM with ncurses arena 🏆
-- [my_runner](https://github.com/Davphla/my_runner) ⭐7 — Geometry Dash recreation in C
-- [Minilibc](https://github.com/Davphla/Minilibc) — Standard C library in x86 ASM
-- [nm-objdump](https://github.com/Davphla/nm-objdump) — Recreation of nm and objdump commands
-- [ftrace](https://github.com/Davphla/ftrace) — Function call tracer using ptrace
-- [my_ftp](https://github.com/Davphla/my_ftp) — FTP server implementation
-- [Image-compressor](https://github.com/Davphla/Image-compressor) — K-means clustering in Haskell
-- [Antman](https://github.com/Davphla/Antman) — Lossless file compression algorithm
+- [my_rpg](https://github.com/davd-gzl/my_rpg) ⭐6 — Full RPG game engine in C with JSON parser 🏆
+- [GlaDOS](https://github.com/davd-gzl/GlaDOS) — Simplified Haskell compiler
+- [Corewar](https://github.com/davd-gzl/Corewar) ⭐3 — RedCode compiler & VM with ncurses arena 🏆
+- [my_runner](https://github.com/davd-gzl/my_runner) ⭐7 — Geometry Dash recreation in C
+- [Minilibc](https://github.com/davd-gzl/Minilibc) — Standard C library in x86 ASM
+- [nm-objdump](https://github.com/davd-gzl/nm-objdump) — Recreation of nm and objdump commands
+- [ftrace](https://github.com/davd-gzl/ftrace) — Function call tracer using ptrace
+- [my_ftp](https://github.com/davd-gzl/my_ftp) — FTP server implementation
+- [Image-compressor](https://github.com/davd-gzl/Image-compressor) — K-means clustering in Haskell
+- [Antman](https://github.com/davd-gzl/Antman) — Lossless file compression algorithm
