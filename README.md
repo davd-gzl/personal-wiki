@@ -132,7 +132,9 @@ FOSS I'm using in my daily life.
 
 ## Geography
 - FoodGuessr - https://www.foodguessr.com/ - Guess countries from dishes
+- Geomastr - https://geomastr.com/bollards/ - Visual guide to country-specific bollards and road clues for GeoGuessr training
 - OpenGuessr - https://openguessr.com/ - Free open-source GeoGuessr alternative
+- OpenGuessr Education - https://education.openguessr.com/quiz - Interactive geography quizzes to practice country locations, flags, and landmarks
 
 # Linux Setup
 - Distro: Arch Linux
