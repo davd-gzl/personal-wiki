@@ -101,6 +101,7 @@ Ordered by addition date.
 - Calling All Hackers - https://phrack.org/issues/71/17#article
 
 ## Geography
+- Geomastr - https://geomastr.com/bollards/ - Visual guide to country-specific bollards and road clues for GeoGuessr training
 - OpenGuessr Education - https://education.openguessr.com/quiz - Geography quizzes and learning resources
 
 ## Programming
@@ -132,9 +133,7 @@ FOSS I'm using in my daily life.
 
 ## Geography
 - FoodGuessr - https://www.foodguessr.com/ - Guess countries from dishes
-- Geomastr - https://geomastr.com/bollards/ - Visual guide to country-specific bollards and road clues for GeoGuessr training
 - OpenGuessr - https://openguessr.com/ - Free open-source GeoGuessr alternative
-- OpenGuessr Education - https://education.openguessr.com/quiz - Interactive geography quizzes to practice country locations, flags, and landmarks
 
 # Linux Setup
 - Distro: Arch Linux
