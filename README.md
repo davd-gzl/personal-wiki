@@ -101,7 +101,7 @@ Ordered by addition date.
 - Calling All Hackers - https://phrack.org/issues/71/17#article
 
 ## Geography
-- Geomastr - https://geomastr.com/bollards/ - Visual guide to country-specific bollards and road clues for GeoGuessr training
+- Geomastr - https://geomastr.com/ - Visual guide to country-specific bollards and road clues for GeoGuessr training
 - OpenGuessr Education - https://education.openguessr.com/quiz - Geography quizzes and learning resources
 
 ## Programming
