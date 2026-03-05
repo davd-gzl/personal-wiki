@@ -105,6 +105,9 @@ Ordered by addition date.
 - OpenGuessr Education Guides - https://education.openguessr.com/guides - Country-specific guides with visual clues and tips for OpenGuessr
 - Geometas - https://geometas.com/ - Interactive quizzes and visual metas for country identification in geography games
 - Plonk It - https://www.plonkit.net/ - Country guides, tips, and map recommendations for GeoGuessr players
+- GeoHints - https://geohints.com/ - Country-specific hints and Street View coverage maps for GeoGuessr training
+- geo.emily.bz - https://geo.emily.bz/ - Interactive geography quizzes and GeoGuessr tools including coverage date explorer and map quizzes
+- GeoGuessr Meta Library - https://docs.google.com/spreadsheets/d/1UNvkoY-LaktF75nU_cP7-wVRAEvH3fSqVZet20HqxXA/edit?gid=1829787855#gid=1829787855 - Community-curated meta library with country-specific clues, road signs, and visual identification tips
 
 ## Programming
 ### Good practice
