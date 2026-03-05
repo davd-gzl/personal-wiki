@@ -104,6 +104,7 @@ Ordered by addition date.
 - Geomastr - https://geomastr.com/ - Visual guide to country-specific bollards and road clues for GeoGuessr training
 - OpenGuessr Education Guides - https://education.openguessr.com/guides - Country-specific guides with visual clues and tips for OpenGuessr
 - Geometas - https://geometas.com/ - Interactive quizzes and visual metas for country identification in geography games
+- Plonk It - https://www.plonkit.net/ - Country guides, tips, and map recommendations for GeoGuessr players
 
 ## Programming
 ### Good practice
