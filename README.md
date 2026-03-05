@@ -103,6 +103,8 @@ Ordered by addition date.
 ## Geography
 - Geomastr - https://geomastr.com/ - Visual guide to country-specific bollards and road clues for GeoGuessr training
 - OpenGuessr Education - https://education.openguessr.com/quiz - Geography quizzes and learning resources
+- OpenGuessr Education Guides - https://education.openguessr.com/guides - Country-specific guides with visual clues and tips for GeoGuessr and OpenGuessr
+- Geometas - https://geometas.com/ - Interactive quizzes and visual metas for country identification in geography games
 
 ## Programming
 ### Good practice
