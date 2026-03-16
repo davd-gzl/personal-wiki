@@ -142,6 +142,7 @@ FOSS I'm using in my daily life.
 
 # Linux Setup
 - Distro: Arch Linux
+- Dotfiles: https://github.com/davd-gzl/dotfiles - Arch Linux config: sway + wofi + mako
 - Keymap: Workman FR - https://github.com/davd-gzl/Workman-fr
 
 # My Gears
