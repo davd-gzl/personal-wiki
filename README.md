@@ -50,6 +50,7 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
     - [Bitcoin implementation](#bitcoin-implementation)
   - [Programming](#programming-1)
     - [Good practice](#good-practice-1)
+  - [Urbanism](#urbanism)
 - [Youtube channels](#youtube-channels)
   - [📌 Geopolitical / History](#-geopolitical--history)
   - [📌 Journalist](#-journalist)
@@ -166,6 +167,9 @@ Ordered by preferences.
 ## Programming
 ### Good practice
 - 🇫🇷 Comment la NASA code sans bug - https://youtu.be/wTZcGN4N334?si=F3-rLuPC2GxYYVO4 - V2F 
+
+## Urbanism
+- Every Reason to Hate Cars - https://www.youtube.com/watch?v=umgi-CbaSRU - Not Just Bikes
 
 # Youtube channels
 Ordered by preferences.
