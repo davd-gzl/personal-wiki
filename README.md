@@ -46,10 +46,15 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
   - [Everyday carry (EDC)](#everyday-carry-edc)
   - [Tech Gear](#tech-gear)
 - [Videos](#videos)
+  - [AI](#ai)
   - [Blockchain](#blockchain-1)
     - [Bitcoin implementation](#bitcoin-implementation)
+  - [Geopolitical / History](#geopolitical--history)
   - [Programming](#programming-1)
     - [Good practice](#good-practice-1)
+    - [Operating Systems](#operating-systems)
+  - [Science](#science)
+  - [Travel / World documentaries](#travel--world-documentaries)
   - [Urbanism](#urbanism)
 - [Youtube channels](#youtube-channels)
   - [📌 Geopolitical / History](#-geopolitical--history)
@@ -59,6 +64,7 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
   - [Engineer popularization](#engineer-popularization)
   - [Entrepreneurship](#entrepreneurship)
   - [Podcast](#podcast)
+  - [Urbanism](#urbanism-1)
 
 # Blogs
 Ordered by preferences.
@@ -159,17 +165,45 @@ FOSS I'm using in my daily life.
 # Videos
 Ordered by preferences.
 
+## AI
+- Bernie vs. Claude - https://www.youtube.com/watch?v=h3AtWdeu_G0 - Senator Bernie Sanders
+
 ## Blockchain
 ### Bitcoin implementation
 - But how does bitcoin actually work? - https://youtu.be/bBC-nXj3Ng4?si=jbSueAZh5pNzhxLh - 3Blue1Brown
 - 🇫🇷 viens, on recode Bitcoin pour le comprendre - https://youtu.be/U4S-RGNyTJA?si=l4pTR81EWcXqk-Y9 - V2F
 
+## Geopolitical / History
+- How Empires Fall and Why the US is Next - https://www.youtube.com/watch?v=EgUE0mA0Fis - uncivilized
+- GREECE IS OVER. - https://www.youtube.com/watch?v=yO60Ala2Uio - hoser
+- Why Taiwan Makes All The Chips That Go Beep Boop - https://www.youtube.com/watch?v=pPo-wNB5his - hoser
+- The Shady Company That's Taken Over The USA - https://www.youtube.com/watch?v=ZvC_QLrBfUM - hoser
+- The New "Made in China" - https://www.youtube.com/watch?v=It1xr6FQcAo - hoser
+- The Indian Genius Nobody Understands - https://www.youtube.com/watch?v=fHRS_NOs24w - fern
+- 🇫🇷 Lee Kuan Yew : Le Meilleur Dictateur de l'Histoire - https://www.youtube.com/watch?v=r27u5T97S7I - Crésus
+
 ## Programming
 ### Good practice
 - 🇫🇷 Comment la NASA code sans bug - https://youtu.be/wTZcGN4N334?si=F3-rLuPC2GxYYVO4 - V2F 
 
+### Operating Systems
+- 🇫🇷 Vas-y, viens, on recode Windows de zéro - https://www.youtube.com/watch?v=ELTwwTsR5w8 - V2F
+
+## Science
+- 🇫🇷 La menace existentielle de la vie MIROIR | ЯIOЯIM - https://www.youtube.com/watch?v=iVPNzCHJlQI - DirtyBiology
+- 🇫🇷 L'actualité est un parasite mental. Faut-il vraiment en consommer ? - https://www.youtube.com/watch?v=HJOpzABZVpo - DirtyBiology
+- 🇫🇷 Ce qui nous rend heureux : le résultat de 10.000 études scientifiques - https://www.youtube.com/watch?v=LbJ8V8y4ruk - DirtyBiology
+
+## Travel / World documentaries
+- I Spent 5 Weeks in IRAN. Here's What I Learned! - https://www.youtube.com/watch?v=yvLypBQrybg - Drew Binsky
+- The Coldest Village on Earth: Oymyakon (-71°C, -96°F) - https://www.youtube.com/watch?v=2C8zYFArnKY - Ruhi Cenet Documentaries
+- Visiting the Most Crowded Island on Earth (I can't forget what I saw) - https://www.youtube.com/watch?v=LgQxzYQP4as - Ruhi Cenet Documentaries
+- 🇫🇷 100H dans un lac radioactif créé par une bombe nucléaire ! - https://www.youtube.com/watch?v=JDuN5FJCJDw - CYRILmp4
+- 🇫🇷 2€ dans la ville la MOINS CHÈRE du MONDE ! - https://www.youtube.com/watch?v=Tv_sy_hPNws - CYRILmp4
+
 ## Urbanism
 - Every Reason to Hate Cars - https://www.youtube.com/watch?v=umgi-CbaSRU - Not Just Bikes
+- The Absolute Best Transportation for Cities (trams) - https://www.youtube.com/watch?v=bNTg9EX7MLw - Not Just Bikes
 
 # Youtube channels
 Ordered by preferences.
@@ -207,3 +241,6 @@ Descriptions are my personal view, visit the channels for the full picture.
 ## Podcast
 - 🇫🇷 Underscore_ - https://www.youtube.com/@Underscore_ - Long-form interviews with French tech figures
 - 🇫🇷 LEGEND - https://www.youtube.com/@legendmedia - Inspiring stories from athletes, artists, and entrepreneurs
+
+## Urbanism
+- Not Just Bikes - https://www.youtube.com/@NotJustBikes - Urban planning, cycling infrastructure, and why car-dependent cities fail
