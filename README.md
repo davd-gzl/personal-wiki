@@ -190,8 +190,8 @@ Ordered by preferences.
 - 🇫🇷 Vas-y, viens, on recode Windows de zéro - https://www.youtube.com/watch?v=ELTwwTsR5w8 - V2F
 
 ## Science
-- 🇫🇷 La menace existentielle de la vie MIROIR | ЯIOЯIM - https://www.youtube.com/watch?v=iVPNzCHJlQI - DirtyBiology
 - 🇫🇷 L'actualité est un parasite mental. Faut-il vraiment en consommer ? - https://www.youtube.com/watch?v=HJOpzABZVpo - DirtyBiology
+- 🇫🇷 La menace existentielle de la vie MIROIR | ЯIOЯIM - https://www.youtube.com/watch?v=iVPNzCHJlQI - DirtyBiology
 - 🇫🇷 Ce qui nous rend heureux : le résultat de 10.000 études scientifiques - https://www.youtube.com/watch?v=LbJ8V8y4ruk - DirtyBiology
 
 ## Travel / World documentaries
