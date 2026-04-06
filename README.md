@@ -64,6 +64,7 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
   - [Engineer popularization](#engineer-popularization)
   - [Entrepreneurship](#entrepreneurship)
   - [Podcast](#podcast)
+  - [Urbanism](#urbanism-1)
 
 # Blogs
 Ordered by preferences.
@@ -240,3 +241,6 @@ Descriptions are my personal view, visit the channels for the full picture.
 ## Podcast
 - 🇫🇷 Underscore_ - https://www.youtube.com/@Underscore_ - Long-form interviews with French tech figures
 - 🇫🇷 LEGEND - https://www.youtube.com/@legendmedia - Inspiring stories from athletes, artists, and entrepreneurs
+
+## Urbanism
+- Not Just Bikes - https://www.youtube.com/@NotJustBikes - Urban planning, cycling infrastructure, and why car-dependent cities fail
