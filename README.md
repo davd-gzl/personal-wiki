@@ -170,10 +170,11 @@ Ordered by preferences.
 - 🇫🇷 Comment la NASA code sans bug - https://youtu.be/wTZcGN4N334?si=F3-rLuPC2GxYYVO4 - V2F 
 
 ### Operating Systems
-- 🇫🇷 Vas-y, viens, on recode Windows de zéro - https://www.youtube.com/watch?v=bNTg9EX7MLw - V2F
+- 🇫🇷 Vas-y, viens, on recode Windows de zéro - https://www.youtube.com/watch?v=ELTwwTsR5w8 - V2F
 
 ## Urbanism
 - Every Reason to Hate Cars - https://www.youtube.com/watch?v=umgi-CbaSRU - Not Just Bikes
+- The Absolute Best Transportation for Cities (trams) - https://www.youtube.com/watch?v=bNTg9EX7MLw - Not Just Bikes
 
 # Youtube channels
 Ordered by preferences.
