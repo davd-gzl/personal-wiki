@@ -204,6 +204,7 @@ Ordered by preferences.
 ## Urbanism
 - Every Reason to Hate Cars - https://www.youtube.com/watch?v=umgi-CbaSRU - Not Just Bikes
 - The Absolute Best Transportation for Cities (trams) - https://www.youtube.com/watch?v=bNTg9EX7MLw - Not Just Bikes
+- These Stupid Trucks are Literally Killing Us - https://www.youtube.com/watch?v=jN7mSXMruEo - Not Just Bikes
 
 # Youtube channels
 Ordered by preferences.
