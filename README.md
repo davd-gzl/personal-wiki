@@ -175,8 +175,8 @@ Ordered by preferences.
 - 🇫🇷 viens, on recode Bitcoin pour le comprendre - https://youtu.be/U4S-RGNyTJA?si=l4pTR81EWcXqk-Y9 - V2F
 
 ## Entrepreneurship
-- 🇫🇷 PARTI DE RIEN, IL EST DANS LE TOP 3 DES FORTUNES BELGES : SA BOITE VAUT 5 MILLIARDS DE $ ! (ODOO) - https://www.youtube.com/watch?v=c_QcUxvOhaM - LEGEND
-- 🇫🇷 Ce logiciel devrait être payant (tellement il est ouf) - https://www.youtube.com/watch?v=_NK-AbwA3PM - Underscore_
+- 🇫🇷 PARTI DE RIEN, IL EST DANS LE TOP 3 DES FORTUNES BELGES : SA BOITE VAUT 5 MILLIARDS DE $ ! (ODOO) - https://www.youtube.com/watch?v=c_QcUxvOhaM - LEGEND - Story of Fabien Pinckaers, who built Odoo (open-source ERP) from nothing into a $5B company
+- 🇫🇷 Ce logiciel devrait être payant (tellement il est ouf) - https://www.youtube.com/watch?v=_NK-AbwA3PM - Underscore_ - Interview with an open-source software entrepreneur behind an exceptional free product
 
 ## Geopolitical / History
 - How Empires Fall and Why the US is Next - https://www.youtube.com/watch?v=EgUE0mA0Fis - uncivilized
