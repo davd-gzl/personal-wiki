@@ -49,6 +49,7 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
   - [AI](#ai)
   - [Blockchain](#blockchain-1)
     - [Bitcoin implementation](#bitcoin-implementation)
+  - [Entrepreneurship](#entrepreneurship)
   - [Geopolitical / History](#geopolitical--history)
   - [Programming](#programming-1)
     - [Good practice](#good-practice-1)
@@ -62,7 +63,7 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
   - [📌 Tech popularization](#-tech-popularization)
   - [📌 Travel / World documentaries](#-travel--world-documentaries)
   - [Engineer popularization](#engineer-popularization)
-  - [Entrepreneurship](#entrepreneurship)
+  - [Entrepreneurship](#entrepreneurship-1)
   - [Podcast](#podcast)
   - [Urbanism](#urbanism-1)
 
@@ -173,6 +174,10 @@ Ordered by preferences.
 - But how does bitcoin actually work? - https://youtu.be/bBC-nXj3Ng4?si=jbSueAZh5pNzhxLh - 3Blue1Brown
 - 🇫🇷 viens, on recode Bitcoin pour le comprendre - https://youtu.be/U4S-RGNyTJA?si=l4pTR81EWcXqk-Y9 - V2F
 
+## Entrepreneurship
+- 🇫🇷 PARTI DE RIEN, IL EST DANS LE TOP 3 DES FORTUNES BELGES : SA BOITE VAUT 5 MILLIARDS DE $ ! (ODOO) - https://www.youtube.com/watch?v=c_QcUxvOhaM - LEGEND
+- 🇫🇷 Ce logiciel devrait être payant (tellement il est ouf) - https://www.youtube.com/watch?v=_NK-AbwA3PM - Underscore_
+
 ## Geopolitical / History
 - How Empires Fall and Why the US is Next - https://www.youtube.com/watch?v=EgUE0mA0Fis - uncivilized
 - GREECE IS OVER. - https://www.youtube.com/watch?v=yO60Ala2Uio - hoser
@@ -198,6 +203,11 @@ Ordered by preferences.
 - I Spent 5 Weeks in IRAN. Here's What I Learned! - https://www.youtube.com/watch?v=yvLypBQrybg - Drew Binsky
 - The Coldest Village on Earth: Oymyakon (-71°C, -96°F) - https://www.youtube.com/watch?v=2C8zYFArnKY - Ruhi Cenet Documentaries
 - Visiting the Most Crowded Island on Earth (I can't forget what I saw) - https://www.youtube.com/watch?v=LgQxzYQP4as - Ruhi Cenet Documentaries
+- Entering Bangladesh | World's Deadliest Traffic - https://www.youtube.com/watch?v=CIy9wAkQvr8 - Drew Binsky
+- I Spent 3 Days With World's Last Hunter-Gatherer Tribe - https://www.youtube.com/watch?v=QNQNhPC4Jvw - Drew Binsky
+- I Visited Every Country in Europe. Here's My Rankings - https://www.youtube.com/watch?v=6PIbdDDtugk - Drew Binsky
+- Entering the World's Largest City (Chongqing, China) - https://www.youtube.com/watch?v=vNR9QjmhH00 - Drew Binsky
+- $100 Challenge in World's Cheapest Country (Uzbekistan) - https://www.youtube.com/watch?v=H1tOACQUt5g - Drew Binsky
 - 🇫🇷 100H dans un lac radioactif créé par une bombe nucléaire ! - https://www.youtube.com/watch?v=JDuN5FJCJDw - CYRILmp4
 - 🇫🇷 2€ dans la ville la MOINS CHÈRE du MONDE ! - https://www.youtube.com/watch?v=Tv_sy_hPNws - CYRILmp4
 
@@ -205,6 +215,10 @@ Ordered by preferences.
 - Every Reason to Hate Cars - https://www.youtube.com/watch?v=umgi-CbaSRU - Not Just Bikes
 - The Absolute Best Transportation for Cities (trams) - https://www.youtube.com/watch?v=bNTg9EX7MLw - Not Just Bikes
 - These Stupid Trucks are Literally Killing Us - https://www.youtube.com/watch?v=jN7mSXMruEo - Not Just Bikes
+- Why Dutch Bikes are Better (and why you should want one) - https://www.youtube.com/watch?v=aESqrP3hfi8 - Not Just Bikes
+- Cities Aren't Loud: Cars Are Loud - https://www.youtube.com/watch?v=CTV-wwszGw8 - Not Just Bikes
+- How Self-Driving Cars will Destroy Cities (and what to do about it) - https://www.youtube.com/watch?v=040ejWnFkj0 - Not Just Bikes
+- More Lanes are (Still) a Bad Thing (Induced Demand) - https://www.youtube.com/watch?v=CHZwOAIect4 - Not Just Bikes
 
 # Youtube channels
 Ordered by preferences.
