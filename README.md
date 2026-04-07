@@ -49,7 +49,7 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
   - [AI](#ai)
   - [Blockchain](#blockchain-1)
     - [Bitcoin implementation](#bitcoin-implementation)
-  - [Entrepreneurship](#entrepreneurship)
+  - [Open Source Interviews](#open-source-interviews)
   - [Geopolitical / History](#geopolitical--history)
   - [Programming](#programming-1)
     - [Good practice](#good-practice-1)
@@ -63,7 +63,7 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
   - [📌 Tech popularization](#-tech-popularization)
   - [📌 Travel / World documentaries](#-travel--world-documentaries)
   - [Engineer popularization](#engineer-popularization)
-  - [Entrepreneurship](#entrepreneurship-1)
+  - [Entrepreneurship](#entrepreneurship)
   - [Podcast](#podcast)
   - [Urbanism](#urbanism-1)
 
@@ -174,7 +174,7 @@ Ordered by preferences.
 - But how does bitcoin actually work? - https://youtu.be/bBC-nXj3Ng4?si=jbSueAZh5pNzhxLh - 3Blue1Brown
 - 🇫🇷 viens, on recode Bitcoin pour le comprendre - https://youtu.be/U4S-RGNyTJA?si=l4pTR81EWcXqk-Y9 - V2F
 
-## Entrepreneurship
+## Open Source Interviews
 - 🇫🇷 PARTI DE RIEN, IL EST DANS LE TOP 3 DES FORTUNES BELGES : SA BOITE VAUT 5 MILLIARDS DE $ ! (ODOO) - https://www.youtube.com/watch?v=c_QcUxvOhaM - LEGEND - Story of Fabien Pinckaers, who built Odoo (open-source ERP) from nothing into a $5B company
 - 🇫🇷 Ce logiciel devrait être payant (tellement il est ouf) - https://www.youtube.com/watch?v=_NK-AbwA3PM - Underscore_ - Interview with an open-source software entrepreneur behind an exceptional free product
 
