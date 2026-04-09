@@ -49,6 +49,7 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
   - [AI](#ai)
   - [Blockchain](#blockchain-1)
     - [Bitcoin implementation](#bitcoin-implementation)
+  - [Cyber-security](#cyber-security-1)
   - [Open Source Interviews](#open-source-interviews)
   - [Geopolitical / History](#geopolitical--history)
   - [Programming](#programming-1)
@@ -168,11 +169,18 @@ Ordered by preferences.
 
 ## AI
 - Bernie vs. Claude - https://www.youtube.com/watch?v=h3AtWdeu_G0 - Senator Bernie Sanders
+- The existential horror of the paperclip factory. - https://www.youtube.com/watch?v=ZP7T6WAK3Ow - EGO
+- But how do AI images and videos actually work? - https://www.youtube.com/watch?v=iv-5mZ_9CPY - 3Blue1Brown
 
 ## Blockchain
 ### Bitcoin implementation
 - But how does bitcoin actually work? - https://youtu.be/bBC-nXj3Ng4?si=jbSueAZh5pNzhxLh - 3Blue1Brown
 - 🇫🇷 viens, on recode Bitcoin pour le comprendre - https://youtu.be/U4S-RGNyTJA?si=l4pTR81EWcXqk-Y9 - V2F
+
+## Cyber-security
+- How to protect yourself from data leaks (before it's too late) - https://www.youtube.com/watch?v=KkEMzsZG06Q - Christophe Boutry
+- 🇫🇷 How to bribe a public official? - https://www.youtube.com/watch?v=mKGFsDbvBsA - Micode
+- 🇫🇷 Comment un selfie a fait tomber un empire criminel - https://www.youtube.com/watch?v=Vj4474vTtQ8 - Micode
 
 ## Open Source Interviews
 - 🇫🇷 PARTI DE RIEN, IL EST DANS LE TOP 3 DES FORTUNES BELGES : SA BOITE VAUT 5 MILLIARDS DE $ ! (ODOO) - https://www.youtube.com/watch?v=c_QcUxvOhaM - LEGEND - Story of Fabien Pinckaers, who built Odoo (open-source ERP) from nothing into a $5B company
@@ -185,7 +193,16 @@ Ordered by preferences.
 - The Shady Company That's Taken Over The USA - https://www.youtube.com/watch?v=ZvC_QLrBfUM - hoser
 - The New "Made in China" - https://www.youtube.com/watch?v=It1xr6FQcAo - hoser
 - The Indian Genius Nobody Understands - https://www.youtube.com/watch?v=fHRS_NOs24w - fern
+- Gold Explained, Finally - https://www.youtube.com/watch?v=JMObz0Dgq7M - Johnny Harris
+- Why is Indonesia Muslim? - https://www.youtube.com/watch?v=ca7YwYbhcx4 - ARTE
+- Illegal migrants: the most dangerous routes to Europe - https://www.youtube.com/watch?v=9JggKtbnBCY - DW Documentary
+- By Far, The Biggest Scandal In World History - https://www.youtube.com/watch?v=qZ8t1dfUHHY - RealLifeLore
+- I Went to Georgia to See Russia's Silent Invasion - https://www.youtube.com/watch?v=Sge5Y-G8Jds - Johnny Harris
+- How Humans Invented Nationalism - https://www.youtube.com/watch?v=AXz0kbMKPu0 - Johnny Harris
+- I investigated why Israeli soldiers film their warcrimes for social medias - https://www.youtube.com/watch?v=uPQ9aS5rNd4 - Charles Villa
 - 🇫🇷 Lee Kuan Yew : Le Meilleur Dictateur de l'Histoire - https://www.youtube.com/watch?v=r27u5T97S7I - Crésus
+- 🇫🇷 J'ai passé un mois avec un criminel de guerre - https://www.youtube.com/watch?v=Fu_yUVV5ti0 - ARTE
+- 🇫🇷 Pourquoi la France a colonisé l'Algérie ? - https://www.youtube.com/watch?v=6TWeh1ZhyHU - Nota Bene
 
 ## Programming
 ### Good practice
@@ -194,10 +211,23 @@ Ordered by preferences.
 ### Operating Systems
 - 🇫🇷 Vas-y, viens, on recode Windows de zéro - https://www.youtube.com/watch?v=ELTwwTsR5w8 - V2F
 
+### Tech
+- The Internet, Reinvented. - https://www.youtube.com/watch?v=XTnYVh7K6xQ - Data Slayer
+- Go isn't secure?!? feat. Low Level Learning - https://www.youtube.com/watch?v=N936XwLmtmo - Backend Banter
+- 🇫🇷 On a reçu le géographe qui cartographie le net - https://www.youtube.com/watch?v=iI3nE9wBn48 - Underscore_
+
 ## Science
+- The Game of Life. - https://www.youtube.com/watch?v=eMn43As24Bo - EGO
+- An ordinary visit to the museum of oblivion. - https://www.youtube.com/watch?v=pbCaHj86KLE - EGO
+- Is Fast Charging Killing the Battery? A 2-Year Test on 40 Phones - https://www.youtube.com/watch?v=kLS5Cg_yNdM - Veritasium
+- We Built This to Film What's 7,500 Light-Years Away - https://www.youtube.com/watch?v=5A3D06D97jo - HTX Studio - The editing is so cool
+- We Built a Chinese Typewriter... - https://www.youtube.com/watch?v=-IhuFgiWNS4 - HTX Studio
+- Project Gigapixel | Developing a 3200MP linear scan medium format camera - https://www.youtube.com/watch?v=KSvjJGbFCws - Gigawipf
+- I Was An MIT Educated Neurosurgeon Now I'm Unemployed And Alone In The Mountains - https://www.youtube.com/watch?v=25LUF8GmbFU - Goobie and Doobie
 - 🇫🇷 L'actualité est un parasite mental. Faut-il vraiment en consommer ? - https://www.youtube.com/watch?v=HJOpzABZVpo - DirtyBiology
 - 🇫🇷 La menace existentielle de la vie MIROIR | ЯIOЯIM - https://www.youtube.com/watch?v=iVPNzCHJlQI - DirtyBiology
 - 🇫🇷 Ce qui nous rend heureux : le résultat de 10.000 études scientifiques - https://www.youtube.com/watch?v=LbJ8V8y4ruk - DirtyBiology
+- 🇫🇷 1089 pixels pour comprendre que vous n'existez pas. - https://www.youtube.com/watch?v=GnmzcahoJ18 - EGO
 
 ## Travel / World documentaries
 - I Spent 5 Weeks in IRAN. Here's What I Learned! - https://www.youtube.com/watch?v=yvLypBQrybg - Drew Binsky
