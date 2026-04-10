@@ -194,15 +194,15 @@ Ordered by preferences.
 - The New "Made in China" - https://www.youtube.com/watch?v=It1xr6FQcAo - hoser
 - The Indian Genius Nobody Understands - https://www.youtube.com/watch?v=fHRS_NOs24w - fern
 - Gold Explained, Finally - https://www.youtube.com/watch?v=JMObz0Dgq7M - Johnny Harris
-- Why is Indonesia Muslim? - https://www.youtube.com/watch?v=ca7YwYbhcx4 - ARTE
-- Illegal migrants: the most dangerous routes to Europe - https://www.youtube.com/watch?v=9JggKtbnBCY - DW Documentary
 - By Far, The Biggest Scandal In World History - https://www.youtube.com/watch?v=qZ8t1dfUHHY - RealLifeLore
 - I Went to Georgia to See Russia's Silent Invasion - https://www.youtube.com/watch?v=Sge5Y-G8Jds - Johnny Harris
 - How Humans Invented Nationalism - https://www.youtube.com/watch?v=AXz0kbMKPu0 - Johnny Harris
-- I investigated why Israeli soldiers film their warcrimes for social medias - https://www.youtube.com/watch?v=uPQ9aS5rNd4 - Charles Villa
+- 🇫🇷 J'ai enquêté sur les soldats israéliens qui se filment dans la bande de Gaza - https://www.youtube.com/watch?v=uPQ9aS5rNd4 - Charles Villa
 - 🇫🇷 Lee Kuan Yew : Le Meilleur Dictateur de l'Histoire - https://www.youtube.com/watch?v=r27u5T97S7I - Crésus
-- 🇫🇷 J'ai passé un mois avec un criminel de guerre - https://www.youtube.com/watch?v=Fu_yUVV5ti0 - ARTE
+- 🇫🇷 J'ai passé un mois avec un criminel de guerre - https://www.youtube.com/watch?v=Fu_yUVV5ti0 - Camille Reporter
 - 🇫🇷 Pourquoi la France a colonisé l'Algérie ? - https://www.youtube.com/watch?v=6TWeh1ZhyHU - Nota Bene
+- 🇫🇷 Pourquoi l'Indonésie est Musulmane ? - https://www.youtube.com/watch?v=ca7YwYbhcx4 - La Minute Géographie
+- 🇫🇷 Clandestins : les routes les plus dangereuses vers l'Europe - https://www.youtube.com/watch?v=9JggKtbnBCY - Investigation
 
 ## Programming
 ### Good practice
@@ -217,13 +217,13 @@ Ordered by preferences.
 - 🇫🇷 On a reçu le géographe qui cartographie le net - https://www.youtube.com/watch?v=iI3nE9wBn48 - Underscore_
 
 ## Science
-- The Game of Life. - https://www.youtube.com/watch?v=eMn43As24Bo - EGO
-- An ordinary visit to the museum of oblivion. - https://www.youtube.com/watch?v=pbCaHj86KLE - EGO
 - Is Fast Charging Killing the Battery? A 2-Year Test on 40 Phones - https://www.youtube.com/watch?v=kLS5Cg_yNdM - Veritasium
 - We Built This to Film What's 7,500 Light-Years Away - https://www.youtube.com/watch?v=5A3D06D97jo - HTX Studio - The editing is so cool
 - We Built a Chinese Typewriter... - https://www.youtube.com/watch?v=-IhuFgiWNS4 - HTX Studio
 - Project Gigapixel | Developing a 3200MP linear scan medium format camera - https://www.youtube.com/watch?v=KSvjJGbFCws - Gigawipf
 - I Was An MIT Educated Neurosurgeon Now I'm Unemployed And Alone In The Mountains - https://www.youtube.com/watch?v=25LUF8GmbFU - Goobie and Doobie
+- 🇫🇷 Le Jeu de la Vie. - https://www.youtube.com/watch?v=eMn43As24Bo - EGO
+- 🇫🇷 Visite banale du musée de l'oubli. - https://www.youtube.com/watch?v=pbCaHj86KLE - EGO
 - 🇫🇷 L'actualité est un parasite mental. Faut-il vraiment en consommer ? - https://www.youtube.com/watch?v=HJOpzABZVpo - DirtyBiology
 - 🇫🇷 La menace existentielle de la vie MIROIR | ЯIOЯIM - https://www.youtube.com/watch?v=iVPNzCHJlQI - DirtyBiology
 - 🇫🇷 Ce qui nous rend heureux : le résultat de 10.000 études scientifiques - https://www.youtube.com/watch?v=LbJ8V8y4ruk - DirtyBiology
