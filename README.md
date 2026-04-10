@@ -171,8 +171,8 @@ Ordered by preferences.
 
 ## AI
 - Bernie vs. Claude - https://www.youtube.com/watch?v=h3AtWdeu_G0 - Senator Bernie Sanders
-- The existential horror of the paperclip factory. - https://www.youtube.com/watch?v=ZP7T6WAK3Ow - EGO
 - But how do AI images and videos actually work? - https://www.youtube.com/watch?v=iv-5mZ_9CPY - 3Blue1Brown
+- 🇫🇷 The existential horror of the paperclip factory. - https://www.youtube.com/watch?v=ZP7T6WAK3Ow - EGO
 
 ## Blockchain
 ### Bitcoin implementation
@@ -180,7 +180,7 @@ Ordered by preferences.
 - 🇫🇷 viens, on recode Bitcoin pour le comprendre - https://youtu.be/U4S-RGNyTJA?si=l4pTR81EWcXqk-Y9 - V2F
 
 ## Cyber-security
-- How to protect yourself from data leaks (before it's too late) - https://www.youtube.com/watch?v=KkEMzsZG06Q - Christophe Boutry
+- How to protect yourself from data leaks (before it's too late) - https://www.youtube.com/watch?v=KkEMzsZG06Q - overfl0w
 - 🇫🇷 How to bribe a public official? - https://www.youtube.com/watch?v=mKGFsDbvBsA - Micode
 - 🇫🇷 Comment un selfie a fait tomber un empire criminel - https://www.youtube.com/watch?v=Vj4474vTtQ8 - Micode
 
@@ -189,16 +189,16 @@ Ordered by preferences.
 - 🇫🇷 Ce logiciel devrait être payant (tellement il est ouf) - https://www.youtube.com/watch?v=_NK-AbwA3PM - Underscore_ - Interview with an open-source software entrepreneur behind an exceptional free product
 
 ## Geopolitical / History
-- How Empires Fall and Why the US is Next - https://www.youtube.com/watch?v=EgUE0mA0Fis - uncivilized
-- GREECE IS OVER. - https://www.youtube.com/watch?v=yO60Ala2Uio - hoser
-- Why Taiwan Makes All The Chips That Go Beep Boop - https://www.youtube.com/watch?v=pPo-wNB5his - hoser
-- The Shady Company That's Taken Over The USA - https://www.youtube.com/watch?v=ZvC_QLrBfUM - hoser
 - The New "Made in China" - https://www.youtube.com/watch?v=It1xr6FQcAo - hoser
-- The Indian Genius Nobody Understands - https://www.youtube.com/watch?v=fHRS_NOs24w - fern
+- GREECE IS OVER. - https://www.youtube.com/watch?v=yO60Ala2Uio - hoser
+- How Empires Fall and Why the US is Next - https://www.youtube.com/watch?v=EgUE0mA0Fis - uncivilized
 - Gold Explained, Finally - https://www.youtube.com/watch?v=JMObz0Dgq7M - Johnny Harris
-- By Far, The Biggest Scandal In World History - https://www.youtube.com/watch?v=qZ8t1dfUHHY - RealLifeLore
+- The Shady Company That's Taken Over The USA - https://www.youtube.com/watch?v=ZvC_QLrBfUM - hoser
+- Why Taiwan Makes All The Chips That Go Beep Boop - https://www.youtube.com/watch?v=pPo-wNB5his - hoser
+- By Far, The Biggest Scandal In World History - https://www.youtube.com/watch?v=qZ8t1dfUHHY - hoser
 - I Went to Georgia to See Russia's Silent Invasion - https://www.youtube.com/watch?v=Sge5Y-G8Jds - Johnny Harris
 - How Humans Invented Nationalism - https://www.youtube.com/watch?v=AXz0kbMKPu0 - Johnny Harris
+- The Indian Genius Nobody Understands - https://www.youtube.com/watch?v=fHRS_NOs24w - fern
 - 🇫🇷 Lee Kuan Yew : Le Meilleur Dictateur de l'Histoire - https://www.youtube.com/watch?v=r27u5T97S7I - Crésus
 - 🇫🇷 Pourquoi la France a colonisé l'Algérie ? - https://www.youtube.com/watch?v=6TWeh1ZhyHU - Nota Bene
 - 🇫🇷 Pourquoi l'Indonésie est Musulmane ? - https://www.youtube.com/watch?v=ca7YwYbhcx4 - La Minute Géographie
