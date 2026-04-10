@@ -50,8 +50,10 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
   - [Blockchain](#blockchain-1)
     - [Bitcoin implementation](#bitcoin-implementation)
   - [Cyber-security](#cyber-security-1)
-  - [Open Source Interviews](#open-source-interviews)
   - [Geopolitical / History](#geopolitical--history)
+  - [Journalist](#journalist)
+  - [Open Source Interviews](#open-source-interviews)
+  - [Philosophy / Concept](#philosophy--concept)
   - [Programming](#programming-1)
     - [Good practice](#good-practice-1)
     - [Operating Systems](#operating-systems)
@@ -197,12 +199,20 @@ Ordered by preferences.
 - By Far, The Biggest Scandal In World History - https://www.youtube.com/watch?v=qZ8t1dfUHHY - RealLifeLore
 - I Went to Georgia to See Russia's Silent Invasion - https://www.youtube.com/watch?v=Sge5Y-G8Jds - Johnny Harris
 - How Humans Invented Nationalism - https://www.youtube.com/watch?v=AXz0kbMKPu0 - Johnny Harris
-- 🇫🇷 J'ai enquêté sur les soldats israéliens qui se filment dans la bande de Gaza - https://www.youtube.com/watch?v=uPQ9aS5rNd4 - Charles Villa
 - 🇫🇷 Lee Kuan Yew : Le Meilleur Dictateur de l'Histoire - https://www.youtube.com/watch?v=r27u5T97S7I - Crésus
-- 🇫🇷 J'ai passé un mois avec un criminel de guerre - https://www.youtube.com/watch?v=Fu_yUVV5ti0 - Camille Reporter
 - 🇫🇷 Pourquoi la France a colonisé l'Algérie ? - https://www.youtube.com/watch?v=6TWeh1ZhyHU - Nota Bene
 - 🇫🇷 Pourquoi l'Indonésie est Musulmane ? - https://www.youtube.com/watch?v=ca7YwYbhcx4 - La Minute Géographie
+
+## Journalist
+- 🇫🇷 J'ai enquêté sur les soldats israéliens qui se filment dans la bande de Gaza - https://www.youtube.com/watch?v=uPQ9aS5rNd4 - Charles Villa
+- 🇫🇷 J'ai passé un mois avec un criminel de guerre - https://www.youtube.com/watch?v=Fu_yUVV5ti0 - Camille Reporter
 - 🇫🇷 Clandestins : les routes les plus dangereuses vers l'Europe - https://www.youtube.com/watch?v=9JggKtbnBCY - Investigation
+
+## Philosophy / Concept
+- I Was An MIT Educated Neurosurgeon Now I'm Unemployed And Alone In The Mountains - https://www.youtube.com/watch?v=25LUF8GmbFU - Goobie and Doobie
+- 🇫🇷 Le Jeu de la Vie. - https://www.youtube.com/watch?v=eMn43As24Bo - EGO
+- 🇫🇷 Visite banale du musée de l'oubli. - https://www.youtube.com/watch?v=pbCaHj86KLE - EGO
+- 🇫🇷 1089 pixels pour comprendre que vous n'existez pas. - https://www.youtube.com/watch?v=GnmzcahoJ18 - EGO
 
 ## Programming
 ### Good practice
@@ -212,7 +222,7 @@ Ordered by preferences.
 - 🇫🇷 Vas-y, viens, on recode Windows de zéro - https://www.youtube.com/watch?v=ELTwwTsR5w8 - V2F
 
 ### Tech
-- The Internet, Reinvented. - https://www.youtube.com/watch?v=XTnYVh7K6xQ - Data Slayer
+- The Internet, Reinvented. - https://www.youtube.com/watch?v=XTnYVh7K6xQ - Data Slayer - Building a decentralized, encrypted mesh network over LoRa and Wi-Fi HaLow using the Reticulum stack — no ISP, no central servers
 - Go isn't secure?!? feat. Low Level Learning - https://www.youtube.com/watch?v=N936XwLmtmo - Backend Banter
 - 🇫🇷 On a reçu le géographe qui cartographie le net - https://www.youtube.com/watch?v=iI3nE9wBn48 - Underscore_
 
@@ -221,13 +231,9 @@ Ordered by preferences.
 - We Built This to Film What's 7,500 Light-Years Away - https://www.youtube.com/watch?v=5A3D06D97jo - HTX Studio - The editing is so cool
 - We Built a Chinese Typewriter... - https://www.youtube.com/watch?v=-IhuFgiWNS4 - HTX Studio
 - Project Gigapixel | Developing a 3200MP linear scan medium format camera - https://www.youtube.com/watch?v=KSvjJGbFCws - Gigawipf
-- I Was An MIT Educated Neurosurgeon Now I'm Unemployed And Alone In The Mountains - https://www.youtube.com/watch?v=25LUF8GmbFU - Goobie and Doobie
-- 🇫🇷 Le Jeu de la Vie. - https://www.youtube.com/watch?v=eMn43As24Bo - EGO
-- 🇫🇷 Visite banale du musée de l'oubli. - https://www.youtube.com/watch?v=pbCaHj86KLE - EGO
 - 🇫🇷 L'actualité est un parasite mental. Faut-il vraiment en consommer ? - https://www.youtube.com/watch?v=HJOpzABZVpo - DirtyBiology
 - 🇫🇷 La menace existentielle de la vie MIROIR | ЯIOЯIM - https://www.youtube.com/watch?v=iVPNzCHJlQI - DirtyBiology
 - 🇫🇷 Ce qui nous rend heureux : le résultat de 10.000 études scientifiques - https://www.youtube.com/watch?v=LbJ8V8y4ruk - DirtyBiology
-- 🇫🇷 1089 pixels pour comprendre que vous n'existez pas. - https://www.youtube.com/watch?v=GnmzcahoJ18 - EGO
 
 ## Travel / World documentaries
 - I Spent 5 Weeks in IRAN. Here's What I Learned! - https://www.youtube.com/watch?v=yvLypBQrybg - Drew Binsky
