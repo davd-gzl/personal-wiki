@@ -14,11 +14,11 @@ Links about topics I'm learning.
 Links are ordered by language: English, French (🇫🇷), then other languages.
 
 ## Table of Contents
-- [Blogs](#blogs)
+- [📝 Blogs](#-blogs)
   - [Decentralization / Web3 / Blockchain](#decentralization--web3--blockchain)
-- [Books](#books)
+- [📚 Books](#-books)
   - [Cryptography](#cryptography-1)
-- [Documentations](#documentations)
+- [📖 Documentations](#-documentations)
   - [Blockchain](#blockchain)
     - [Consensus](#concensus)
     - [Layer 2](#layer-2)
@@ -32,20 +32,20 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
   - [Geography](#geography)
   - [Programming](#programming)
     - [Good practice](#good-practice)
-- [Films](#films)
-- [Free and Open Source Softwares (FOSS)](#free-and-open-source-softwares-foss)
+- [🎬 Films](#-films)
+- [💻 Free and Open Source Softwares (FOSS)](#-free-and-open-source-softwares-foss)
   - [Android](#android)
   - [Cross-platform](#cross-platform)
   - [Development](#development)
   - [Linux](#linux)
   - [Self-host](#self-host)
-- [Games](#games)
+- [🎮 Games](#-games)
   - [Geography](#geography-1)
-- [Linux Setup](#linux-setup)
-- [My Gears](#my-gears)
+- [🐧 Linux Setup](#-linux-setup)
+- [🎒 My Gears](#-my-gears)
   - [Everyday carry (EDC)](#everyday-carry-edc)
   - [Tech Gear](#tech-gear)
-- [Videos](#videos)
+- [📹 Videos](#-videos)
   - [AI](#ai)
   - [Blockchain](#blockchain-1)
     - [Bitcoin implementation](#bitcoin-implementation)
@@ -60,7 +60,7 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
   - [Science](#science)
   - [Travel / World documentaries](#travel--world-documentaries)
   - [Urbanism](#urbanism)
-- [Youtube channels](#youtube-channels)
+- [📺 Youtube channels](#-youtube-channels)
   - [📌 Geopolitical / History](#-geopolitical--history)
   - [📌 Journalist](#-journalist)
   - [📌 Tech popularization](#-tech-popularization)
@@ -70,18 +70,18 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
   - [Podcast](#podcast)
   - [Urbanism](#urbanism-1)
 
-# Blogs
+# 📝 Blogs
 Ordered by preferences.
 
 ## Decentralization / Web3 / Blockchain
 - Manfred's blog - https://moul.life/blog/ - Essays on decentralization, blockchain, open-source, governance, and software design
 - Rekt News - https://rekt.news/ - Analysis and investigation of DeFi hacks, exploits, and security incidents in crypto
 
-# Books
+# 📚 Books
 ## Cryptography
 - "Serious Cryptography, 2nd Edition: A Practical Introduction to Modern Encryption 2nd Edition" by Jean-Philippe Aumasson - https://nostarch.com/serious-cryptography-2nd-edition
 
-# Documentations
+# 📖 Documentations
 Ordered by addition date.
 
 ## Blockchain
@@ -124,10 +124,10 @@ Ordered by addition date.
 ### Good practice
 - Linux kernel coding style - https://www.kernel.org/doc/html/v4.10/process/coding-style.html
 
-# Films
+# 🎬 Films
 *Empty*
 
-# Free and Open Source Softwares (FOSS)
+# 💻 Free and Open Source Softwares (FOSS)
 FOSS I'm using in my daily life.
 
 ## Android
@@ -145,18 +145,18 @@ FOSS I'm using in my daily life.
 ## Self-host 
 - Immich - https://github.com/immich-app/immich - High-performance self-hosted photo and video management solution
 
-# Games
+# 🎮 Games
 
 ## Geography
 - FoodGuessr - https://www.foodguessr.com/ - Guess countries from dishes
 - OpenGuessr - https://openguessr.com/ - Free open-source GeoGuessr alternative
 
-# Linux Setup
+# 🐧 Linux Setup
 - Distro: Arch Linux
 - Dotfiles: https://github.com/davd-gzl/dotfiles - Arch Linux config
 - Keymap: Workman FR - https://github.com/davd-gzl/Workman-fr
 
-# My Gears
+# 🎒 My Gears
 ## Everyday carry (EDC)
 - Camera bag (Thule Covert DSLR backpack 32L) - https://www.thule.com/en-us/backpacks/camera-backpacks-bags/thule-covert-dslr-backpack-32l-_-3205344
 - E-Ink reader (Boox palma 2) - https://shop.boox.com/products/palma2
@@ -166,7 +166,7 @@ FOSS I'm using in my daily life.
 - Laptop (Framework 16) - https://frame.work/laptop16
 - Split Keyboard (Halcyon Corne - splitkb.com) - https://splitkb.com/collections/keyboard-kits/products/halcyon-corne
 
-# Videos
+# 📹 Videos
 Ordered by preferences.
 
 ## AI
@@ -181,6 +181,8 @@ Ordered by preferences.
 
 ## Cyber-security
 - How to protect yourself from data leaks (before it's too late) - https://www.youtube.com/watch?v=KkEMzsZG06Q - overfl0w
+- Becoming Anonymous: The Complete Guide To Maximum Security Online - https://www.youtube.com/watch?v=4Z7H5tXqMGo - Techlore
+- GrapheneOS Review: Your BEST Secure & Private Mobile OS! - https://www.youtube.com/watch?v=hrDUOtWXGv8 - Techlore
 - 🇫🇷 How to bribe a public official? - https://www.youtube.com/watch?v=mKGFsDbvBsA - Micode
 - 🇫🇷 Comment un selfie a fait tomber un empire criminel - https://www.youtube.com/watch?v=Vj4474vTtQ8 - Micode
 
@@ -196,9 +198,56 @@ Ordered by preferences.
 - The Shady Company That's Taken Over The USA - https://www.youtube.com/watch?v=ZvC_QLrBfUM - hoser
 - Why Taiwan Makes All The Chips That Go Beep Boop - https://www.youtube.com/watch?v=pPo-wNB5his - hoser
 - By Far, The Biggest Scandal In World History - https://www.youtube.com/watch?v=qZ8t1dfUHHY - hoser
+- Why Europe Hates Tourists Now - https://www.youtube.com/watch?v=QD1GSmyuQto - hoser
+- Africa's North Korea - https://www.youtube.com/watch?v=S3NO9VhUoEE - hoser
+- Why Lebanon Made Their Pound Worth $0.000066 - https://www.youtube.com/watch?v=wTXSbDZcLJw - hoser
+- Why Fiji's Biggest Export is Literal Water - https://www.youtube.com/watch?v=8VdOFUGK0Uc - hoser
+- Who's In The Most Debt? - https://www.youtube.com/watch?v=2wuLQoNinzM - hoser
+- The Most Broken Economy on Earth - https://www.youtube.com/watch?v=LfqjDvBP-vA - hoser
+- Zimbabwe: How NOT To Run an Economy - https://www.youtube.com/watch?v=MtYE-KINteg - hoser
+- The Crazy Plan to Make an African Giant - https://www.youtube.com/watch?v=wmWZp9fPvII - hoser
+- How Venezuela was Destroyed - https://www.youtube.com/watch?v=TuoJhtd71fk - hoser
+- MrBeast, Saudi Arabia, and The New Internet - https://www.youtube.com/watch?v=h1jXezxRCNc - hoser
+- A little story of how Iceland got so rich - https://www.youtube.com/watch?v=0mPrXQs2F9c - hoser
+- How The Last Soviet Republic Will Collapse - https://www.youtube.com/watch?v=Cux4tDDFktg - hoser
+- How China Broke Plastic - https://www.youtube.com/watch?v=KngcC3e_uyQ - hoser
+- America's History Is Repeating Itself - https://www.youtube.com/watch?v=GFUUUSggjO8 - hoser
+- How North Korea Makes Money While Sanctioned - https://www.youtube.com/watch?v=1p3cOBsuJ-k - hoser
+- Why Almost All Fighters Use The AK-47 - https://www.youtube.com/watch?v=Ywp_wokASZI - hoser
+- Saudi Arabia's Gamble to Stop a Total Collapse - https://www.youtube.com/watch?v=A6yhsHf6TP8 - hoser
+- How Finland Became the World's Happiest Country - https://www.youtube.com/watch?v=nCUEu0zWSmk - hoser
+- South Korea is in a Hidden Crisis - https://www.youtube.com/watch?v=kEDPsOEQbl0 - hoser
 - I Went to Georgia to See Russia's Silent Invasion - https://www.youtube.com/watch?v=Sge5Y-G8Jds - Johnny Harris
 - How Humans Invented Nationalism - https://www.youtube.com/watch?v=AXz0kbMKPu0 - Johnny Harris
 - The Indian Genius Nobody Understands - https://www.youtube.com/watch?v=fHRS_NOs24w - fern
+- WW1 - OverSimplified (Part 1) - https://www.youtube.com/watch?v=dHSQAEam2yc - OverSimplified
+- WW1 - OverSimplified (Part 2) - https://www.youtube.com/watch?v=Mun1dKkc_As - OverSimplified
+- Hitler - OverSimplified (Part 1) - https://www.youtube.com/watch?v=ATlila3e9dM - OverSimplified
+- Hitler - OverSimplified (Part 2) - https://www.youtube.com/watch?v=Dd1JUTA7Ijc - OverSimplified
+- WW2 - OverSimplified (Part 1) - https://www.youtube.com/watch?v=_uk_6vfqwTA - OverSimplified
+- WW2 - OverSimplified (Part 2) - https://www.youtube.com/watch?v=fo2Rb9h788s - OverSimplified
+- The American Revolution - OverSimplified (Part 1) - https://www.youtube.com/watch?v=gzALIXcY4pg - OverSimplified
+- The American Revolution - OverSimplified (Part 2) - https://www.youtube.com/watch?v=rtYC2jx1LM0 - OverSimplified
+- The American Civil War - OverSimplified (Part 1) - https://www.youtube.com/watch?v=tsxmyL7TUJg - OverSimplified
+- The American Civil War - OverSimplified (Part 2) - https://www.youtube.com/watch?v=sV6uuMAnJUE - OverSimplified
+- The Cold War - OverSimplified (Part 1) - https://www.youtube.com/watch?v=I79TpDe3t2g - OverSimplified
+- The Cold War - OverSimplified (Part 2) - https://www.youtube.com/watch?v=OIYy32RuHao - OverSimplified
+- Three Kingdoms - OverSimplified - https://www.youtube.com/watch?v=26EivpCPHnQ - OverSimplified
+- The French Revolution - OverSimplified (Part 1) - https://www.youtube.com/watch?v=8qRZcXIODNU - OverSimplified
+- The French Revolution - OverSimplified (Part 2) - https://www.youtube.com/watch?v=EQmjXM4VK2U - OverSimplified
+- Henry VIII - OverSimplified - https://www.youtube.com/watch?v=ewLpXw6uN28 - OverSimplified
+- The Russian Revolution - OverSimplified (Part 1) - https://www.youtube.com/watch?v=Cqbleas1mmo - OverSimplified
+- The Russian Revolution - OverSimplified (Part 2) - https://www.youtube.com/watch?v=b1reY72ktEc - OverSimplified
+- Prohibition - OverSimplified - https://www.youtube.com/watch?v=AAGIi62-sAU - OverSimplified
+- The Napoleonic Wars - OverSimplified (Part 1) - https://www.youtube.com/watch?v=zqllxbPWKNI - OverSimplified
+- The Napoleonic Wars - OverSimplified (Part 2) - https://www.youtube.com/watch?v=mY3SEMTROas - OverSimplified
+- The Pig War - OverSimplified - https://www.youtube.com/watch?v=QLq6GEiHqR8 - OverSimplified
+- The First Punic War - OverSimplified (Part 1) - https://www.youtube.com/watch?v=yRmOWcWdQAo - OverSimplified
+- The First Punic War - OverSimplified (Part 2) - https://www.youtube.com/watch?v=hRSGxw2AQnk - OverSimplified
+- The Second Punic War - OverSimplified (Part 1) - https://www.youtube.com/watch?v=lsbcN9-jU1Y - OverSimplified
+- The Second Punic War - OverSimplified (Part 2) - https://www.youtube.com/watch?v=Q-nWA0WeF98 - OverSimplified
+- The Second Punic War - OverSimplified (Part 3) - https://www.youtube.com/watch?v=1BVJzaXv3rk - OverSimplified
+- Emu War - OverSimplified - https://www.youtube.com/watch?v=BXpu6tbFCsI - OverSimplified
 - 🇫🇷 Lee Kuan Yew : Le Meilleur Dictateur de l'Histoire - https://www.youtube.com/watch?v=r27u5T97S7I - Crésus
 - 🇫🇷 Pourquoi la France a colonisé l'Algérie ? - https://www.youtube.com/watch?v=6TWeh1ZhyHU - Nota Bene
 - 🇫🇷 Pourquoi l'Indonésie est Musulmane ? - https://www.youtube.com/watch?v=ca7YwYbhcx4 - La Minute Géographie
@@ -231,6 +280,12 @@ Ordered by preferences.
 - We Built This to Film What's 7,500 Light-Years Away - https://www.youtube.com/watch?v=5A3D06D97jo - HTX Studio - The editing is so cool
 - We Built a Chinese Typewriter... - https://www.youtube.com/watch?v=-IhuFgiWNS4 - HTX Studio
 - Project Gigapixel | Developing a 3200MP linear scan medium format camera - https://www.youtube.com/watch?v=KSvjJGbFCws - Gigawipf
+- Backyard Squirrel Maze 1.0- Ninja Warrior Course - https://www.youtube.com/watch?v=hFZFjoX2cGg - Mark Rober
+- Backyard Squirrel Maze 2.0- The Walnut Heist - https://www.youtube.com/watch?v=DTvS9lvRxZ8 - Mark Rober
+- Backyard Squirrelympics 3.0- The Summer Games - https://www.youtube.com/watch?v=lg5wznn3IBE - Mark Rober
+- Octopus vs Underwater Maze - https://www.youtube.com/watch?v=7__r4FVj-EI - Mark Rober
+- Bed Bugs- What You've Been Told is Totally False - https://www.youtube.com/watch?v=2JAOTJxYqh8 - Mark Rober
+- Testing The World's Smartest Crow - https://www.youtube.com/watch?v=tpg3VvoIVfA - Mark Rober
 - 🇫🇷 L'actualité est un parasite mental. Faut-il vraiment en consommer ? - https://www.youtube.com/watch?v=HJOpzABZVpo - DirtyBiology
 - 🇫🇷 La menace existentielle de la vie MIROIR | ЯIOЯIM - https://www.youtube.com/watch?v=iVPNzCHJlQI - DirtyBiology
 - 🇫🇷 Ce qui nous rend heureux : le résultat de 10.000 études scientifiques - https://www.youtube.com/watch?v=LbJ8V8y4ruk - DirtyBiology
@@ -256,7 +311,7 @@ Ordered by preferences.
 - How Self-Driving Cars will Destroy Cities (and what to do about it) - https://www.youtube.com/watch?v=040ejWnFkj0 - Not Just Bikes
 - More Lanes are (Still) a Bad Thing (Induced Demand) - https://www.youtube.com/watch?v=CHZwOAIect4 - Not Just Bikes
 
-# Youtube channels
+# 📺 Youtube channels
 Ordered by preferences.
 Descriptions are my personal view, visit the channels for the full picture.
 
