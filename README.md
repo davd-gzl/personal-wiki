@@ -258,7 +258,7 @@ Ordered by preferences.
 - 🇫🇷 Clandestins : les routes les plus dangereuses vers l'Europe [[link]](https://www.youtube.com/watch?v=9JggKtbnBCY) - Investigation
 
 ## Philosophy / Concept
-- I Was An MIT Educated Neurosurgeon Now I'm Unemployed And Alone In The Mountains [[link]](https://www.youtube.com/watch?v=25LUF8GmbFU) - Goobie and Doobie
+- I Was An MIT Educated Neurosurgeon Now I'm Unemployed And Alone In The Mountains [[YouTube]](https://www.youtube.com/watch?v=25LUF8GmbFU) - Goobie and Doobie
 - 🇫🇷 Le Jeu de la Vie. [[link]](https://www.youtube.com/watch?v=eMn43As24Bo) - EGO
 - 🇫🇷 Visite banale du musée de l'oubli. [[link]](https://www.youtube.com/watch?v=pbCaHj86KLE) - EGO
 - 🇫🇷 1089 pixels pour comprendre que vous n'existez pas. [[link]](https://www.youtube.com/watch?v=GnmzcahoJ18) - EGO
