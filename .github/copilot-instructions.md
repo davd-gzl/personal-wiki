@@ -4,7 +4,7 @@ Markdown-only personal knowledge base, served via GitHub Pages (Jekyll + `just-t
 
 ## First Step — Always
 
-Read `CONTRIBUTING.md` before any edit. It is the **single source of truth** for structure, entry format, ordering rules, and categories.
+Read `AGENT.md` before any edit. It is the **single source of truth** for structure, entry format, ordering rules, and categories.
 
 ## Agent-Specific Rules
 
@@ -13,4 +13,4 @@ Read `CONTRIBUTING.md` before any edit. It is the **single source of truth** for
 - For preference-ordered sections (Blogs, Videos, Youtube channels), **ask the user** where to insert — don't just append.
 - `awesome/*.md` files have their own format (tables, `🆓` prefix for FOSS) — don't apply `README.md` entry format there.
 - Update `skills/README.md` when new agent capabilities are added.
-- Don't change `_config.yml` or `CONTRIBUTING.md` unless explicitly asked.
+- Don't change `_config.yml`, `CONTRIBUTING.md`, or `AGENT.md` unless explicitly asked.
