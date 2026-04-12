@@ -14,11 +14,11 @@ Links about topics I'm learning.
 Links are ordered by language: English, French (🇫🇷), then other languages.
 
 ## Table of Contents
-- [Blogs](#blogs)
+- [📝 Blogs](#-blogs)
   - [Decentralization / Web3 / Blockchain](#decentralization--web3--blockchain)
-- [Books](#books)
+- [📚 Books](#-books)
   - [Cryptography](#cryptography-1)
-- [Documentations](#documentations)
+- [📖 Documentations](#-documentations)
   - [Blockchain](#blockchain)
     - [Consensus](#concensus)
     - [Layer 2](#layer-2)
@@ -32,20 +32,20 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
   - [Geography](#geography)
   - [Programming](#programming)
     - [Good practice](#good-practice)
-- [Films](#films)
-- [Free and Open Source Softwares (FOSS)](#free-and-open-source-softwares-foss)
+- [🎬 Films](#-films)
+- [💻 Free and Open Source Softwares (FOSS)](#-free-and-open-source-softwares-foss)
   - [Android](#android)
   - [Cross-platform](#cross-platform)
   - [Development](#development)
   - [Linux](#linux)
   - [Self-host](#self-host)
-- [Games](#games)
+- [🎮 Games](#-games)
   - [Geography](#geography-1)
-- [Linux Setup](#linux-setup)
-- [My Gears](#my-gears)
+- [🐧 Linux Setup](#-linux-setup)
+- [🎒 My Gears](#-my-gears)
   - [Everyday carry (EDC)](#everyday-carry-edc)
   - [Tech Gear](#tech-gear)
-- [Videos](#videos)
+- [📹 Videos](#-videos)
   - [AI](#ai)
   - [Blockchain](#blockchain-1)
     - [Bitcoin implementation](#bitcoin-implementation)
@@ -60,7 +60,7 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
   - [Science](#science)
   - [Travel / World documentaries](#travel--world-documentaries)
   - [Urbanism](#urbanism)
-- [Youtube channels](#youtube-channels)
+- [📺 Youtube channels](#-youtube-channels)
   - [📌 Geopolitical / History](#-geopolitical--history)
   - [📌 Journalist](#-journalist)
   - [📌 Tech popularization](#-tech-popularization)
@@ -70,18 +70,18 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
   - [Podcast](#podcast)
   - [Urbanism](#urbanism-1)
 
-# Blogs
+# 📝 Blogs
 Ordered by preferences.
 
 ## Decentralization / Web3 / Blockchain
 - Manfred's blog - https://moul.life/blog/ - Essays on decentralization, blockchain, open-source, governance, and software design
 - Rekt News - https://rekt.news/ - Analysis and investigation of DeFi hacks, exploits, and security incidents in crypto
 
-# Books
+# 📚 Books
 ## Cryptography
 - "Serious Cryptography, 2nd Edition: A Practical Introduction to Modern Encryption 2nd Edition" by Jean-Philippe Aumasson - https://nostarch.com/serious-cryptography-2nd-edition
 
-# Documentations
+# 📖 Documentations
 Ordered by addition date.
 
 ## Blockchain
@@ -124,10 +124,10 @@ Ordered by addition date.
 ### Good practice
 - Linux kernel coding style - https://www.kernel.org/doc/html/v4.10/process/coding-style.html
 
-# Films
+# 🎬 Films
 *Empty*
 
-# Free and Open Source Softwares (FOSS)
+# 💻 Free and Open Source Softwares (FOSS)
 FOSS I'm using in my daily life.
 
 ## Android
@@ -145,18 +145,18 @@ FOSS I'm using in my daily life.
 ## Self-host 
 - Immich - https://github.com/immich-app/immich - High-performance self-hosted photo and video management solution
 
-# Games
+# 🎮 Games
 
 ## Geography
 - FoodGuessr - https://www.foodguessr.com/ - Guess countries from dishes
 - OpenGuessr - https://openguessr.com/ - Free open-source GeoGuessr alternative
 
-# Linux Setup
+# 🐧 Linux Setup
 - Distro: Arch Linux
 - Dotfiles: https://github.com/davd-gzl/dotfiles - Arch Linux config
 - Keymap: Workman FR - https://github.com/davd-gzl/Workman-fr
 
-# My Gears
+# 🎒 My Gears
 ## Everyday carry (EDC)
 - Camera bag (Thule Covert DSLR backpack 32L) - https://www.thule.com/en-us/backpacks/camera-backpacks-bags/thule-covert-dslr-backpack-32l-_-3205344
 - E-Ink reader (Boox palma 2) - https://shop.boox.com/products/palma2
@@ -166,7 +166,7 @@ FOSS I'm using in my daily life.
 - Laptop (Framework 16) - https://frame.work/laptop16
 - Split Keyboard (Halcyon Corne - splitkb.com) - https://splitkb.com/collections/keyboard-kits/products/halcyon-corne
 
-# Videos
+# 📹 Videos
 Ordered by preferences.
 
 ## AI
@@ -311,7 +311,7 @@ Ordered by preferences.
 - How Self-Driving Cars will Destroy Cities (and what to do about it) - https://www.youtube.com/watch?v=040ejWnFkj0 - Not Just Bikes
 - More Lanes are (Still) a Bad Thing (Induced Demand) - https://www.youtube.com/watch?v=CHZwOAIect4 - Not Just Bikes
 
-# Youtube channels
+# 📺 Youtube channels
 Ordered by preferences.
 Descriptions are my personal view, visit the channels for the full picture.
 
