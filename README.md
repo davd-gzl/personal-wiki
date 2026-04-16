@@ -5,7 +5,7 @@ Links about topics I'm learning.
 
 - **[WHOAMI](WHOAMI.md)** - About me and my profile
 - **[Awesome](awesome/README.md)** - Curated lists of resources
-  - [Digital Nomad / Traveller](awesome/digital-nomad.md) - Flights, accommodation, community
+  - [Digital Nomad / Traveller](awesome/digital-nomad.md) - Flights, accommodation, community 
   - [Offline Traveller](awesome/offline-traveller.md) - Apps and tools that work offline (FOSS prioritized)
 - **[Blog](blog/README.md)** - Personal blog posts and writings
 - **[Data](data/README.md)** - Curated datasets and IPFS links (mostly geographic)
