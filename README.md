@@ -3,7 +3,7 @@ Links about topics I'm learning.
 
 ## Quick access
 
-- **[WHOAMI](WHOAMI.md)** - About me and my profile
+- **[WHOAMI](WHOAMI.md)** - About me and my profile 
 - **[Awesome](awesome/README.md)** - Curated lists of resources
   - [Digital Nomad / Traveller](awesome/digital-nomad.md) - Flights, accommodation, community 
   - [Offline Traveller](awesome/offline-traveller.md) - Apps and tools that work offline (FOSS prioritized)
