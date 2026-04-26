@@ -255,6 +255,7 @@ Ordered by preferences.
 
 ## Journalist
 - 🇫🇷 J'ai enquêté sur les soldats israéliens qui se filment dans la bande de Gaza - [YouTube](https://www.youtube.com/watch?v=uPQ9aS5rNd4) - Charles Villa
+- 🇫🇷 2 ans en immersion dans l'enfer de Gaza - [YouTube](https://www.youtube.com/watch?v=xYj-XMIjHGo) - Charles Villa & Suhail Nassar
 - 🇫🇷 J'ai passé un mois avec un criminel de guerre - [YouTube](https://www.youtube.com/watch?v=Fu_yUVV5ti0) - Camille Reporter
 - 🇫🇷 Clandestins : les routes les plus dangereuses vers l'Europe - [YouTube](https://www.youtube.com/watch?v=9JggKtbnBCY) - Investigation
 
