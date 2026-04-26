@@ -123,6 +123,7 @@ Ordered by addition date.
 ## Programming
 ### Good practice
 - Linux kernel coding style - https://www.kernel.org/doc/html/v4.10/process/coding-style.html
+- 2025 DORA Report on AI-assisted development - https://cloud.google.com/blog/products/ai-machine-learning/announcing-the-2025-dora-report - Findings on AI adoption (90%), team archetypes, and platform engineering's impact on org health
 
 # 🎬 Films
 *Empty*
