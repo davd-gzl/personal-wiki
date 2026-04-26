@@ -177,6 +177,7 @@ Descriptions are my personal view, visit the channels for the full picture.
 ## 📌 Tech popularization
 - 3Blue1Brown - https://www.youtube.com/@3blue1brown - Animated math explanations (linear algebra, calculus, neural networks)
 - Low Level - https://www.youtube.com/@LowLevelTV - Systems programming, Rust, C, and computer internals
+- 🇫🇷 EGO - https://www.youtube.com/@ego_one - Storytelling deep dives on tech, AI, and complex intellectual subjects
 - 🇫🇷 Micode - https://www.youtube.com/@Micode - Tech investigations and stories behind famous hacks
 - 🇫🇷 V2F - https://www.youtube.com/@V2F - Recreating tech from scratch (Bitcoin, compression, AI)
 - 🇫🇷 overfl0w - https://www.youtube.com/@overfl-0-w - Ethical hacking and security CTF walkthroughs
