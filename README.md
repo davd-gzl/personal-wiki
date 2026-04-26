@@ -5,7 +5,7 @@ Links about topics I'm learning.
 
 - **[WHOAMI](WHOAMI.md)** - About me and my profile
 - **[Awesome](awesome/README.md)** - Curated lists of resources
-  - [Digital Nomad / Traveller](awesome/digital-nomad.md) - Flights, accommodation, community
+  - [Digital Nomad / Traveller](awesome/digital-nomad.md) - Flights, accommodation, community 
   - [Offline Traveller](awesome/offline-traveller.md) - Apps and tools that work offline (FOSS prioritized)
 - **[Blog](blog/README.md)** - Personal blog posts and writings
 - **[Data](data/README.md)** - Curated datasets and IPFS links (mostly geographic)
@@ -14,11 +14,11 @@ Links about topics I'm learning.
 Links are ordered by language: English, French (🇫🇷), then other languages.
 
 ## Table of Contents
-- [Blogs](#blogs)
+- [📝 Blogs](#-blogs)
   - [Decentralization / Web3 / Blockchain](#decentralization--web3--blockchain)
-- [Books](#books)
+- [📚 Books](#-books)
   - [Cryptography](#cryptography-1)
-- [Documentations](#documentations)
+- [📖 Documentations](#-documentations)
   - [Blockchain](#blockchain)
     - [Consensus](#concensus)
     - [Layer 2](#layer-2)
@@ -32,25 +32,35 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
   - [Geography](#geography)
   - [Programming](#programming)
     - [Good practice](#good-practice)
-- [Films](#films)
-- [Free and Open Source Softwares (FOSS)](#free-and-open-source-softwares-foss)
+- [🎬 Films](#-films)
+- [💻 Free and Open Source Softwares (FOSS)](#-free-and-open-source-softwares-foss)
   - [Android](#android)
   - [Cross-platform](#cross-platform)
   - [Development](#development)
   - [Linux](#linux)
   - [Self-host](#self-host)
-- [Games](#games)
+- [🎮 Games](#-games)
   - [Geography](#geography-1)
-- [Linux Setup](#linux-setup)
-- [My Gears](#my-gears)
+- [🐧 Linux Setup](#-linux-setup)
+- [🎒 My Gears](#-my-gears)
   - [Everyday carry (EDC)](#everyday-carry-edc)
   - [Tech Gear](#tech-gear)
-- [Videos](#videos)
+- [📹 Videos](#-videos)
+  - [AI](#ai)
   - [Blockchain](#blockchain-1)
     - [Bitcoin implementation](#bitcoin-implementation)
+  - [Cyber-security](#cyber-security-1)
+  - [Geopolitical / History](#geopolitical--history)
+  - [Journalist](#journalist)
+  - [Open Source Interviews](#open-source-interviews)
+  - [Philosophy / Concept](#philosophy--concept)
   - [Programming](#programming-1)
     - [Good practice](#good-practice-1)
-- [Youtube channels](#youtube-channels)
+    - [Operating Systems](#operating-systems)
+  - [Science](#science)
+  - [Travel / World documentaries](#travel--world-documentaries)
+  - [Urbanism](#urbanism)
+- [📺 Youtube channels](#-youtube-channels)
   - [📌 Geopolitical / History](#-geopolitical--history)
   - [📌 Journalist](#-journalist)
   - [📌 Tech popularization](#-tech-popularization)
@@ -58,19 +68,20 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
   - [Engineer popularization](#engineer-popularization)
   - [Entrepreneurship](#entrepreneurship)
   - [Podcast](#podcast)
+  - [Urbanism](#urbanism-1)
 
-# Blogs
+# 📝 Blogs
 Ordered by preferences.
 
 ## Decentralization / Web3 / Blockchain
 - Manfred's blog - https://moul.life/blog/ - Essays on decentralization, blockchain, open-source, governance, and software design
 - Rekt News - https://rekt.news/ - Analysis and investigation of DeFi hacks, exploits, and security incidents in crypto
 
-# Books
+# 📚 Books
 ## Cryptography
 - "Serious Cryptography, 2nd Edition: A Practical Introduction to Modern Encryption 2nd Edition" by Jean-Philippe Aumasson - https://nostarch.com/serious-cryptography-2nd-edition
 
-# Documentations
+# 📖 Documentations
 Ordered by addition date.
 
 ## Blockchain
@@ -101,16 +112,22 @@ Ordered by addition date.
 - Calling All Hackers - https://phrack.org/issues/71/17#article
 
 ## Geography
-- OpenGuessr Education - https://education.openguessr.com/quiz - Geography quizzes and learning resources
+- Geomastr - https://geomastr.com/ - Visual guide to country-specific bollards and road clues for GeoGuessr training
+- OpenGuessr Education Guides - https://education.openguessr.com/guides - Country-specific guides with visual clues and tips for OpenGuessr
+- Geometas - https://geometas.com/ - Interactive quizzes and visual metas for country identification in geography games
+- Plonk It - https://www.plonkit.net/ - Country guides, tips, and map recommendations for GeoGuessr players
+- GeoHints - https://geohints.com/ - Country-specific hints and Street View coverage maps for GeoGuessr training
+- geo.emily.bz - https://geo.emily.bz/ - Interactive geography quizzes and GeoGuessr tools including coverage date explorer and map quizzes
+- GeoGuessr Meta Library - https://docs.google.com/spreadsheets/d/1UNvkoY-LaktF75nU_cP7-wVRAEvH3fSqVZet20HqxXA/edit?gid=1829787855#gid=1829787855 - Community-curated meta library with country-specific clues, road signs, and visual identification tips
 
 ## Programming
 ### Good practice
 - Linux kernel coding style - https://www.kernel.org/doc/html/v4.10/process/coding-style.html
 
-# Films
+# 🎬 Films
 *Empty*
 
-# Free and Open Source Softwares (FOSS)
+# 💻 Free and Open Source Softwares (FOSS)
 FOSS I'm using in my daily life.
 
 ## Android
@@ -128,17 +145,18 @@ FOSS I'm using in my daily life.
 ## Self-host 
 - Immich - https://github.com/immich-app/immich - High-performance self-hosted photo and video management solution
 
-# Games
+# 🎮 Games
 
 ## Geography
 - FoodGuessr - https://www.foodguessr.com/ - Guess countries from dishes
 - OpenGuessr - https://openguessr.com/ - Free open-source GeoGuessr alternative
 
-# Linux Setup
+# 🐧 Linux Setup
 - Distro: Arch Linux
-- Keymap: Workman FR - https://github.com/Davphla/Workman-fr
+- Dotfiles: https://github.com/davd-gzl/dotfiles - Arch Linux config
+- Keymap: Workman FR - https://github.com/davd-gzl/Workman-fr
 
-# My Gears
+# 🎒 My Gears
 ## Everyday carry (EDC)
 - Camera bag (Thule Covert DSLR backpack 32L) - https://www.thule.com/en-us/backpacks/camera-backpacks-bags/thule-covert-dslr-backpack-32l-_-3205344
 - E-Ink reader (Boox palma 2) - https://shop.boox.com/products/palma2
@@ -148,52 +166,188 @@ FOSS I'm using in my daily life.
 - Laptop (Framework 16) - https://frame.work/laptop16
 - Split Keyboard (Halcyon Corne - splitkb.com) - https://splitkb.com/collections/keyboard-kits/products/halcyon-corne
 
-# Videos
+# 📹 Videos
 Ordered by preferences.
+
+## AI
+- Bernie vs. Claude - [YouTube](https://www.youtube.com/watch?v=h3AtWdeu_G0) - Senator Bernie Sanders
+- But how do AI images and videos actually work? - [YouTube](https://www.youtube.com/watch?v=iv-5mZ_9CPY) - 3Blue1Brown
+- 🇫🇷 The existential horror of the paperclip factory. - [YouTube](https://www.youtube.com/watch?v=ZP7T6WAK3Ow) - EGO
 
 ## Blockchain
 ### Bitcoin implementation
-- But how does bitcoin actually work? - https://youtu.be/bBC-nXj3Ng4?si=jbSueAZh5pNzhxLh - 3Blue1Brown
-- 🇫🇷 viens, on recode Bitcoin pour le comprendre - https://youtu.be/U4S-RGNyTJA?si=l4pTR81EWcXqk-Y9 - V2F
+- But how does bitcoin actually work? - [YouTube](https://youtu.be/bBC-nXj3Ng4?si=jbSueAZh5pNzhxLh) - 3Blue1Brown
+- 🇫🇷 viens, on recode Bitcoin pour le comprendre - [YouTube](https://youtu.be/U4S-RGNyTJA?si=l4pTR81EWcXqk-Y9) - V2F
+
+## Cyber-security
+- How to protect yourself from data leaks (before it's too late) - [YouTube](https://www.youtube.com/watch?v=KkEMzsZG06Q) - overfl0w
+- Becoming Anonymous: The Complete Guide To Maximum Security Online - [YouTube](https://www.youtube.com/watch?v=4Z7H5tXqMGo) - Techlore
+- GrapheneOS Review: Your BEST Secure & Private Mobile OS! - [YouTube](https://www.youtube.com/watch?v=hrDUOtWXGv8) - Techlore
+- 🇫🇷 How to bribe a public official? - [YouTube](https://www.youtube.com/watch?v=mKGFsDbvBsA) - Micode
+- 🇫🇷 Comment un selfie a fait tomber un empire criminel - [YouTube](https://www.youtube.com/watch?v=Vj4474vTtQ8) - Micode
+
+## Open Source Interviews
+- 🇫🇷 PARTI DE RIEN, IL EST DANS LE TOP 3 DES FORTUNES BELGES : SA BOITE VAUT 5 MILLIARDS DE $ ! (ODOO) - [YouTube](https://www.youtube.com/watch?v=c_QcUxvOhaM) - LEGEND - Story of Fabien Pinckaers, who built Odoo (open-source ERP) from nothing into a $5B company
+- 🇫🇷 Ce logiciel devrait être payant (tellement il est ouf) - [YouTube](https://www.youtube.com/watch?v=_NK-AbwA3PM) - Underscore_ - Interview with an open-source software entrepreneur behind an exceptional free product
+
+## Geopolitical / History
+- The New "Made in China" - [YouTube](https://www.youtube.com/watch?v=It1xr6FQcAo) - hoser
+- GREECE IS OVER. - [YouTube](https://www.youtube.com/watch?v=yO60Ala2Uio) - hoser
+- How Empires Fall and Why the US is Next - [YouTube](https://www.youtube.com/watch?v=EgUE0mA0Fis) - uncivilized
+- Gold Explained, Finally - [YouTube](https://www.youtube.com/watch?v=JMObz0Dgq7M) - Johnny Harris
+- The Shady Company That's Taken Over The USA - [YouTube](https://www.youtube.com/watch?v=ZvC_QLrBfUM) - hoser
+- Why Taiwan Makes All The Chips That Go Beep Boop - [YouTube](https://www.youtube.com/watch?v=pPo-wNB5his) - hoser
+- By Far, The Biggest Scandal In World History - [YouTube](https://www.youtube.com/watch?v=qZ8t1dfUHHY) - hoser
+- Why Europe Hates Tourists Now - [YouTube](https://www.youtube.com/watch?v=QD1GSmyuQto) - hoser
+- Africa's North Korea - [YouTube](https://www.youtube.com/watch?v=S3NO9VhUoEE) - hoser
+- Why Lebanon Made Their Pound Worth $0.000066 - [YouTube](https://www.youtube.com/watch?v=wTXSbDZcLJw) - hoser
+- Why Fiji's Biggest Export is Literal Water - [YouTube](https://www.youtube.com/watch?v=8VdOFUGK0Uc) - hoser
+- Who's In The Most Debt? - [YouTube](https://www.youtube.com/watch?v=2wuLQoNinzM) - hoser
+- The Most Broken Economy on Earth - [YouTube](https://www.youtube.com/watch?v=LfqjDvBP-vA) - hoser
+- Zimbabwe: How NOT To Run an Economy - [YouTube](https://www.youtube.com/watch?v=MtYE-KINteg) - hoser
+- The Crazy Plan to Make an African Giant - [YouTube](https://www.youtube.com/watch?v=wmWZp9fPvII) - hoser
+- How Venezuela was Destroyed - [YouTube](https://www.youtube.com/watch?v=TuoJhtd71fk) - hoser
+- MrBeast, Saudi Arabia, and The New Internet - [YouTube](https://www.youtube.com/watch?v=h1jXezxRCNc) - hoser
+- A little story of how Iceland got so rich - [YouTube](https://www.youtube.com/watch?v=0mPrXQs2F9c) - hoser
+- How The Last Soviet Republic Will Collapse - [YouTube](https://www.youtube.com/watch?v=Cux4tDDFktg) - hoser
+- How China Broke Plastic - [YouTube](https://www.youtube.com/watch?v=KngcC3e_uyQ) - hoser
+- America's History Is Repeating Itself - [YouTube](https://www.youtube.com/watch?v=GFUUUSggjO8) - hoser
+- How North Korea Makes Money While Sanctioned - [YouTube](https://www.youtube.com/watch?v=1p3cOBsuJ-k) - hoser
+- Why Almost All Fighters Use The AK-47 - [YouTube](https://www.youtube.com/watch?v=Ywp_wokASZI) - hoser
+- Saudi Arabia's Gamble to Stop a Total Collapse - [YouTube](https://www.youtube.com/watch?v=A6yhsHf6TP8) - hoser
+- How Finland Became the World's Happiest Country - [YouTube](https://www.youtube.com/watch?v=nCUEu0zWSmk) - hoser
+- South Korea is in a Hidden Crisis - [YouTube](https://www.youtube.com/watch?v=kEDPsOEQbl0) - hoser
+- I Went to Georgia to See Russia's Silent Invasion - [YouTube](https://www.youtube.com/watch?v=Sge5Y-G8Jds) - Johnny Harris
+- How Humans Invented Nationalism - [YouTube](https://www.youtube.com/watch?v=AXz0kbMKPu0) - Johnny Harris
+- The Indian Genius Nobody Understands - [YouTube](https://www.youtube.com/watch?v=fHRS_NOs24w) - fern
+- WW1 - OverSimplified (Part 1) - [YouTube](https://www.youtube.com/watch?v=dHSQAEam2yc) - OverSimplified
+- WW1 - OverSimplified (Part 2) - [YouTube](https://www.youtube.com/watch?v=Mun1dKkc_As) - OverSimplified
+- Hitler - OverSimplified (Part 1) - [YouTube](https://www.youtube.com/watch?v=ATlila3e9dM) - OverSimplified
+- Hitler - OverSimplified (Part 2) - [YouTube](https://www.youtube.com/watch?v=Dd1JUTA7Ijc) - OverSimplified
+- WW2 - OverSimplified (Part 1) - [YouTube](https://www.youtube.com/watch?v=_uk_6vfqwTA) - OverSimplified
+- WW2 - OverSimplified (Part 2) - [YouTube](https://www.youtube.com/watch?v=fo2Rb9h788s) - OverSimplified
+- The American Revolution - OverSimplified (Part 1) - [YouTube](https://www.youtube.com/watch?v=gzALIXcY4pg) - OverSimplified
+- The American Revolution - OverSimplified (Part 2) - [YouTube](https://www.youtube.com/watch?v=rtYC2jx1LM0) - OverSimplified
+- The American Civil War - OverSimplified (Part 1) - [YouTube](https://www.youtube.com/watch?v=tsxmyL7TUJg) - OverSimplified
+- The American Civil War - OverSimplified (Part 2) - [YouTube](https://www.youtube.com/watch?v=sV6uuMAnJUE) - OverSimplified
+- The Cold War - OverSimplified (Part 1) - [YouTube](https://www.youtube.com/watch?v=I79TpDe3t2g) - OverSimplified
+- The Cold War - OverSimplified (Part 2) - [YouTube](https://www.youtube.com/watch?v=OIYy32RuHao) - OverSimplified
+- Three Kingdoms - OverSimplified - [YouTube](https://www.youtube.com/watch?v=26EivpCPHnQ) - OverSimplified
+- The French Revolution - OverSimplified (Part 1) - [YouTube](https://www.youtube.com/watch?v=8qRZcXIODNU) - OverSimplified
+- The French Revolution - OverSimplified (Part 2) - [YouTube](https://www.youtube.com/watch?v=EQmjXM4VK2U) - OverSimplified
+- Henry VIII - OverSimplified - [YouTube](https://www.youtube.com/watch?v=ewLpXw6uN28) - OverSimplified
+- The Russian Revolution - OverSimplified (Part 1) - [YouTube](https://www.youtube.com/watch?v=Cqbleas1mmo) - OverSimplified
+- The Russian Revolution - OverSimplified (Part 2) - [YouTube](https://www.youtube.com/watch?v=b1reY72ktEc) - OverSimplified
+- Prohibition - OverSimplified - [YouTube](https://www.youtube.com/watch?v=AAGIi62-sAU) - OverSimplified
+- The Napoleonic Wars - OverSimplified (Part 1) - [YouTube](https://www.youtube.com/watch?v=zqllxbPWKNI) - OverSimplified
+- The Napoleonic Wars - OverSimplified (Part 2) - [YouTube](https://www.youtube.com/watch?v=mY3SEMTROas) - OverSimplified
+- The Pig War - OverSimplified - [YouTube](https://www.youtube.com/watch?v=QLq6GEiHqR8) - OverSimplified
+- The First Punic War - OverSimplified (Part 1) - [YouTube](https://www.youtube.com/watch?v=yRmOWcWdQAo) - OverSimplified
+- The First Punic War - OverSimplified (Part 2) - [YouTube](https://www.youtube.com/watch?v=hRSGxw2AQnk) - OverSimplified
+- The Second Punic War - OverSimplified (Part 1) - [YouTube](https://www.youtube.com/watch?v=lsbcN9-jU1Y) - OverSimplified
+- The Second Punic War - OverSimplified (Part 2) - [YouTube](https://www.youtube.com/watch?v=Q-nWA0WeF98) - OverSimplified
+- The Second Punic War - OverSimplified (Part 3) - [YouTube](https://www.youtube.com/watch?v=1BVJzaXv3rk) - OverSimplified
+- Emu War - OverSimplified - [YouTube](https://www.youtube.com/watch?v=BXpu6tbFCsI) - OverSimplified
+- 🇫🇷 Lee Kuan Yew : Le Meilleur Dictateur de l'Histoire - [YouTube](https://www.youtube.com/watch?v=r27u5T97S7I) - Crésus
+- 🇫🇷 Pourquoi la France a colonisé l'Algérie ? - [YouTube](https://www.youtube.com/watch?v=6TWeh1ZhyHU) - Nota Bene
+- 🇫🇷 Pourquoi l'Indonésie est Musulmane ? - [YouTube](https://www.youtube.com/watch?v=ca7YwYbhcx4) - La Minute Géographie
+
+## Journalist
+- 🇫🇷 J'ai enquêté sur les soldats israéliens qui se filment dans la bande de Gaza - [YouTube](https://www.youtube.com/watch?v=uPQ9aS5rNd4) - Charles Villa
+- 🇫🇷 J'ai passé un mois avec un criminel de guerre - [YouTube](https://www.youtube.com/watch?v=Fu_yUVV5ti0) - Camille Reporter
+- 🇫🇷 Clandestins : les routes les plus dangereuses vers l'Europe - [YouTube](https://www.youtube.com/watch?v=9JggKtbnBCY) - Investigation
+
+## Philosophy / Concept
+- I Was An MIT Educated Neurosurgeon Now I'm Unemployed And Alone In The Mountains - [YouTube](https://www.youtube.com/watch?v=25LUF8GmbFU) - Goobie and Doobie
+- 🇫🇷 Le Jeu de la Vie. - [YouTube](https://www.youtube.com/watch?v=eMn43As24Bo) - EGO
+- 🇫🇷 Visite banale du musée de l'oubli. - [YouTube](https://www.youtube.com/watch?v=pbCaHj86KLE) - EGO
+- 🇫🇷 1089 pixels pour comprendre que vous n'existez pas. - [YouTube](https://www.youtube.com/watch?v=GnmzcahoJ18) - EGO
 
 ## Programming
 ### Good practice
-- 🇫🇷 Comment la NASA code sans bug - https://youtu.be/wTZcGN4N334?si=F3-rLuPC2GxYYVO4 - V2F 
+- 🇫🇷 Comment la NASA code sans bug - [YouTube](https://youtu.be/wTZcGN4N334?si=F3-rLuPC2GxYYVO4) - V2F 
 
-# Youtube channels
+### Operating Systems
+- 🇫🇷 Vas-y, viens, on recode Windows de zéro - [YouTube](https://www.youtube.com/watch?v=ELTwwTsR5w8) - V2F
+
+### Tech
+- The Internet, Reinvented. - [YouTube](https://www.youtube.com/watch?v=XTnYVh7K6xQ) - Data Slayer - Building a decentralized, encrypted mesh network over LoRa and Wi-Fi HaLow using the Reticulum stack — no ISP, no central servers
+- Go isn't secure?!? feat. Low Level Learning - [YouTube](https://www.youtube.com/watch?v=N936XwLmtmo) - Backend Banter
+- 🇫🇷 On a reçu le géographe qui cartographie le net - [YouTube](https://www.youtube.com/watch?v=iI3nE9wBn48) - Underscore_
+
+## Science
+- Is Fast Charging Killing the Battery? A 2-Year Test on 40 Phones - [YouTube](https://www.youtube.com/watch?v=kLS5Cg_yNdM) - Veritasium
+- We Built This to Film What's 7,500 Light-Years Away - [YouTube](https://www.youtube.com/watch?v=5A3D06D97jo) - HTX Studio - The editing is so cool
+- We Built a Chinese Typewriter... - [YouTube](https://www.youtube.com/watch?v=-IhuFgiWNS4) - HTX Studio
+- Project Gigapixel | Developing a 3200MP linear scan medium format camera - [YouTube](https://www.youtube.com/watch?v=KSvjJGbFCws) - Gigawipf
+- Backyard Squirrel Maze 1.0- Ninja Warrior Course - [YouTube](https://www.youtube.com/watch?v=hFZFjoX2cGg) - Mark Rober
+- Backyard Squirrel Maze 2.0- The Walnut Heist - [YouTube](https://www.youtube.com/watch?v=DTvS9lvRxZ8) - Mark Rober
+- Backyard Squirrelympics 3.0- The Summer Games - [YouTube](https://www.youtube.com/watch?v=lg5wznn3IBE) - Mark Rober
+- Octopus vs Underwater Maze - [YouTube](https://www.youtube.com/watch?v=7__r4FVj-EI) - Mark Rober
+- Bed Bugs- What You've Been Told is Totally False - [YouTube](https://www.youtube.com/watch?v=2JAOTJxYqh8) - Mark Rober
+- Testing The World's Smartest Crow - [YouTube](https://www.youtube.com/watch?v=tpg3VvoIVfA) - Mark Rober
+- 🇫🇷 L'actualité est un parasite mental. Faut-il vraiment en consommer ? - [YouTube](https://www.youtube.com/watch?v=HJOpzABZVpo) - DirtyBiology
+- 🇫🇷 La menace existentielle de la vie MIROIR | ЯIOЯIM - [YouTube](https://www.youtube.com/watch?v=iVPNzCHJlQI) - DirtyBiology
+- 🇫🇷 Ce qui nous rend heureux : le résultat de 10.000 études scientifiques - [YouTube](https://www.youtube.com/watch?v=LbJ8V8y4ruk) - DirtyBiology
+
+## Travel / World documentaries
+- I Spent 5 Weeks in IRAN. Here's What I Learned! - [YouTube](https://www.youtube.com/watch?v=yvLypBQrybg) - Drew Binsky
+- The Coldest Village on Earth: Oymyakon (-71°C, -96°F) - [YouTube](https://www.youtube.com/watch?v=2C8zYFArnKY) - Ruhi Cenet Documentaries
+- Visiting the Most Crowded Island on Earth (I can't forget what I saw) - [YouTube](https://www.youtube.com/watch?v=LgQxzYQP4as) - Ruhi Cenet Documentaries
+- Entering Bangladesh | World's Deadliest Traffic - [YouTube](https://www.youtube.com/watch?v=CIy9wAkQvr8) - Drew Binsky
+- I Spent 3 Days With World's Last Hunter-Gatherer Tribe - [YouTube](https://www.youtube.com/watch?v=QNQNhPC4Jvw) - Drew Binsky
+- I Visited Every Country in Europe. Here's My Rankings - [YouTube](https://www.youtube.com/watch?v=6PIbdDDtugk) - Drew Binsky
+- Entering the World's Largest City (Chongqing, China) - [YouTube](https://www.youtube.com/watch?v=vNR9QjmhH00) - Drew Binsky
+- $100 Challenge in World's Cheapest Country (Uzbekistan) - [YouTube](https://www.youtube.com/watch?v=H1tOACQUt5g) - Drew Binsky
+- 🇫🇷 100H dans un lac radioactif créé par une bombe nucléaire ! - [YouTube](https://www.youtube.com/watch?v=JDuN5FJCJDw) - CYRILmp4
+- 🇫🇷 2€ dans la ville la MOINS CHÈRE du MONDE ! - [YouTube](https://www.youtube.com/watch?v=Tv_sy_hPNws) - CYRILmp4
+
+## Urbanism
+- Every Reason to Hate Cars - [YouTube](https://www.youtube.com/watch?v=umgi-CbaSRU) - Not Just Bikes
+- The Absolute Best Transportation for Cities (trams) - [YouTube](https://www.youtube.com/watch?v=bNTg9EX7MLw) - Not Just Bikes
+- These Stupid Trucks are Literally Killing Us - [YouTube](https://www.youtube.com/watch?v=jN7mSXMruEo) - Not Just Bikes
+- Why Dutch Bikes are Better (and why you should want one) - [YouTube](https://www.youtube.com/watch?v=aESqrP3hfi8) - Not Just Bikes
+- Cities Aren't Loud: Cars Are Loud - [YouTube](https://www.youtube.com/watch?v=CTV-wwszGw8) - Not Just Bikes
+- How Self-Driving Cars will Destroy Cities (and what to do about it) - [YouTube](https://www.youtube.com/watch?v=040ejWnFkj0) - Not Just Bikes
+- More Lanes are (Still) a Bad Thing (Induced Demand) - [YouTube](https://www.youtube.com/watch?v=CHZwOAIect4) - Not Just Bikes
+
+# 📺 Youtube channels
 Ordered by preferences.
 Descriptions are my personal view, visit the channels for the full picture.
 
 ## 📌 Geopolitical / History
-- h0ser - https://www.youtube.com/@h0ser - Map-based geopolitical deep dives and predictions
-- OverSimplified - https://www.youtube.com/@OverSimplified - Hilarious animated summaries of major historical events
-- Johnny Harris - https://www.youtube.com/@johnnyharris - Visual explainers on borders, maps, and global issues
-- fern - https://www.youtube.com/@fern-tv - In-depth documentaries on countries and conflicts
-- neo - https://www.youtube.com/@neoexplains/videos - Short explainers on current global events
+- h0ser - [YouTube](https://www.youtube.com/@h0ser) - Map-based geopolitical deep dives and predictions
+- OverSimplified - [YouTube](https://www.youtube.com/@OverSimplified) - Hilarious animated summaries of major historical events
+- Johnny Harris - [YouTube](https://www.youtube.com/@johnnyharris) - Visual explainers on borders, maps, and global issues
+- fern - [YouTube](https://www.youtube.com/@fern-tv) - In-depth documentaries on countries and conflicts
+- neo - [YouTube](https://www.youtube.com/@neoexplains/videos) - Short explainers on current global events
 
 ## 📌 Journalist
-- 🇫🇷 Charles Villa - https://www.youtube.com/@CharlesVilla - Investigative journalist and war correspondent
+- 🇫🇷 Charles Villa - [YouTube](https://www.youtube.com/@CharlesVilla) - Investigative journalist and war correspondent
 
 ## 📌 Tech popularization
-- 3Blue1Brown - https://www.youtube.com/@3blue1brown - Animated math explanations (linear algebra, calculus, neural networks)
-- Low Level - https://www.youtube.com/@LowLevelTV - Systems programming, Rust, C, and computer internals
-- 🇫🇷 EGO - https://www.youtube.com/@ego_one - Storytelling deep dives on tech, AI, and complex intellectual subjects
-- 🇫🇷 Micode - https://www.youtube.com/@Micode - Tech investigations and stories behind famous hacks
-- 🇫🇷 V2F - https://www.youtube.com/@V2F - Recreating tech from scratch (Bitcoin, compression, AI)
-- 🇫🇷 overfl0w - https://www.youtube.com/@overfl-0-w - Ethical hacking and security CTF walkthroughs
+- 3Blue1Brown - [YouTube](https://www.youtube.com/@3blue1brown) - Animated math explanations (linear algebra, calculus, neural networks)
+- Low Level - [YouTube](https://www.youtube.com/@LowLevelTV) - Systems programming, Rust, C, and computer internals
+- 🇫🇷 EGO - [YouTube](https://www.youtube.com/@ego_one) - Storytelling deep dives on tech, AI, and complex intellectual subjects
+- 🇫🇷 Micode - [YouTube](https://www.youtube.com/@Micode) - Tech investigations and stories behind famous hacks
+- 🇫🇷 V2F - [YouTube](https://www.youtube.com/@V2F) - Recreating tech from scratch (Bitcoin, compression, AI)
+- 🇫🇷 overfl0w - [YouTube](https://www.youtube.com/@overfl-0-w) - Ethical hacking and security CTF walkthroughs
 
 ## 📌 Travel / World documentaries
-- Drew Binsky - https://www.youtube.com/@drewbinsky - World traveler (visited every country), cultural vlogs
-- Ruhi Cenet Documentaries - https://www.youtube.com/@ruhicenetdocs - Cinematic documentaries on extraordinary lives
-- Little Chinese Everywhere - https://www.youtube.com/@littlechineseeverywhere - Chinese diaspora stories and cultural exchanges
+- Drew Binsky - [YouTube](https://www.youtube.com/@drewbinsky) - World traveler (visited every country), cultural vlogs
+- Ruhi Cenet Documentaries - [YouTube](https://www.youtube.com/@ruhicenetdocs) - Cinematic documentaries on extraordinary lives
+- Little Chinese Everywhere - [YouTube](https://www.youtube.com/@littlechineseeverywhere) - Chinese diaspora stories and cultural exchanges
 
 ## Engineer popularization
-- Mark Rober - https://www.youtube.com/@MarkRober - Ex-NASA/Apple engineer with viral science experiments
-- HTX Studio - https://www.youtube.com/@HTXStudio - Creative engineering builds and challenges
+- Mark Rober - [YouTube](https://www.youtube.com/@MarkRober) - Ex-NASA/Apple engineer with viral science experiments
+- HTX Studio - [YouTube](https://www.youtube.com/@HTXStudio) - Creative engineering builds and challenges
 
 ## Entrepreneurship
-- 🇫🇷 Fuzay² - https://www.youtube.com/@FuzayAuCarre - Entrepreneurship insights and business stories
+- 🇫🇷 Fuzay² - [YouTube](https://www.youtube.com/@FuzayAuCarre) - Entrepreneurship insights and business stories
 
 ## Podcast
-- 🇫🇷 Underscore_ - https://www.youtube.com/@Underscore_ - Long-form interviews with French tech figures
-- 🇫🇷 LEGEND - https://www.youtube.com/@legendmedia - Inspiring stories from athletes, artists, and entrepreneurs
+- 🇫🇷 Underscore_ - [YouTube](https://www.youtube.com/@Underscore_) - Long-form interviews with French tech figures
+- 🇫🇷 LEGEND - [YouTube](https://www.youtube.com/@legendmedia) - Inspiring stories from athletes, artists, and entrepreneurs
+
+## Urbanism
+- Not Just Bikes - [YouTube](https://www.youtube.com/@NotJustBikes) - Urban planning, cycling infrastructure, and why car-dependent cities fail

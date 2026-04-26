@@ -8,7 +8,7 @@ color_scheme: light
 # Aux links (top right)
 aux_links:
   "GitHub":
-    - "https://github.com/Davphla/personal-wiki"
+    - "https://github.com/davd-gzl/personal-wiki"
 
 # Back to top link
 back_to_top: true
