@@ -180,7 +180,7 @@ Ordered by preferences.
 - But how does bitcoin actually work? - [YouTube](https://youtu.be/bBC-nXj3Ng4?si=jbSueAZh5pNzhxLh) - 3Blue1Brown
 - 🇫🇷 viens, on recode Bitcoin pour le comprendre - [YouTube](https://youtu.be/U4S-RGNyTJA?si=l4pTR81EWcXqk-Y9) - V2F
 
-## Cyber-security
+## Cyber-security / Privacy
 - How to protect yourself from data leaks (before it's too late) - [YouTube](https://www.youtube.com/watch?v=KkEMzsZG06Q) - overfl0w
 - Becoming Anonymous: The Complete Guide To Maximum Security Online - [YouTube](https://www.youtube.com/watch?v=4Z7H5tXqMGo) - Techlore
 - GrapheneOS Review: Your BEST Secure & Private Mobile OS! - [YouTube](https://www.youtube.com/watch?v=hrDUOtWXGv8) - Techlore
