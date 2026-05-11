@@ -349,7 +349,6 @@ Descriptions are my personal view, visit the channels for the full picture.
 
 ## Podcast
 - 🇫🇷 Underscore_ - [YouTube](https://www.youtube.com/@Underscore_) - Long-form interviews with French tech figures
-- 🇫🇷 LEGEND - [YouTube](https://www.youtube.com/@legendmedia) - Inspiring stories from athletes, artists, and entrepreneurs
-
+- 
 ## Urbanism
 - Not Just Bikes - [YouTube](https://www.youtube.com/@NotJustBikes) - Urban planning, cycling infrastructure, and why car-dependent cities fail
