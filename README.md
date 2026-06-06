@@ -298,6 +298,7 @@ Ordered by preferences.
 - 🇫🇷 Ce qui nous rend heureux : le résultat de 10.000 études scientifiques - [YouTube](https://www.youtube.com/watch?v=LbJ8V8y4ruk) - DirtyBiology
 
 ## Travel / World documentaries
+- I Spent A Day With Kids Who Walk 5 Hours To School - [YouTube](https://www.youtube.com/watch?v=frhoqX9ADdc) - Drew Binsky
 - I Spent 5 Weeks in IRAN. Here's What I Learned! - [YouTube](https://www.youtube.com/watch?v=yvLypBQrybg) - Drew Binsky
 - The Coldest Village on Earth: Oymyakon (-71°C, -96°F) - [YouTube](https://www.youtube.com/watch?v=2C8zYFArnKY) - Ruhi Cenet Documentaries
 - Visiting the Most Crowded Island on Earth (I can't forget what I saw) - [YouTube](https://www.youtube.com/watch?v=LgQxzYQP4as) - Ruhi Cenet Documentaries
