@@ -166,6 +166,7 @@ FOSS I'm using in my daily life.
 ## Tech Gear
 - Laptop (Framework 16) - https://frame.work/laptop16
 - Split Keyboard (Halcyon Corne - splitkb.com) - https://splitkb.com/collections/keyboard-kits/products/halcyon-corne
+- Power Bank (Anker 25000mAh, 165W) - https://www.anker.com/products/a1695-anker-power-bank-25000mah-165w
 
 # 📹 Videos
 Ordered by preferences.
