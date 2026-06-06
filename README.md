@@ -139,6 +139,7 @@ FOSS I'm using in my daily life.
 
 ## Development
 - BMAD-METHOD - https://github.com/bmad-code-org/BMAD-METHOD - AI-driven agile development framework with specialized agents and guided workflows
+- Spec Kit - https://github.com/github/spec-kit - GitHub's toolkit for Spec-Driven Development, building software from executable specifications
 
 ## Linux
 *Empty*
@@ -159,9 +160,12 @@ FOSS I'm using in my daily life.
 
 # 🎒 My Gears
 ## Everyday carry (EDC)
+- Camera (Sony a6700) - https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/ilce6700-b
 - Camera bag (Thule Covert DSLR backpack 32L) - https://www.thule.com/en-us/backpacks/camera-backpacks-bags/thule-covert-dslr-backpack-32l-_-3205344
 - E-Ink reader (Boox palma 2) - https://shop.boox.com/products/palma2
 - Headset (Sony WH-1000XM4) - https://electronics.sony.com/audio/headphones/headband/p/wh1000xm4-b
+- Earbuds (Sony WF-1000XM5) - https://electronics.sony.com/audio/headphones/truly-wireless/p/wf1000xm5-b
+- Bone conduction headphones (Shokz OpenRun Pro 2) - https://shokz.com/products/openrunpro2
 
 ## Tech Gear
 - Laptop (Framework 16) - https://frame.work/laptop16
