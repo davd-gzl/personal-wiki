@@ -43,11 +43,32 @@ Content in languages other than English uses flag emoji:
 - `#` = Main categories (Blogs, Books, Documentations, Films, FOSS, Games, etc.)
 - `##` = Subcategories (Blockchain, Cryptography, Programming)
 - `###` = Specific topics (Consensus, Layer 2, Argon2)
+- The last level is always the **year of addition**, one below the deepest
+  heading that holds entries
 
 ### Ordering Rules
 
 #### Global
 All main sections (`#`) and subsections (`##`, `###`) are in **alphabetical order**.
+Year headings are the exception: they are ordered by year, newest first.
+
+#### By Addition Year
+Every entry sits under a heading naming the year it was added, one level below
+the deepest heading that holds entries:
+
+```markdown
+## Cyber-security
+### 2027
+- Newer entry - URL - Description
+### 2026
+- Older entry - URL - Description
+```
+
+Under `### Algorithm` the year is a `####`, and under a `#` with no subsection
+it is a `##`. Adding an entry in a year that has no heading yet creates it above
+the previous year.
+
+Within a year, the section's own rule below applies unchanged.
 
 #### By Language
 Within each section, entries are ordered:
@@ -56,13 +77,14 @@ Within each section, entries are ordered:
 3. Other languages
 
 #### By Section Type
-- **Documentations**: By addition date (newest last)
+- **Documentations**: By addition date within the year (newest last)
 - **Blogs, Videos, Youtube channels**: By preference
 - **FOSS**: Alphabetically
 
 ### Table of Contents
 
 The README has a **manual** Table of Contents that must be updated when sections change.
+Year headings are **not** listed in it.
 
 #### GitHub Anchor Link Format
 - Spaces become hyphens: `Tech popularization` → `tech-popularization`
@@ -89,9 +111,11 @@ The README has a **manual** Table of Contents that must be updated when sections
 1. Determine the appropriate category
 2. Use the standard entry format with a concise description
 3. For new URLs, fetch the webpage to write an accurate description
-4. Place entry respecting alphabetical order and language ordering
-5. If creating a new section, update the Table of Contents with correct anchor
-6. Keep all sections in alphabetical order
+4. Place the entry under the current year's heading, creating that heading above
+   the previous year if it does not exist yet
+5. Within the year, respect alphabetical order and language ordering
+6. If creating a new section, update the Table of Contents with correct anchor
+7. Keep all sections in alphabetical order
 
 ---
 
