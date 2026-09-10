@@ -200,6 +200,7 @@ Ordered by preferences.
 ### 2026
 - Bernie vs. Claude - [YouTube](https://www.youtube.com/watch?v=h3AtWdeu_G0) - Senator Bernie Sanders
 - But how do AI images and videos actually work? - [YouTube](https://www.youtube.com/watch?v=iv-5mZ_9CPY) - 3Blue1Brown
+- 🇫🇷 On ne paie plus les développeurs pour écrire du code - [YouTube](https://www.youtube.com/watch?v=AiytemqB_F0) - Underscore_ - What AI actually changes inside a 15-year-old tech company
 - 🇫🇷 The existential horror of the paperclip factory. - [YouTube](https://www.youtube.com/watch?v=ZP7T6WAK3Ow) - EGO
 
 ## Blockchain
@@ -218,8 +219,9 @@ Ordered by preferences.
 
 ## Geopolitical / History
 ### 2026
+- How to go BROKE like Nauru - [YouTube](https://www.youtube.com/watch?v=gE-_m7S9apM) - hoser - How phosphate mining made and then broke Nauru's economy
 - The New "Made in China" - [YouTube](https://www.youtube.com/watch?v=It1xr6FQcAo) - hoser
-- GREECE IS OVER. - [YouTube](https://www.youtube.com/watch?v=yO60Ala2Uio) - hoser
+- The Fastest Shrinking Country in Europe - [YouTube](https://www.youtube.com/watch?v=yO60Ala2Uio) - hoser
 - How Empires Fall and Why the US is Next - [YouTube](https://www.youtube.com/watch?v=EgUE0mA0Fis) - uncivilized
 - Gold Explained, Finally - [YouTube](https://www.youtube.com/watch?v=JMObz0Dgq7M) - Johnny Harris
 - The Shady Company That's Taken Over The USA - [YouTube](https://www.youtube.com/watch?v=ZvC_QLrBfUM) - hoser
