@@ -76,11 +76,13 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
 Ordered by preferences.
 
 ## Decentralization / Web3 / Blockchain
+### 2026
 - Manfred's blog - https://moul.life/blog/ - Essays on decentralization, blockchain, open-source, governance, and software design
 - Rekt News - https://rekt.news/ - Analysis and investigation of DeFi hacks, exploits, and security incidents in crypto
 
 # 📚 Books
 ## Cryptography
+### 2026
 - "Serious Cryptography, 2nd Edition: A Practical Introduction to Modern Encryption 2nd Edition" by Jean-Philippe Aumasson - https://nostarch.com/serious-cryptography-2nd-edition
 
 # 📖 Documentations
@@ -88,32 +90,40 @@ Ordered by addition date.
 
 ## Blockchain
 ### Consensus
+#### 2026
 - Reaching Consensus: Developing Fault-tolerant SMTs using Golang - https://gno.land/r/gnoland/blog:p/reaching-consensus
 
 ### Layer 2
+#### 2026
 - Ethereum layer 2 guide - https://www.risein.com/blog/ultimate-layer-2-guide-from-l1s-to-l2s
 
 ## Cryptography
 ### Algorithm
 #### Argon2
+##### 2026
 - Password Hashing Competition - https://www.password-hashing.net/
 - White Paper - https://github.com/P-H-C/phc-winner-argon2/blob/master/argon2-specs.pdf
 
 ### Math
+#### 2026
 - Elliptic Curve Cryptography: a gentle introduction - https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/
 
 ### Post-Quantum
+#### 2026
 - Signal Protocol and Post-Quantum Ratchets - https://signal.org/blog/spqr/
 
 ## Cyber-security
 ### AI
+#### 2026
 - Death by a thousand slops - https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/ - curl maintainer on AI-generated fake security reports overwhelming OSS projects
 - On AI Slop vs OSS Security - https://devansh.bearblog.dev/ai-slop/ - Bug bounty industry perspective on AI slop in vulnerability reporting and maintainer burnout
 
 ### Hacker culture
+#### 2026
 - Calling All Hackers - https://phrack.org/issues/71/17#article
 
 ## Geography
+### 2026
 - Geomastr - https://geomastr.com/ - Visual guide to country-specific bollards and road clues for GeoGuessr training
 - OpenGuessr Education Guides - https://education.openguessr.com/guides - Country-specific guides with visual clues and tips for OpenGuessr
 - Geometas - https://geometas.com/ - Interactive quizzes and visual metas for country identification in geography games
@@ -124,6 +134,7 @@ Ordered by addition date.
 
 ## Programming
 ### Good practice
+#### 2026
 - Linux kernel coding style - https://www.kernel.org/doc/html/v4.10/process/coding-style.html
 - 2025 DORA Report on AI-assisted development - https://cloud.google.com/blog/products/ai-machine-learning/announcing-the-2025-dora-report - Findings on AI adoption (90%), team archetypes, and platform engineering's impact on org health
 
@@ -134,12 +145,15 @@ Ordered by addition date.
 FOSS I'm using in my daily life.
 
 ## Android
+### 2026
 - GrapheneOS - https://github.com/GrapheneOS - Privacy and security focused mobile OS with Android app compatibility
 
 ## Cross-platform
+### 2026
 - Obsidian - https://github.com/obsidianmd - Markdown-based knowledge base and note-taking app
 
 ## Development
+### 2026
 - BMAD-METHOD - https://github.com/bmad-code-org/BMAD-METHOD - AI-driven agile development framework with specialized agents and guided workflows
 - Spec Kit - https://github.com/github/spec-kit - GitHub's toolkit for Spec-Driven Development, building software from executable specifications
 
@@ -147,21 +161,25 @@ FOSS I'm using in my daily life.
 *Empty*
 
 ## Self-host
+### 2026
 - Immich - https://github.com/immich-app/immich - High-performance self-hosted photo and video management solution
 
 # 🎮 Games
 
 ## Geography
+### 2026
 - FoodGuessr - https://www.foodguessr.com/ - Guess countries from dishes
 - OpenGuessr - https://openguessr.com/ - Free open-source GeoGuessr alternative
 
 # 🐧 Linux Setup
+## 2026
 - Distro: Arch Linux
 - Dotfiles: https://github.com/davd-gzl/dotfiles - Arch Linux config
 - Keymap: Workman FR - https://github.com/davd-gzl/Workman-fr
 
 # 🎒 My Gears
 ## Everyday carry (EDC)
+### 2026
 - Camera (Sony a6700) - https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/ilce6700-b
 - Camera bag (Thule Covert DSLR backpack 32L) - https://www.thule.com/en-us/backpacks/camera-backpacks-bags/thule-covert-dslr-backpack-32l-_-3205344
 - E-Ink reader (Boox palma 2) - https://shop.boox.com/products/palma2
@@ -170,6 +188,7 @@ FOSS I'm using in my daily life.
 - Bone conduction headphones (Shokz OpenRun Pro 2) - https://shokz.com/products/openrunpro2
 
 ## Tech Gear
+### 2026
 - Laptop (Framework 16) - https://frame.work/laptop16
 - Split Keyboard (Halcyon Corne - splitkb.com) - https://splitkb.com/collections/keyboard-kits/products/halcyon-corne
 - Power Bank (Anker 25000mAh, 165W) - https://www.anker.com/products/a1695-anker-power-bank-25000mah-165w
@@ -178,16 +197,19 @@ FOSS I'm using in my daily life.
 Ordered by preferences.
 
 ## AI
+### 2026
 - Bernie vs. Claude - [YouTube](https://www.youtube.com/watch?v=h3AtWdeu_G0) - Senator Bernie Sanders
 - But how do AI images and videos actually work? - [YouTube](https://www.youtube.com/watch?v=iv-5mZ_9CPY) - 3Blue1Brown
 - 🇫🇷 The existential horror of the paperclip factory. - [YouTube](https://www.youtube.com/watch?v=ZP7T6WAK3Ow) - EGO
 
 ## Blockchain
 ### Bitcoin implementation
+#### 2026
 - But how does bitcoin actually work? - [YouTube](https://youtu.be/bBC-nXj3Ng4?si=jbSueAZh5pNzhxLh) - 3Blue1Brown
 - 🇫🇷 viens, on recode Bitcoin pour le comprendre - [YouTube](https://youtu.be/U4S-RGNyTJA?si=l4pTR81EWcXqk-Y9) - V2F
 
 ## Cyber-security / Privacy
+### 2026
 - How to protect yourself from data leaks (before it's too late) - [YouTube](https://www.youtube.com/watch?v=KkEMzsZG06Q) - overfl0w
 - Becoming Anonymous: The Complete Guide To Maximum Security Online - [YouTube](https://www.youtube.com/watch?v=4Z7H5tXqMGo) - Techlore
 - GrapheneOS Review: Your BEST Secure & Private Mobile OS! - [YouTube](https://www.youtube.com/watch?v=hrDUOtWXGv8) - Techlore
@@ -195,6 +217,7 @@ Ordered by preferences.
 - 🇫🇷 Comment un selfie a fait tomber un empire criminel - [YouTube](https://www.youtube.com/watch?v=Vj4474vTtQ8) - Micode
 
 ## Geopolitical / History
+### 2026
 - The New "Made in China" - [YouTube](https://www.youtube.com/watch?v=It1xr6FQcAo) - hoser
 - GREECE IS OVER. - [YouTube](https://www.youtube.com/watch?v=yO60Ala2Uio) - hoser
 - How Empires Fall and Why the US is Next - [YouTube](https://www.youtube.com/watch?v=EgUE0mA0Fis) - uncivilized
@@ -257,16 +280,19 @@ Ordered by preferences.
 - 🇫🇷 Pourquoi l'Indonésie est Musulmane ? - [YouTube](https://www.youtube.com/watch?v=ca7YwYbhcx4) - La Minute Géographie
 
 ## Journalist
+### 2026
 - 🇫🇷 J'ai enquêté sur les soldats israéliens qui se filment dans la bande de Gaza - [YouTube](https://www.youtube.com/watch?v=uPQ9aS5rNd4) - Charles Villa
 - 🇫🇷 2 ans en immersion dans l'enfer de Gaza - [YouTube](https://www.youtube.com/watch?v=xYj-XMIjHGo) - Charles Villa & Suhail Nassar
 - 🇫🇷 J'ai passé un mois avec un criminel de guerre - [YouTube](https://www.youtube.com/watch?v=Fu_yUVV5ti0) - Camille Reporter
 - 🇫🇷 Clandestins : les routes les plus dangereuses vers l'Europe - [YouTube](https://www.youtube.com/watch?v=9JggKtbnBCY) - Investigation
 
 ## Open Source Interviews
+### 2026
 - 🇫🇷 PARTI DE RIEN, IL EST DANS LE TOP 3 DES FORTUNES BELGES : SA BOITE VAUT 5 MILLIARDS DE $ ! (ODOO) - [YouTube](https://www.youtube.com/watch?v=c_QcUxvOhaM) - LEGEND - Story of Fabien Pinckaers, who built Odoo (open-source ERP) from nothing into a $5B company
 - 🇫🇷 Ce logiciel devrait être payant (tellement il est ouf) - [YouTube](https://www.youtube.com/watch?v=_NK-AbwA3PM) - Underscore_ - Interview with an open-source software entrepreneur behind an exceptional free product
 
 ## Philosophy / Concept
+### 2026
 - I Was An MIT Educated Neurosurgeon Now I'm Unemployed And Alone In The Mountains - [YouTube](https://www.youtube.com/watch?v=25LUF8GmbFU) - Goobie and Doobie
 - 🇫🇷 Le Jeu de la Vie. - [YouTube](https://www.youtube.com/watch?v=eMn43As24Bo) - EGO
 - 🇫🇷 Visite banale du musée de l'oubli. - [YouTube](https://www.youtube.com/watch?v=pbCaHj86KLE) - EGO
@@ -274,12 +300,15 @@ Ordered by preferences.
 
 ## Programming
 ### Good practice
+#### 2026
 - 🇫🇷 Comment la NASA code sans bug - [YouTube](https://youtu.be/wTZcGN4N334?si=F3-rLuPC2GxYYVO4) - V2F
 
 ### Operating Systems
+#### 2026
 - 🇫🇷 Vas-y, viens, on recode Windows de zéro - [YouTube](https://www.youtube.com/watch?v=ELTwwTsR5w8) - V2F
 
 ## Science
+### 2026
 - Is Fast Charging Killing the Battery? A 2-Year Test on 40 Phones - [YouTube](https://www.youtube.com/watch?v=kLS5Cg_yNdM) - Veritasium
 - We Built This to Film What's 7,500 Light-Years Away - [YouTube](https://www.youtube.com/watch?v=5A3D06D97jo) - HTX Studio - The editing is so cool
 - We Built a Chinese Typewriter... - [YouTube](https://www.youtube.com/watch?v=-IhuFgiWNS4) - HTX Studio
@@ -295,11 +324,13 @@ Ordered by preferences.
 - 🇫🇷 Ce qui nous rend heureux : le résultat de 10.000 études scientifiques - [YouTube](https://www.youtube.com/watch?v=LbJ8V8y4ruk) - DirtyBiology
 
 ## Tech
+### 2026
 - The Internet, Reinvented. - [YouTube](https://www.youtube.com/watch?v=XTnYVh7K6xQ) - Data Slayer - Building a decentralized, encrypted mesh network over LoRa and Wi-Fi HaLow using the Reticulum stack — no ISP, no central servers
 - Go isn't secure?!? feat. Low Level Learning - [YouTube](https://www.youtube.com/watch?v=N936XwLmtmo) - Backend Banter
 - 🇫🇷 On a reçu le géographe qui cartographie le net - [YouTube](https://www.youtube.com/watch?v=iI3nE9wBn48) - Underscore_
 
 ## Travel / World documentaries
+### 2026
 - I Spent A Day With Kids Who Walk 5 Hours To School - [YouTube](https://www.youtube.com/watch?v=frhoqX9ADdc) - Drew Binsky
 - I Spent 5 Weeks in IRAN. Here's What I Learned! - [YouTube](https://www.youtube.com/watch?v=yvLypBQrybg) - Drew Binsky
 - The Coldest Village on Earth: Oymyakon (-71°C, -96°F) - [YouTube](https://www.youtube.com/watch?v=2C8zYFArnKY) - Ruhi Cenet Documentaries
@@ -313,6 +344,7 @@ Ordered by preferences.
 - 🇫🇷 2€ dans la ville la MOINS CHÈRE du MONDE ! - [YouTube](https://www.youtube.com/watch?v=Tv_sy_hPNws) - CYRILmp4
 
 ## Urbanism
+### 2026
 - Every Reason to Hate Cars - [YouTube](https://www.youtube.com/watch?v=umgi-CbaSRU) - Not Just Bikes
 - The Absolute Best Transportation for Cities (trams) - [YouTube](https://www.youtube.com/watch?v=bNTg9EX7MLw) - Not Just Bikes
 - These Stupid Trucks are Literally Killing Us - [YouTube](https://www.youtube.com/watch?v=jN7mSXMruEo) - Not Just Bikes
@@ -326,6 +358,7 @@ Ordered by preferences.
 Descriptions are my personal view, visit the channels for the full picture.
 
 ## 📌 Geopolitical / History
+### 2026
 - h0ser - [YouTube](https://www.youtube.com/@h0ser) - Map-based geopolitical deep dives and predictions
 - OverSimplified - [YouTube](https://www.youtube.com/@OverSimplified) - Hilarious animated summaries of major historical events
 - Johnny Harris - [YouTube](https://www.youtube.com/@johnnyharris) - Visual explainers on borders, maps, and global issues
@@ -333,9 +366,11 @@ Descriptions are my personal view, visit the channels for the full picture.
 - neo - [YouTube](https://www.youtube.com/@neoexplains/videos) - Short explainers on current global events
 
 ## 📌 Journalist
+### 2026
 - 🇫🇷 Charles Villa - [YouTube](https://www.youtube.com/@CharlesVilla) - Investigative journalist and war correspondent
 
 ## 📌 Tech popularization
+### 2026
 - 3Blue1Brown - [YouTube](https://www.youtube.com/@3blue1brown) - Animated math explanations (linear algebra, calculus, neural networks)
 - Low Level - [YouTube](https://www.youtube.com/@LowLevelTV) - Systems programming, Rust, C, and computer internals
 - 🇫🇷 EGO - [YouTube](https://www.youtube.com/@ego_one) - Storytelling deep dives on tech, AI, and complex intellectual subjects
@@ -344,19 +379,24 @@ Descriptions are my personal view, visit the channels for the full picture.
 - 🇫🇷 overfl0w - [YouTube](https://www.youtube.com/@overfl-0-w) - Ethical hacking and security CTF walkthroughs
 
 ## 📌 Travel / World documentaries
+### 2026
 - Drew Binsky - [YouTube](https://www.youtube.com/@drewbinsky) - World traveler (visited every country), cultural vlogs
 - Ruhi Cenet Documentaries - [YouTube](https://www.youtube.com/@ruhicenetdocs) - Cinematic documentaries on extraordinary lives
 - Little Chinese Everywhere - [YouTube](https://www.youtube.com/@littlechineseeverywhere) - Chinese diaspora stories and cultural exchanges
 
 ## Engineer popularization
+### 2026
 - Mark Rober - [YouTube](https://www.youtube.com/@MarkRober) - Ex-NASA/Apple engineer with viral science experiments
 - HTX Studio - [YouTube](https://www.youtube.com/@HTXStudio) - Creative engineering builds and challenges
 
 ## Entrepreneurship
+### 2026
 - 🇫🇷 Fuzay² - [YouTube](https://www.youtube.com/@FuzayAuCarre) - Entrepreneurship insights and business stories
 
 ## Podcast
+### 2026
 - 🇫🇷 Underscore_ - [YouTube](https://www.youtube.com/@Underscore_) - Long-form interviews with French tech figures
 
 ## Urbanism
+### 2026
 - Not Just Bikes - [YouTube](https://www.youtube.com/@NotJustBikes) - Urban planning, cycling infrastructure, and why car-dependent cities fail
