@@ -53,20 +53,29 @@ All main sections (`#`) and subsections (`##`, `###`) are in **alphabetical orde
 Year headings are the exception: they are ordered by year, newest first.
 
 #### By Addition Year
-Every entry sits under a heading naming the year it was added, one level below
-the deepest heading that holds entries:
+Every entry sits under the year it was added, one level below the deepest
+heading that holds entries. Only the current year is a heading. Every earlier
+year folds into a collapsed block below it, one per year, newest first, so old
+entries take one line until opened. `markdown="1"` makes Jekyll render the list
+inside; the blank lines do the same on GitHub:
 
 ```markdown
 ## Cyber-security
 ### 2027
 - Newer entry - URL - Description
-### 2026
+
+<details markdown="1">
+<summary>2026</summary>
+
 - Older entry - URL - Description
+
+</details>
 ```
 
-Under `### Algorithm` the year is a `####`, and under a `#` with no subsection
-it is a `##`. Adding an entry in a year that has no heading yet creates it above
-the previous year.
+Under `### Algorithm` the year heading is a `####`, and under a `#` with no
+subsection it is a `##`. A section with no entry from the current year keeps
+only its blocks. When the year turns, the previous year's heading becomes such a
+block.
 
 Within a year, the section's own rule below applies unchanged.
 
@@ -112,7 +121,7 @@ Year headings are **not** listed in it.
 2. Use the standard entry format with a concise description
 3. For new URLs, fetch the webpage to write an accurate description
 4. Place the entry under the current year's heading, creating that heading above
-   the previous year if it does not exist yet
+   the older years' collapsed blocks if it does not exist yet
 5. Within the year, respect alphabetical order and language ordering
 6. If creating a new section, update the Table of Contents with correct anchor
 7. Keep all sections in alphabetical order

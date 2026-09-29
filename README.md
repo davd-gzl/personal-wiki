@@ -90,27 +90,47 @@ Ordered by addition date.
 
 ## Blockchain
 ### Consensus
-#### 2026
+<details markdown="1">
+<summary>2025</summary>
+
 - Reaching Consensus: Developing Fault-tolerant SMTs using Golang - https://gno.land/r/gnoland/blog:p/reaching-consensus
 
+</details>
+
 ### Layer 2
-#### 2026
+<details markdown="1">
+<summary>2025</summary>
+
 - Ethereum layer 2 guide - https://www.risein.com/blog/ultimate-layer-2-guide-from-l1s-to-l2s
+
+</details>
 
 ## Cryptography
 ### Algorithm
 #### Argon2
-##### 2026
+<details markdown="1">
+<summary>2025</summary>
+
 - Password Hashing Competition - https://www.password-hashing.net/
 - White Paper - https://github.com/P-H-C/phc-winner-argon2/blob/master/argon2-specs.pdf
 
+</details>
+
 ### Math
-#### 2026
+<details markdown="1">
+<summary>2025</summary>
+
 - Elliptic Curve Cryptography: a gentle introduction - https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/
 
+</details>
+
 ### Post-Quantum
-#### 2026
+<details markdown="1">
+<summary>2025</summary>
+
 - Signal Protocol and Post-Quantum Ratchets - https://signal.org/blog/spqr/
+
+</details>
 
 ## Cyber-security
 ### AI
@@ -135,8 +155,14 @@ Ordered by addition date.
 ## Programming
 ### Good practice
 #### 2026
-- Linux kernel coding style - https://www.kernel.org/doc/html/v4.10/process/coding-style.html
 - 2025 DORA Report on AI-assisted development - https://cloud.google.com/blog/products/ai-machine-learning/announcing-the-2025-dora-report - Findings on AI adoption (90%), team archetypes, and platform engineering's impact on org health
+
+<details markdown="1">
+<summary>2025</summary>
+
+- Linux kernel coding style - https://www.kernel.org/doc/html/v4.10/process/coding-style.html
+
+</details>
 
 # 🎬 Films
 *Empty*
@@ -145,12 +171,20 @@ Ordered by addition date.
 FOSS I'm using in my daily life.
 
 ## Android
-### 2026
+<details markdown="1">
+<summary>2025</summary>
+
 - GrapheneOS - https://github.com/GrapheneOS - Privacy and security focused mobile OS with Android app compatibility
 
+</details>
+
 ## Cross-platform
-### 2026
+<details markdown="1">
+<summary>2025</summary>
+
 - Obsidian - https://github.com/obsidianmd - Markdown-based knowledge base and note-taking app
+
+</details>
 
 ## Development
 ### 2026
@@ -161,8 +195,12 @@ FOSS I'm using in my daily life.
 *Empty*
 
 ## Self-host
-### 2026
+<details markdown="1">
+<summary>2025</summary>
+
 - Immich - https://github.com/immich-app/immich - High-performance self-hosted photo and video management solution
+
+</details>
 
 # 🎮 Games
 
@@ -173,25 +211,43 @@ FOSS I'm using in my daily life.
 
 # 🐧 Linux Setup
 ## 2026
-- Distro: Arch Linux
 - Dotfiles: https://github.com/davd-gzl/dotfiles - Arch Linux config
 - Keymap: Workman FR - https://github.com/davd-gzl/Workman-fr
+
+<details markdown="1">
+<summary>2025</summary>
+
+- Distro: Arch Linux
+
+</details>
 
 # 🎒 My Gears
 ## Everyday carry (EDC)
 ### 2026
 - Camera (Sony a6700) - https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/ilce6700-b
-- Camera bag (Thule Covert DSLR backpack 32L) - https://www.thule.com/en-us/backpacks/camera-backpacks-bags/thule-covert-dslr-backpack-32l-_-3205344
-- E-Ink reader (Boox palma 2) - https://shop.boox.com/products/palma2
-- Headset (Sony WH-1000XM4) - https://electronics.sony.com/audio/headphones/headband/p/wh1000xm4-b
 - Earbuds (Sony WF-1000XM5) - https://electronics.sony.com/audio/headphones/truly-wireless/p/wf1000xm5-b
 - Bone conduction headphones (Shokz OpenRun Pro 2) - https://shokz.com/products/openrunpro2
 
+<details markdown="1">
+<summary>2025</summary>
+
+- Camera bag (Thule Covert DSLR backpack 32L) - https://www.thule.com/en-us/backpacks/camera-backpacks-bags/thule-covert-dslr-backpack-32l-_-3205344
+- E-Ink reader (Boox palma 2) - https://shop.boox.com/products/palma2
+- Headset (Sony WH-1000XM4) - https://electronics.sony.com/audio/headphones/headband/p/wh1000xm4-b
+
+</details>
+
 ## Tech Gear
 ### 2026
+- Power Bank (Anker 25000mAh, 165W) - https://www.anker.com/products/a1695-anker-power-bank-25000mah-165w
+
+<details markdown="1">
+<summary>2025</summary>
+
 - Laptop (Framework 16) - https://frame.work/laptop16
 - Split Keyboard (Halcyon Corne - splitkb.com) - https://splitkb.com/collections/keyboard-kits/products/halcyon-corne
-- Power Bank (Anker 25000mAh, 165W) - https://www.anker.com/products/a1695-anker-power-bank-25000mah-165w
+
+</details>
 
 # 📹 Videos
 Ordered by preferences.
@@ -205,9 +261,13 @@ Ordered by preferences.
 
 ## Blockchain
 ### Bitcoin implementation
-#### 2026
+<details markdown="1">
+<summary>2025</summary>
+
 - But how does bitcoin actually work? - [YouTube](https://youtu.be/bBC-nXj3Ng4?si=jbSueAZh5pNzhxLh) - 3Blue1Brown
 - 🇫🇷 viens, on recode Bitcoin pour le comprendre - [YouTube](https://youtu.be/U4S-RGNyTJA?si=l4pTR81EWcXqk-Y9) - V2F
+
+</details>
 
 ## Cyber-security / Privacy
 ### 2026
@@ -302,8 +362,12 @@ Ordered by preferences.
 
 ## Programming
 ### Good practice
-#### 2026
+<details markdown="1">
+<summary>2025</summary>
+
 - 🇫🇷 Comment la NASA code sans bug - [YouTube](https://youtu.be/wTZcGN4N334?si=F3-rLuPC2GxYYVO4) - V2F
+
+</details>
 
 ### Operating Systems
 #### 2026
@@ -360,44 +424,74 @@ Ordered by preferences.
 Descriptions are my personal view, visit the channels for the full picture.
 
 ## 📌 Geopolitical / History
-### 2026
+<details markdown="1">
+<summary>2025</summary>
+
 - h0ser - [YouTube](https://www.youtube.com/@h0ser) - Map-based geopolitical deep dives and predictions
 - OverSimplified - [YouTube](https://www.youtube.com/@OverSimplified) - Hilarious animated summaries of major historical events
 - Johnny Harris - [YouTube](https://www.youtube.com/@johnnyharris) - Visual explainers on borders, maps, and global issues
 - fern - [YouTube](https://www.youtube.com/@fern-tv) - In-depth documentaries on countries and conflicts
 - neo - [YouTube](https://www.youtube.com/@neoexplains/videos) - Short explainers on current global events
 
+</details>
+
 ## 📌 Journalist
-### 2026
+<details markdown="1">
+<summary>2025</summary>
+
 - 🇫🇷 Charles Villa - [YouTube](https://www.youtube.com/@CharlesVilla) - Investigative journalist and war correspondent
+
+</details>
 
 ## 📌 Tech popularization
 ### 2026
+- 🇫🇷 EGO - [YouTube](https://www.youtube.com/@ego_one) - Storytelling deep dives on tech, AI, and complex intellectual subjects
+
+<details markdown="1">
+<summary>2025</summary>
+
 - 3Blue1Brown - [YouTube](https://www.youtube.com/@3blue1brown) - Animated math explanations (linear algebra, calculus, neural networks)
 - Low Level - [YouTube](https://www.youtube.com/@LowLevelTV) - Systems programming, Rust, C, and computer internals
-- 🇫🇷 EGO - [YouTube](https://www.youtube.com/@ego_one) - Storytelling deep dives on tech, AI, and complex intellectual subjects
 - 🇫🇷 Micode - [YouTube](https://www.youtube.com/@Micode) - Tech investigations and stories behind famous hacks
 - 🇫🇷 V2F - [YouTube](https://www.youtube.com/@V2F) - Recreating tech from scratch (Bitcoin, compression, AI)
 - 🇫🇷 overfl0w - [YouTube](https://www.youtube.com/@overfl-0-w) - Ethical hacking and security CTF walkthroughs
 
+</details>
+
 ## 📌 Travel / World documentaries
-### 2026
+<details markdown="1">
+<summary>2025</summary>
+
 - Drew Binsky - [YouTube](https://www.youtube.com/@drewbinsky) - World traveler (visited every country), cultural vlogs
 - Ruhi Cenet Documentaries - [YouTube](https://www.youtube.com/@ruhicenetdocs) - Cinematic documentaries on extraordinary lives
 - Little Chinese Everywhere - [YouTube](https://www.youtube.com/@littlechineseeverywhere) - Chinese diaspora stories and cultural exchanges
 
+</details>
+
 ## Engineer popularization
-### 2026
+<details markdown="1">
+<summary>2025</summary>
+
 - Mark Rober - [YouTube](https://www.youtube.com/@MarkRober) - Ex-NASA/Apple engineer with viral science experiments
 - HTX Studio - [YouTube](https://www.youtube.com/@HTXStudio) - Creative engineering builds and challenges
 
+</details>
+
 ## Entrepreneurship
-### 2026
+<details markdown="1">
+<summary>2025</summary>
+
 - 🇫🇷 Fuzay² - [YouTube](https://www.youtube.com/@FuzayAuCarre) - Entrepreneurship insights and business stories
 
+</details>
+
 ## Podcast
-### 2026
+<details markdown="1">
+<summary>2025</summary>
+
 - 🇫🇷 Underscore_ - [YouTube](https://www.youtube.com/@Underscore_) - Long-form interviews with French tech figures
+
+</details>
 
 ## Urbanism
 ### 2026
