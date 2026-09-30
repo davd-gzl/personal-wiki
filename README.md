@@ -206,6 +206,7 @@ FOSS I'm using in my daily life.
 
 ## Geography
 ### 2026
+- Biome Atlas - https://afoviz.com/biomeatlas - Interactive world map of biomes, by Afonso Duarte
 - FoodGuessr - https://www.foodguessr.com/ - Guess countries from dishes
 - OpenGuessr - https://openguessr.com/ - Free open-source GeoGuessr alternative
 
