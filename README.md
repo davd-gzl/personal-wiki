@@ -385,6 +385,7 @@ Ordered by preferences.
 - Octopus vs Underwater Maze - [YouTube](https://www.youtube.com/watch?v=7__r4FVj-EI) - Mark Rober
 - Bed Bugs- What You've Been Told is Totally False - [YouTube](https://www.youtube.com/watch?v=2JAOTJxYqh8) - Mark Rober
 - Testing The World's Smartest Crow - [YouTube](https://www.youtube.com/watch?v=tpg3VvoIVfA) - Mark Rober
+- What Is the Rarest Biome on Earth? - [YouTube](https://www.youtube.com/watch?v=p0NGQCu0Jm4) - Afonso Duarte
 - 🇫🇷 L'actualité est un parasite mental. Faut-il vraiment en consommer ? - [YouTube](https://www.youtube.com/watch?v=HJOpzABZVpo) - DirtyBiology
 - 🇫🇷 La menace existentielle de la vie MIROIR | ЯIOЯIM - [YouTube](https://www.youtube.com/watch?v=iVPNzCHJlQI) - DirtyBiology
 - 🇫🇷 Ce qui nous rend heureux : le résultat de 10.000 études scientifiques - [YouTube](https://www.youtube.com/watch?v=LbJ8V8y4ruk) - DirtyBiology
