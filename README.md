@@ -78,27 +78,27 @@ Ordered by preferences.
 
 ## Decentralization / Web3 / Blockchain
 ### 2026
-- Manfred's blog - https://moul.life/blog/ - Essays on decentralization, blockchain, open-source, governance, and software design
-- Rekt News - https://rekt.news/ - Analysis and investigation of DeFi hacks, exploits, and security incidents in crypto
+- Manfred's blog - <https://moul.life/blog/> - Essays on decentralization, blockchain, open-source, governance, and software design
+- Rekt News - <https://rekt.news/> - Analysis and investigation of DeFi hacks, exploits, and security incidents in crypto
 
 # 📚 Books
 ## Cryptography
 ### 2026
-- "Serious Cryptography, 2nd Edition: A Practical Introduction to Modern Encryption 2nd Edition" by Jean-Philippe Aumasson - https://nostarch.com/serious-cryptography-2nd-edition
+- "Serious Cryptography, 2nd Edition: A Practical Introduction to Modern Encryption 2nd Edition" by Jean-Philippe Aumasson - <https://nostarch.com/serious-cryptography-2nd-edition>
 
 # 📖 Documentations
 Ordered by addition date.
 
 ## AI
 ### 2026
-- Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5 - https://divagr.com/blog/qwenputer - A RISC-V CPU compiled into the weights of Qwen 3.5 4B, running small programs during normal text generation
+- Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5 - <https://divagr.com/blog/qwenputer> - A RISC-V CPU compiled into the weights of Qwen 3.5 4B, running small programs during normal text generation
 
 ## Blockchain
 ### Consensus
 <details markdown="1">
 <summary>2025</summary>
 
-- Reaching Consensus: Developing Fault-tolerant SMTs using Golang - https://gno.land/r/gnoland/blog:p/reaching-consensus
+- Reaching Consensus: Developing Fault-tolerant SMTs using Golang - <https://gno.land/r/gnoland/blog:p/reaching-consensus>
 
 </details>
 
@@ -106,7 +106,7 @@ Ordered by addition date.
 <details markdown="1">
 <summary>2025</summary>
 
-- Ethereum layer 2 guide - https://www.risein.com/blog/ultimate-layer-2-guide-from-l1s-to-l2s
+- Ethereum layer 2 guide - <https://www.risein.com/blog/ultimate-layer-2-guide-from-l1s-to-l2s>
 
 </details>
 
@@ -116,8 +116,8 @@ Ordered by addition date.
 <details markdown="1">
 <summary>2025</summary>
 
-- Password Hashing Competition - https://www.password-hashing.net/
-- White Paper - https://github.com/P-H-C/phc-winner-argon2/blob/master/argon2-specs.pdf
+- Password Hashing Competition - <https://www.password-hashing.net/>
+- White Paper - <https://github.com/P-H-C/phc-winner-argon2/blob/master/argon2-specs.pdf>
 
 </details>
 
@@ -125,7 +125,7 @@ Ordered by addition date.
 <details markdown="1">
 <summary>2025</summary>
 
-- Elliptic Curve Cryptography: a gentle introduction - https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/
+- Elliptic Curve Cryptography: a gentle introduction - <https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/>
 
 </details>
 
@@ -133,39 +133,39 @@ Ordered by addition date.
 <details markdown="1">
 <summary>2025</summary>
 
-- Signal Protocol and Post-Quantum Ratchets - https://signal.org/blog/spqr/
+- Signal Protocol and Post-Quantum Ratchets - <https://signal.org/blog/spqr/>
 
 </details>
 
 ## Cyber-security
 ### AI
 #### 2026
-- Death by a thousand slops - https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/ - curl maintainer on AI-generated fake security reports overwhelming OSS projects
-- On AI Slop vs OSS Security - https://devansh.bearblog.dev/ai-slop/ - Bug bounty industry perspective on AI slop in vulnerability reporting and maintainer burnout
+- Death by a thousand slops - <https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/> - curl maintainer on AI-generated fake security reports overwhelming OSS projects
+- On AI Slop vs OSS Security - <https://devansh.bearblog.dev/ai-slop/> - Bug bounty industry perspective on AI slop in vulnerability reporting and maintainer burnout
 
 ### Hacker culture
 #### 2026
-- Calling All Hackers - https://phrack.org/issues/71/17#article
+- Calling All Hackers - <https://phrack.org/issues/71/17#article>
 
 ## Geography
 ### 2026
-- Geomastr - https://geomastr.com/ - Visual guide to country-specific bollards and road clues for GeoGuessr training
-- OpenGuessr Education Guides - https://education.openguessr.com/guides - Country-specific guides with visual clues and tips for OpenGuessr
-- Geometas - https://geometas.com/ - Interactive quizzes and visual metas for country identification in geography games
-- Plonk It - https://www.plonkit.net/ - Country guides, tips, and map recommendations for GeoGuessr players
-- GeoHints - https://geohints.com/ - Country-specific hints and Street View coverage maps for GeoGuessr training
-- geo.emily.bz - https://geo.emily.bz/ - Interactive geography quizzes and GeoGuessr tools including coverage date explorer and map quizzes
-- GeoGuessr Meta Library - https://docs.google.com/spreadsheets/d/1UNvkoY-LaktF75nU_cP7-wVRAEvH3fSqVZet20HqxXA/edit?gid=1829787855#gid=1829787855 - Community-curated meta library with country-specific clues, road signs, and visual identification tips
+- Geomastr - <https://geomastr.com/> - Visual guide to country-specific bollards and road clues for GeoGuessr training
+- OpenGuessr Education Guides - <https://education.openguessr.com/guides> - Country-specific guides with visual clues and tips for OpenGuessr
+- Geometas - <https://geometas.com/> - Interactive quizzes and visual metas for country identification in geography games
+- Plonk It - <https://www.plonkit.net/> - Country guides, tips, and map recommendations for GeoGuessr players
+- GeoHints - <https://geohints.com/> - Country-specific hints and Street View coverage maps for GeoGuessr training
+- geo.emily.bz - <https://geo.emily.bz/> - Interactive geography quizzes and GeoGuessr tools including coverage date explorer and map quizzes
+- GeoGuessr Meta Library - <https://docs.google.com/spreadsheets/d/1UNvkoY-LaktF75nU_cP7-wVRAEvH3fSqVZet20HqxXA/edit?gid=1829787855#gid=1829787855> - Community-curated meta library with country-specific clues, road signs, and visual identification tips
 
 ## Programming
 ### Good practice
 #### 2026
-- 2025 DORA Report on AI-assisted development - https://cloud.google.com/blog/products/ai-machine-learning/announcing-the-2025-dora-report - Findings on AI adoption (90%), team archetypes, and platform engineering's impact on org health
+- 2025 DORA Report on AI-assisted development - <https://cloud.google.com/blog/products/ai-machine-learning/announcing-the-2025-dora-report> - Findings on AI adoption (90%), team archetypes, and platform engineering's impact on org health
 
 <details markdown="1">
 <summary>2025</summary>
 
-- Linux kernel coding style - https://www.kernel.org/doc/html/v4.10/process/coding-style.html
+- Linux kernel coding style - <https://www.kernel.org/doc/html/v4.10/process/coding-style.html>
 
 </details>
 
@@ -179,25 +179,25 @@ FOSS I'm using in my daily life.
 <details markdown="1">
 <summary>2025</summary>
 
-- GrapheneOS - https://github.com/GrapheneOS - Privacy and security focused mobile OS with Android app compatibility
+- GrapheneOS - <https://github.com/GrapheneOS> - Privacy and security focused mobile OS with Android app compatibility
 
 </details>
 
 ## Cross-platform
 ### 2026
-- MeshCore - https://github.com/meshcore-dev/MeshCore - Lightweight hybrid routing mesh protocol for packet radios
+- MeshCore - <https://github.com/meshcore-dev/MeshCore> - Lightweight hybrid routing mesh protocol for packet radios
 
 <details markdown="1">
 <summary>2025</summary>
 
-- Obsidian - https://github.com/obsidianmd - Markdown-based knowledge base and note-taking app
+- Obsidian - <https://github.com/obsidianmd> - Markdown-based knowledge base and note-taking app
 
 </details>
 
 ## Development
 ### 2026
-- BMAD-METHOD - https://github.com/bmad-code-org/BMAD-METHOD - AI-driven agile development framework with specialized agents and guided workflows
-- Spec Kit - https://github.com/github/spec-kit - GitHub's toolkit for Spec-Driven Development, building software from executable specifications
+- BMAD-METHOD - <https://github.com/bmad-code-org/BMAD-METHOD> - AI-driven agile development framework with specialized agents and guided workflows
+- Spec Kit - <https://github.com/github/spec-kit> - GitHub's toolkit for Spec-Driven Development, building software from executable specifications
 
 ## Linux
 *Empty*
@@ -206,7 +206,7 @@ FOSS I'm using in my daily life.
 <details markdown="1">
 <summary>2025</summary>
 
-- Immich - https://github.com/immich-app/immich - High-performance self-hosted photo and video management solution
+- Immich - <https://github.com/immich-app/immich> - High-performance self-hosted photo and video management solution
 
 </details>
 
@@ -214,14 +214,14 @@ FOSS I'm using in my daily life.
 
 ## Geography
 ### 2026
-- Biome Atlas - https://afoviz.com/biomeatlas - Interactive world map of biomes, by Afonso Duarte
-- FoodGuessr - https://www.foodguessr.com/ - Guess countries from dishes
-- OpenGuessr - https://openguessr.com/ - Free open-source GeoGuessr alternative
+- Biome Atlas - <https://afoviz.com/biomeatlas> - Interactive world map of biomes, by Afonso Duarte
+- FoodGuessr - <https://www.foodguessr.com/> - Guess countries from dishes
+- OpenGuessr - <https://openguessr.com/> - Free open-source GeoGuessr alternative
 
 # 🐧 Linux Setup
 ## 2026
 - Dotfiles: https://github.com/davd-gzl/dotfiles - Arch Linux config
-- Keymap: Workman FR - https://github.com/davd-gzl/Workman-fr
+- Keymap: Workman FR - <https://github.com/davd-gzl/Workman-fr>
 
 <details markdown="1">
 <summary>2025</summary>
@@ -233,28 +233,29 @@ FOSS I'm using in my daily life.
 # 🎒 My Gears
 ## Everyday carry (EDC)
 ### 2026
-- Camera (Sony a6700) - https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/ilce6700-b
-- Earbuds (Sony WF-1000XM5) - https://electronics.sony.com/audio/headphones/truly-wireless/p/wf1000xm5-b
-- Bone conduction headphones (Shokz OpenRun Pro 2) - https://shokz.com/products/openrunpro2
+- Camera (Sony a6700) - <https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/ilce6700-b>
+- Earbuds (Sony WF-1000XM5) - <https://electronics.sony.com/audio/headphones/truly-wireless/p/wf1000xm5-b>
+- Bone conduction headphones (Shokz OpenRun Pro 2) - <https://shokz.com/products/openrunpro2>
+- E-Ink tablet (Boox Go 10.3) - <https://shop.boox.com/products/go103>
 
 <details markdown="1">
 <summary>2025</summary>
 
-- Camera bag (Thule Covert DSLR backpack 32L) - https://www.thule.com/en-us/backpacks/camera-backpacks-bags/thule-covert-dslr-backpack-32l-_-3205344
-- E-Ink reader (Boox palma 2) - https://shop.boox.com/products/palma2
-- Headset (Sony WH-1000XM4) - https://electronics.sony.com/audio/headphones/headband/p/wh1000xm4-b
+- Camera bag (Thule Covert DSLR backpack 32L) - <https://www.thule.com/en-us/backpacks/camera-backpacks-bags/thule-covert-dslr-backpack-32l-_-3205344>
+- E-Ink reader (Boox palma 2) - <https://shop.boox.com/products/palma2>
+- Headset (Sony WH-1000XM4) - <https://electronics.sony.com/audio/headphones/headband/p/wh1000xm4-b>
 
 </details>
 
 ## Tech Gear
 ### 2026
-- Power Bank (Anker 25000mAh, 165W) - https://www.anker.com/products/a1695-anker-power-bank-25000mah-165w
+- Power Bank (Anker 25000mAh, 165W) - <https://www.anker.com/products/a1695-anker-power-bank-25000mah-165w>
 
 <details markdown="1">
 <summary>2025</summary>
 
-- Laptop (Framework 16) - https://frame.work/laptop16
-- Split Keyboard (Halcyon Corne - splitkb.com) - https://splitkb.com/collections/keyboard-kits/products/halcyon-corne
+- Laptop (Framework 16) - <https://frame.work/laptop16>
+- Split Keyboard (Halcyon Corne - splitkb.com) - <https://splitkb.com/collections/keyboard-kits/products/halcyon-corne>
 
 </details>
 
@@ -266,7 +267,7 @@ Ordered by preferences.
 - Bernie vs. Claude - [YouTube](https://www.youtube.com/watch?v=h3AtWdeu_G0) - Senator Bernie Sanders
 - But how do AI images and videos actually work? - [YouTube](https://www.youtube.com/watch?v=iv-5mZ_9CPY) - 3Blue1Brown
 - 🇫🇷 On ne paie plus les développeurs pour écrire du code - [YouTube](https://www.youtube.com/watch?v=AiytemqB_F0) - Underscore_ - What AI actually changes inside a 15-year-old tech company
-- 🇫🇷 The existential horror of the paperclip factory. - [YouTube](https://www.youtube.com/watch?v=ZP7T6WAK3Ow) - EGO
+- 🇫🇷 L'horreur existentielle de l'usine à trombones. - [YouTube](https://www.youtube.com/watch?v=ZP7T6WAK3Ow) - EGO
 - 🇫🇷 DeepSeek choque encore toute l'industrie de l'IA (actu IA) - [YouTube](https://www.youtube.com/watch?v=nqFhLLELd4o) - Eliott Meunier
 
 ## Blockchain
@@ -286,7 +287,7 @@ Ordered by preferences.
 - GrapheneOS Review: Your BEST Secure & Private Mobile OS! - [YouTube](https://www.youtube.com/watch?v=hrDUOtWXGv8) - Techlore
 - Undercover Journalist Unpacks Essential Tools to Escape Detection - [YouTube](https://www.youtube.com/watch?v=7iaAgup85gk) - Proton
 - How Hackers Paralyzed an Entire Country - [YouTube](https://www.youtube.com/watch?v=oB_Gcc9tzPo) - Cybernews
-- 🇫🇷 How to bribe a public official? - [YouTube](https://www.youtube.com/watch?v=mKGFsDbvBsA) - Micode
+- 🇫🇷 Comment corrompre un fonctionnaire ? - [YouTube](https://www.youtube.com/watch?v=mKGFsDbvBsA) - Micode
 - 🇫🇷 Comment un selfie a fait tomber un empire criminel - [YouTube](https://www.youtube.com/watch?v=Vj4474vTtQ8) - Micode
 
 ## Geopolitical / History
