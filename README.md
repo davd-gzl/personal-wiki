@@ -20,6 +20,7 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
 - [📚 Books](#-books)
   - [Cryptography](#cryptography)
 - [📖 Documentations](#-documentations)
+  - [AI](#ai)
   - [Blockchain](#blockchain)
     - [Consensus](#consensus)
     - [Layer 2](#layer-2)
@@ -28,7 +29,7 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
     - [Math](#math)
     - [Post-Quantum](#post-quantum)
   - [Cyber-security](#cyber-security)
-    - [AI](#ai)
+    - [AI](#ai-1)
     - [Hacker culture](#hacker-culture)
   - [Geography](#geography)
   - [Programming](#programming)
@@ -47,7 +48,7 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
   - [Everyday carry (EDC)](#everyday-carry-edc)
   - [Tech Gear](#tech-gear)
 - [📹 Videos](#-videos)
-  - [AI](#ai-1)
+  - [AI](#ai-2)
   - [Blockchain](#blockchain-1)
     - [Bitcoin implementation](#bitcoin-implementation)
   - [Cyber-security / Privacy](#cyber-security--privacy)
@@ -87,6 +88,10 @@ Ordered by preferences.
 
 # 📖 Documentations
 Ordered by addition date.
+
+## AI
+### 2026
+- Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5 - https://divagr.com/blog/qwenputer - A RISC-V CPU compiled into the weights of Qwen 3.5 4B, running small programs during normal text generation
 
 ## Blockchain
 ### Consensus
@@ -279,6 +284,8 @@ Ordered by preferences.
 - How to protect yourself from data leaks (before it's too late) - [YouTube](https://www.youtube.com/watch?v=KkEMzsZG06Q) - overfl0w
 - Becoming Anonymous: The Complete Guide To Maximum Security Online - [YouTube](https://www.youtube.com/watch?v=4Z7H5tXqMGo) - Techlore
 - GrapheneOS Review: Your BEST Secure & Private Mobile OS! - [YouTube](https://www.youtube.com/watch?v=hrDUOtWXGv8) - Techlore
+- Undercover Journalist Unpacks Essential Tools to Escape Detection - [YouTube](https://www.youtube.com/watch?v=7iaAgup85gk) - Proton
+- How Hackers Paralyzed an Entire Country - [YouTube](https://www.youtube.com/watch?v=oB_Gcc9tzPo) - Cybernews
 - 🇫🇷 How to bribe a public official? - [YouTube](https://www.youtube.com/watch?v=mKGFsDbvBsA) - Micode
 - 🇫🇷 Comment un selfie a fait tomber un empire criminel - [YouTube](https://www.youtube.com/watch?v=Vj4474vTtQ8) - Micode
 
@@ -345,6 +352,8 @@ Ordered by preferences.
 - 🇫🇷 Lee Kuan Yew : Le Meilleur Dictateur de l'Histoire - [YouTube](https://www.youtube.com/watch?v=r27u5T97S7I) - Crésus
 - 🇫🇷 Pourquoi la France a colonisé l'Algérie ? - [YouTube](https://www.youtube.com/watch?v=6TWeh1ZhyHU) - Nota Bene
 - 🇫🇷 Pourquoi l'Indonésie est Musulmane ? - [YouTube](https://www.youtube.com/watch?v=ca7YwYbhcx4) - La Minute Géographie
+- 🇫🇷 La Chute du dernier dirigeant de l'URSS : Mikhaïl Gorbatchev - [YouTube](https://www.youtube.com/watch?v=rHX3UTX5iaQ) - La Folle Histoire
+- 🇫🇷 Le PAYS qui a PROVOQUÉ une RÉVOLUTION... sur Discord 💀 - [YouTube](https://www.youtube.com/watch?v=zq5kSZWDngE) - taoqan
 
 ## Journalist
 ### 2026
@@ -352,6 +361,8 @@ Ordered by preferences.
 - 🇫🇷 2 ans en immersion dans l'enfer de Gaza - [YouTube](https://www.youtube.com/watch?v=xYj-XMIjHGo) - Charles Villa & Suhail Nassar
 - 🇫🇷 J'ai passé un mois avec un criminel de guerre - [YouTube](https://www.youtube.com/watch?v=Fu_yUVV5ti0) - Camille Reporter
 - 🇫🇷 Clandestins : les routes les plus dangereuses vers l'Europe - [YouTube](https://www.youtube.com/watch?v=9JggKtbnBCY) - Investigation
+- 🇫🇷 Ma vie Maga - [YouTube](https://www.youtube.com/watch?v=p_qeOiNjXuc) - ARTE Reportage
+- 🇫🇷 Malik Bentalha - L'heure de trop sur TNEWS - [YouTube](https://www.youtube.com/watch?v=eymKly8CoUI) - Malik Bentalha
 
 ## Open Source Interviews
 ### 2026
@@ -361,6 +372,7 @@ Ordered by preferences.
 ## Philosophy / Concept
 ### 2026
 - I Was An MIT Educated Neurosurgeon Now I'm Unemployed And Alone In The Mountains - [YouTube](https://www.youtube.com/watch?v=25LUF8GmbFU) - Goobie and Doobie
+- 🇫🇷 EGO x WWF : Lettre d’amour à l’espoir - [YouTube](https://www.youtube.com/watch?v=WSbeMZlz61k) - EGO x WWF France
 - 🇫🇷 Le Jeu de la Vie. - [YouTube](https://www.youtube.com/watch?v=eMn43As24Bo) - EGO
 - 🇫🇷 Visite banale du musée de l'oubli. - [YouTube](https://www.youtube.com/watch?v=pbCaHj86KLE) - EGO
 - 🇫🇷 1089 pixels pour comprendre que vous n'existez pas. - [YouTube](https://www.youtube.com/watch?v=GnmzcahoJ18) - EGO
@@ -391,15 +403,25 @@ Ordered by preferences.
 - Bed Bugs- What You've Been Told is Totally False - [YouTube](https://www.youtube.com/watch?v=2JAOTJxYqh8) - Mark Rober
 - Testing The World's Smartest Crow - [YouTube](https://www.youtube.com/watch?v=tpg3VvoIVfA) - Mark Rober
 - What Is the Rarest Biome on Earth? - [YouTube](https://www.youtube.com/watch?v=p0NGQCu0Jm4) - Afonso Duarte
+- this is the worlds cheapest SOLAR CAR - [YouTube](https://www.youtube.com/watch?v=Hk6aTKV-des) - Electric Elliot
+- How does an Electric Motor work? (DC Motor) - [YouTube](https://www.youtube.com/watch?v=CWulQ1ZSE3c) - Jared Owen
+- The Insane Engineering of Fiber Optics - [YouTube](https://www.youtube.com/watch?v=NiCgcUTL9_Q) - Veritasium
 - 🇫🇷 L'actualité est un parasite mental. Faut-il vraiment en consommer ? - [YouTube](https://www.youtube.com/watch?v=HJOpzABZVpo) - DirtyBiology
 - 🇫🇷 La menace existentielle de la vie MIROIR | ЯIOЯIM - [YouTube](https://www.youtube.com/watch?v=iVPNzCHJlQI) - DirtyBiology
 - 🇫🇷 Ce qui nous rend heureux : le résultat de 10.000 études scientifiques - [YouTube](https://www.youtube.com/watch?v=LbJ8V8y4ruk) - DirtyBiology
+- 🇫🇷 Serina : Le Grand Simulateur d'Évolution. - [YouTube](https://www.youtube.com/watch?v=m7TUewww3fo) - EGO
 
 ## Tech
 ### 2026
 - The Internet, Reinvented. - [YouTube](https://www.youtube.com/watch?v=XTnYVh7K6xQ) - Data Slayer - Building a decentralized, encrypted mesh network over LoRa and Wi-Fi HaLow using the Reticulum stack — no ISP, no central servers
 - Go isn't secure?!? feat. Low Level Learning - [YouTube](https://www.youtube.com/watch?v=N936XwLmtmo) - Backend Banter
+- Time 2 meet again. - [YouTube](https://www.youtube.com/watch?v=BFJZNTScBrQ) - Citroën
 - 🇫🇷 On a reçu le géographe qui cartographie le net - [YouTube](https://www.youtube.com/watch?v=iI3nE9wBn48) - Underscore_
+- 🇫🇷 Le projet français pour remplacer Microsoft - [YouTube](https://www.youtube.com/watch?v=zZxhcPAlWsE) - Samouraï TV
+- 🇫🇷 Le piège économique de l'open source (Hugging Face) - [YouTube](https://www.youtube.com/watch?v=uNfLzQEmBGo) - Samouraï TV
+- 🇫🇷 Comment des logiciels (nul) ont coûté 1 milliards à l’État Français ? - [YouTube](https://www.youtube.com/watch?v=H3G9_ksAXtE) - Samouraï TV
+- 🇫🇷 Pas d’antenne 5G, pas d’internet : communiquer sous les radars avec les réseaux mesh - [YouTube](https://www.youtube.com/watch?v=UTWrq_nS56A) - ARTE Tracks
+- 🇫🇷 VTECH : La pire voiture de l'histoire, c'est elle ( Yugo GV ) - [YouTube](https://www.youtube.com/watch?v=14UBrynLZhc) - Sylvain Lyve
 
 ## Travel / World documentaries
 ### 2026
@@ -412,8 +434,14 @@ Ordered by preferences.
 - I Visited Every Country in Europe. Here's My Rankings - [YouTube](https://www.youtube.com/watch?v=6PIbdDDtugk) - Drew Binsky
 - Entering the World's Largest City (Chongqing, China) - [YouTube](https://www.youtube.com/watch?v=vNR9QjmhH00) - Drew Binsky
 - $100 Challenge in World's Cheapest Country (Uzbekistan) - [YouTube](https://www.youtube.com/watch?v=H1tOACQUt5g) - Drew Binsky
+- Exploring the Super-Rich Arab Country Nobody Goes To - [YouTube](https://www.youtube.com/watch?v=vllPi10jo6s) - Yes Theory
+- 96 Hours in the World’s Coldest City (-64°C,-84 °F) - [YouTube](https://www.youtube.com/watch?v=8o8EzSwIZ6Q) - Yes Theory
+- Why is this piece of America still owned by France? - [YouTube](https://www.youtube.com/watch?v=W_s81Dn4uEI) - Yes Theory
 - 🇫🇷 100H dans un lac radioactif créé par une bombe nucléaire ! - [YouTube](https://www.youtube.com/watch?v=JDuN5FJCJDw) - CYRILmp4
 - 🇫🇷 2€ dans la ville la MOINS CHÈRE du MONDE ! - [YouTube](https://www.youtube.com/watch?v=Tv_sy_hPNws) - CYRILmp4
+- 🇫🇷 HASHIRIYA – La double vie d’un motard japonais / Documentaire 2025 - [YouTube](https://www.youtube.com/watch?v=OqMTmSEbqqY) - Samouraï TV
+- 🇫🇷 SOY YO - Entre France et Cuba / Documentaire 2025 - [YouTube](https://www.youtube.com/watch?v=fWE2fpZuDEM) - Samouraï TV
+- 🇫🇷 Mañana cuesta más — Une jeunesse argentine face à l'inflation | Documentaire 2026 - [YouTube](https://www.youtube.com/watch?v=PEAR7l8dGEk) - Samouraï TV
 
 ## Urbanism
 ### 2026
@@ -424,6 +452,7 @@ Ordered by preferences.
 - Cities Aren't Loud: Cars Are Loud - [YouTube](https://www.youtube.com/watch?v=CTV-wwszGw8) - Not Just Bikes
 - How Self-Driving Cars will Destroy Cities (and what to do about it) - [YouTube](https://www.youtube.com/watch?v=040ejWnFkj0) - Not Just Bikes
 - More Lanes are (Still) a Bad Thing (Induced Demand) - [YouTube](https://www.youtube.com/watch?v=CHZwOAIect4) - Not Just Bikes
+- 🇫🇷 Le fiasco du plus grand train américain ? - Lucas explique - [YouTube](https://www.youtube.com/watch?v=qZLJeeQ55gc) - Brut
 
 # 📺 Youtube channels
 Ordered by preferences.
