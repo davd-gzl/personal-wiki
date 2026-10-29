@@ -179,6 +179,9 @@ FOSS I'm using in my daily life.
 </details>
 
 ## Cross-platform
+### 2026
+- MeshCore - https://github.com/meshcore-dev/MeshCore - Lightweight hybrid routing mesh protocol for packet radios
+
 <details markdown="1">
 <summary>2025</summary>
 
@@ -259,6 +262,7 @@ Ordered by preferences.
 - But how do AI images and videos actually work? - [YouTube](https://www.youtube.com/watch?v=iv-5mZ_9CPY) - 3Blue1Brown
 - 🇫🇷 On ne paie plus les développeurs pour écrire du code - [YouTube](https://www.youtube.com/watch?v=AiytemqB_F0) - Underscore_ - What AI actually changes inside a 15-year-old tech company
 - 🇫🇷 The existential horror of the paperclip factory. - [YouTube](https://www.youtube.com/watch?v=ZP7T6WAK3Ow) - EGO
+- 🇫🇷 DeepSeek choque encore toute l'industrie de l'IA (actu IA) - [YouTube](https://www.youtube.com/watch?v=nqFhLLELd4o) - Eliott Meunier
 
 ## Blockchain
 ### Bitcoin implementation
