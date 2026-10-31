@@ -92,6 +92,8 @@ Ordered by addition date.
 ## AI
 ### 2026
 - Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5 - <https://divagr.com/blog/qwenputer> - A RISC-V CPU compiled into the weights of Qwen 3.5 4B, running small programs during normal text generation
+- LLMs are making formal software verification feasible at a much larger scale - <https://www.anthropic.com/research/formal-verification> - Anthropic's Frontier Red Team and Theorem on Claude writing machine-checked proofs of security properties for open-source libraries
+- OSS Verify: add-project skill - <https://github.com/theorem-labs/oss-verify/blob/main/.claude/skills/add-project/SKILL.md> - Agent skill for enrolling an open-source project in Theorem's formal verification of fuzz targets
 
 ## Blockchain
 ### Consensus
