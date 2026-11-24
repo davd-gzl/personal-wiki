@@ -409,6 +409,7 @@ Ordered by preferences.
 - this is the worlds cheapest SOLAR CAR - [YouTube](https://www.youtube.com/watch?v=Hk6aTKV-des) - Electric Elliot
 - How does an Electric Motor work? (DC Motor) - [YouTube](https://www.youtube.com/watch?v=CWulQ1ZSE3c) - Jared Owen
 - The Insane Engineering of Fiber Optics - [YouTube](https://www.youtube.com/watch?v=NiCgcUTL9_Q) - Veritasium
+- The Riemann Hypothesis, Explained - [YouTube](https://www.youtube.com/watch?v=zlm1aajH6gY) - Quanta Magazine
 - 🇫🇷 L'actualité est un parasite mental. Faut-il vraiment en consommer ? - [YouTube](https://www.youtube.com/watch?v=HJOpzABZVpo) - DirtyBiology
 - 🇫🇷 La menace existentielle de la vie MIROIR | ЯIOЯIM - [YouTube](https://www.youtube.com/watch?v=iVPNzCHJlQI) - DirtyBiology
 - 🇫🇷 Ce qui nous rend heureux : le résultat de 10.000 études scientifiques - [YouTube](https://www.youtube.com/watch?v=LbJ8V8y4ruk) - DirtyBiology
