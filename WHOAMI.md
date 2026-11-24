@@ -19,10 +19,11 @@ TODO: add what I did in each contribution
 ## Experiences
 
 **Developer Relations Engineer** — Samourai Coop *(March 2025–present)*
-- Contributor to [Gno.land](https://github.com/gnolang/gno): [+70 merged contributions](https://github.com/gnolang/gno/pulls?q=is:pr+author:davd-gzl+is:merged) and nearly 350 code reviews
+- Contributor to [Gno.land](https://github.com/gnolang/gno): [+80 merged contributions](https://github.com/gnolang/gno/pulls?q=is:pr+author:davd-gzl+is:merged) and nearly 390 code reviews
   - Code, +40: virtual machine, network and consensus, security, governance, web explorer, developer tooling
   - Documentation, +25: installation, getting started, editor setup, local development, testing, fees
 - Bug bounty triager on HackenProof for the Gno.land program
+- Fixed 30 vulnerabilities published as [Gno.land security advisories](https://github.com/gnolang/gno/security/advisories) (1 critical, 16 high, 13 medium) and reviewed the fixes for 4 more
 - Gno.land ecosystem: DAO framework, validator onboarding bot, network monitoring, contributor dashboard, on-chain packages, editor language server, transaction indexer, documentation site
 - [peerdev](https://github.com/samouraiworld/peerdev) — P2P & blockchain tutorials YouTube channel
 
