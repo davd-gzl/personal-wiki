@@ -12,7 +12,7 @@ TODO: add what I did in each contribution
 - languages: French (native), English (fluent)
 - stack: Go, Gno, TypeScript, JavaScript, Python, HTML/CSS, Shell, Docker, GitHub Actions, OCaml
 - links:
-  - Email: david.gozlan@epitech.eu
+  - Email: david.gzl@samourai.coop
   - GitHub: [davd-gzl](https://github.com/davd-gzl)
   - LinkedIn: [david-gzl](https://www.linkedin.com/in/david-gzl)
 
